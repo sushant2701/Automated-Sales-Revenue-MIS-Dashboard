@@ -1,0 +1,1332 @@
+Transaction_ID,Date,Customer_Name,Region,Product_Category,Product_Name,Units_Sold,Unit_Price,Revenue,Unit_Cost,Cost,Profit,Profit_Margin
+101448,2025-10-20,Phillip Wall,North,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+100168,2026-03-23,Lauren Anderson,North,Office Supplies,Paper Shredder,4,89.99,359.96,40.5,162.0,197.96,0.5499
+100220,2026-05-04,Zachary Evans,South,Furniture,Dining Table,9,450.0,4050.0,270.0,2430.0,1620.0,0.4
+101523,2025-12-30,Teresa Grant,West,Office Supplies,Notebook,11,4.99,54.89,2.25,24.75,30.14,0.5491
+100344,2026-02-21,Debra Cummings,East,Electronics,Smart Phone,15,699.99,10499.85,503.99,7559.85,2940.0,0.28
+100271,2025-10-20,Trevor Donaldson,South,Office Supplies,Paper Shredder,14,89.99,1259.86,40.5,567.0,692.86,0.5499
+101252,2026-04-08,Wanda Short,South,Electronics,Smart Phone,7,699.99,4899.93,503.99,3527.93,1372.0,0.28
+100650,2025-08-09,Roger Kennedy,West,Furniture,Sofa,8,799.99,6399.92,479.99,3839.92,2560.0,0.4
+100532,2025-10-04,Unknown Customer,South,Furniture,Sofa,8,799.99,6399.92,479.99,3839.92,2560.0,0.4
+101399,2025-06-24,Unknown Customer,East,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+100767,2025-12-25,Carl Turner,North,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+100865,2025-08-10,Derek Mitchell,West,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+100560,2025-09-11,Joe Carpenter,East,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+101502,2026-01-31,Justin Trevino,East,Office Supplies,Gel Pens (Pack of 10),10,12.5,125.0,5.62,56.2,68.8,0.5504
+100203,2026-05-22,Steven Bowen,South,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+100210,2025-07-01,William Nelson,West,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100135,2025-11-20,John Miller,South,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+101113,2026-04-14,Unknown Customer,North,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100070,2025-08-17,Martha Romero,West,Furniture,Office Chair,3,189.99,569.97,113.99,341.97,228.0,0.4
+101173,2026-02-10,Justin Garcia,West,Office Supplies,Gel Pens (Pack of 10),12,12.5,150.0,5.62,67.44,82.56,0.5504
+100471,2026-02-23,Vincent Holland,North,Furniture,Sofa,4,799.99,3199.96,479.99,1919.96,1280.0,0.4
+100987,2026-05-09,Trevor Zavala,East,Electronics,Wireless Headphones,15,149.99,2249.85,107.99,1619.85,630.0,0.28
+101531,2025-08-08,Geoffrey Espinoza,West,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100239,2026-01-14,Ryan Everett,West,Electronics,Smart Phone,15,699.99,10499.85,503.99,7559.85,2940.0,0.28
+100049,2025-11-13,Jeffrey Smith,North,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100802,2026-04-14,Dr. Kevin Miller Jr.,North,Office Supplies,Gel Pens (Pack of 10),13,12.5,162.5,5.62,73.06,89.44,0.5504
+100873,2026-03-04,Nathan Green,West,Office Supplies,Gel Pens (Pack of 10),1,12.5,12.5,5.62,5.62,6.88,0.5504
+100331,2025-08-15,Paul Vaughn,East,Electronics,Laptop,5,1199.99,5999.95,863.99,4319.95,1680.0,0.28
+101055,2026-04-10,Sandra Stone,East,Office Supplies,Mutated Product,11,4.99,54.89,2.25,24.75,30.14,0.5491
+101480,2026-04-19,Shannon Roberts,South,Furniture,Ergonomic Desk,9,299.99,2699.91,179.99,1619.91,1080.0,0.4
+100554,2025-07-28,Renee Singh,East,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+101159,2026-01-22,Lisa Fitzgerald,West,Furniture,Ergonomic Desk,5,299.99,1499.95,179.99,899.95,600.0,0.4
+100023,2025-06-05,Jason Cox,South,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+101124,2026-02-24,Katherine Castro,West,Office Supplies,Paper Shredder,10,89.99,899.9,40.5,405.0,494.9,0.5499
+101449,2025-08-06,Kimberly Bailey,North,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+100185,2026-05-19,Jamie Rowe,West,Office Supplies,Notebook,9,4.99,44.91,2.25,20.25,24.66,0.5491
+100450,2026-05-25,Micheal Lee,South,Electronics,Smart Watch,3,249.99,749.97,179.99,539.97,210.0,0.28
+100451,2025-12-14,Spencer Nelson,North,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+101073,2025-12-01,Elijah Keller,South,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+100923,2025-09-17,Elizabeth Fields,South,Furniture,Sofa,14,799.99,11199.86,479.99,6719.86,4480.0,0.4
+100634,2025-09-28,Joshua Joyce,East,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100963,2026-02-28,Stephanie Thomas,South,Electronics,Wireless Headphones,5,149.99,749.95,107.99,539.95,210.0,0.28
+100598,2026-02-26,Maria Walker,North,Furniture,Sofa,5,799.99,3999.95,479.99,2399.95,1600.0,0.4
+100513,2025-07-25,Hector Williams,West,Electronics,Wireless Headphones,7,149.99,1049.93,107.99,755.93,294.0,0.28
+101569,2026-01-24,Jacob Reid,East,Furniture,Dining Table,7,450.0,3150.0,270.0,1890.0,1260.0,0.4
+100361,2026-01-29,Holly Perez PhD,North,Office Supplies,Notebook,1,4.99,4.99,2.25,2.25,2.74,0.5491
+100030,2025-06-15,Christopher Huffman,East,Electronics,Wireless Headphones,3,149.99,449.97,107.99,323.97,126.0,0.28
+100426,2025-06-20,Chad Scott,West,Electronics,Smart Phone,8,699.99,5599.92,503.99,4031.92,1568.0,0.28
+101415,2025-11-08,Craig Costa,East,Office Supplies,Notebook,1,4.99,4.99,2.25,2.25,2.74,0.5491
+100901,2025-09-19,Stephanie Kirby,West,Electronics,Laptop,3,1199.99,3599.97,863.99,2591.97,1008.0,0.28
+100383,2026-04-04,Jamie Mitchell,West,Furniture,Ergonomic Desk,15,299.99,4499.85,179.99,2699.85,1800.0,0.4
+100029,2025-09-25,Kathleen Harrison,West,Electronics,Smart Phone,11,699.99,7699.89,503.99,5543.89,2156.0,0.28
+100374,2025-07-25,Michele Johnson DVM,South,Electronics,Smart Watch,4,249.99,999.96,179.99,719.96,280.0,0.28
+100874,2025-10-30,Nicole Thornton,North,Electronics,Smart Phone,8,699.99,5599.92,503.99,4031.92,1568.0,0.28
+100518,2025-11-30,Bradley Ortega,South,Furniture,Sofa,8,799.99,6399.92,479.99,3839.92,2560.0,0.4
+100922,2025-09-13,Angela Johnson,East,Furniture,Office Chair,12,189.99,2279.88,113.99,1367.88,912.0,0.4
+100950,2025-12-21,Michelle Smith,North,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+100506,2025-06-07,Jeffrey Stevenson,South,Electronics,Wireless Headphones,6,149.99,899.94,107.99,647.94,252.0,0.28
+100591,2025-12-07,Kimberly Smith,East,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+101177,2025-10-08,Anthony Castro,South,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+101165,2025-11-16,Michael Berry,East,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+100756,2025-08-06,Erin Goodman,West,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+101197,2025-11-18,Unknown Customer,North,Furniture,Office Chair,3,189.99,569.97,113.99,341.97,228.0,0.4
+101172,2025-10-15,Alyssa Garner,East,Office Supplies,Paper Shredder,10,89.99,899.9,40.5,405.0,494.9,0.5499
+100244,2025-12-16,Paul King,East,Furniture,Dining Table,3,450.0,1350.0,270.0,810.0,540.0,0.4
+100759,2025-08-18,Kristina Tyler,North,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+100433,2026-01-25,Suzanne Wright,East,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+100429,2025-11-11,Christopher Pineda,South,Furniture,Office Chair,5,189.99,949.95,113.99,569.95,380.0,0.4
+101229,2025-06-30,Christopher Bailey,East,Office Supplies,Notebook,12,4.99,59.88,2.25,27.0,32.88,0.5491
+100032,2025-11-17,John Barnes,West,Office Supplies,Paper Shredder,11,89.99,989.89,40.5,445.5,544.39,0.5499
+100859,2026-01-05,Dr. Carol Chavez,West,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+100438,2025-11-15,Donna Carrillo,South,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+101392,2025-09-13,Kevin Morales DVM,North,Office Supplies,Gel Pens (Pack of 10),10,12.5,125.0,5.62,56.2,68.8,0.5504
+100810,2025-08-15,Gary Weiss,West,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100889,2025-12-26,Justin Garcia,West,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+101058,2025-10-06,Colleen Weber,South,Electronics,Laptop,15,1199.99,17999.85,863.99,12959.85,5040.0,0.28
+101272,2025-09-27,Kathleen Davis,North,Electronics,Laptop,15,1199.99,17999.85,863.99,12959.85,5040.0,0.28
+101005,2026-04-03,David West,North,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+100940,2026-02-27,Nathan Long,East,Furniture,Ergonomic Desk,5,299.99,1499.95,179.99,899.95,600.0,0.4
+101544,2025-08-23,Marissa Lopez,West,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+100099,2025-11-02,Benjamin Thompson,West,Electronics,Laptop,13,1199.99,15599.87,863.99,11231.87,4368.0,0.28
+101043,2025-08-13,Aaron Miller,North,Furniture,Office Chair,11,189.99,2089.89,113.99,1253.89,836.0,0.4
+100727,2026-01-01,Sydney Adams,West,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+100674,2025-10-11,Mary Munoz,North,Furniture,Sofa,11,799.99,8799.89,479.99,5279.89,3520.0,0.4
+100059,2025-10-14,Erika Rodriguez,North,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+100251,2025-06-01,Austin Bowers,West,Electronics,Smart Watch,8,249.99,1999.92,179.99,1439.92,560.0,0.28
+100069,2025-11-12,Matthew Knight,West,Electronics,Laptop,10,1199.99,11999.9,863.99,8639.9,3360.0,0.28
+101406,2025-08-10,Jessica White,South,Furniture,Ergonomic Desk,7,299.99,2099.93,179.99,1259.93,840.0,0.4
+101548,2025-06-11,Brandon Turner,South,Furniture,Sofa,8,799.99,6399.92,479.99,3839.92,2560.0,0.4
+100115,2025-12-08,Jennifer Moore,South,Office Supplies,Notebook,12,4.99,59.88,2.25,27.0,32.88,0.5491
+101063,2026-04-16,Unknown Customer,West,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+101341,2026-01-12,Robin Nelson,South,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+101285,2026-04-09,Briana Clarke,North,Office Supplies,Notebook,11,4.99,54.89,2.25,24.75,30.14,0.5491
+100173,2025-09-06,Nicholas Casey,South,Office Supplies,Notebook,12,4.99,59.88,2.25,27.0,32.88,0.5491
+101067,2026-04-10,Christine Reed,North,Electronics,Smart Phone,12,699.99,8399.88,503.99,6047.88,2352.0,0.28
+101078,2026-02-07,Donna Winters,South,Electronics,Wireless Headphones,11,149.99,1649.89,107.99,1187.89,462.0,0.28
+100494,2025-08-19,Theresa Delacruz,South,Electronics,Wireless Headphones,11,149.99,1649.89,107.99,1187.89,462.0,0.28
+101052,2025-12-27,Lisa Martinez,West,Furniture,Ergonomic Desk,4,299.99,1199.96,179.99,719.96,480.0,0.4
+100619,2026-04-14,Aaron Brooks,North,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+101534,2025-06-21,Travis Moore,North,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100907,2026-01-29,Jessica Coleman,South,Office Supplies,Notebook,1,4.99,4.99,2.25,2.25,2.74,0.5491
+100300,2026-05-21,Matthew Brown,East,Electronics,Wireless Headphones,7,149.99,1049.93,107.99,755.93,294.0,0.28
+100582,2026-05-05,Heidi Wright,East,Office Supplies,Paper Shredder,7,89.99,629.93,40.5,283.5,346.43,0.5499
+101181,2026-04-10,Christine Kelly,West,Electronics,Smart Watch,13,249.99,3249.87,179.99,2339.87,910.0,0.28
+100745,2026-05-01,Katherine Brown,North,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+101361,2025-12-01,Brenda Hoffman,North,Office Supplies,Gel Pens (Pack of 10),14,12.5,175.0,5.62,78.68,96.32,0.5504
+100669,2025-12-03,Courtney Callahan,South,Office Supplies,Notebook,12,4.99,59.88,2.25,27.0,32.88,0.5491
+100485,2026-04-13,Juan Santiago,East,Electronics,Wireless Headphones,6,149.99,899.94,107.99,647.94,252.0,0.28
+101510,2026-03-10,Joshua Ballard DDS,North,Office Supplies,Paper Shredder,12,89.99,1079.88,40.5,486.0,593.88,0.5499
+100985,2025-12-17,Robert Callahan,North,Furniture,Office Chair,5,189.99,949.95,113.99,569.95,380.0,0.4
+100982,2025-06-26,Robert Malone,North,Furniture,Sofa,7,799.99,5599.93,479.99,3359.93,2240.0,0.4
+101131,2025-10-26,David Larson,South,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+101228,2025-06-16,Isaac Pierce,North,Electronics,Wireless Headphones,3,149.99,449.97,107.99,323.97,126.0,0.28
+100289,2025-07-28,Lindsay Parks,South,Electronics,Smart Phone,14,699.99,9799.86,503.99,7055.86,2744.0,0.28
+100588,2026-03-26,Andrea Hanna,South,Electronics,Wireless Headphones,8,149.99,1199.92,107.99,863.92,336.0,0.28
+100439,2026-04-12,Thomas Smith,West,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100275,2025-11-05,James Rodriguez,North,Furniture,Ergonomic Desk,6,299.99,1799.94,179.99,1079.94,720.0,0.4
+100124,2025-12-06,Stephanie Davis,East,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+101290,2025-08-03,John Zamora,West,Electronics,Wireless Headphones,15,149.99,2249.85,107.99,1619.85,630.0,0.28
+100411,2026-04-29,Kim Adams,West,Office Supplies,Gel Pens (Pack of 10),12,12.5,150.0,5.62,67.44,82.56,0.5504
+100846,2026-05-03,Elizabeth Fowler,South,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+101427,2025-10-11,Megan Hardy,South,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+100259,2025-06-18,Teresa Smith,South,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+100544,2025-09-23,Richard Rivera,East,Electronics,Smart Phone,15,699.99,10499.85,503.99,7559.85,2940.0,0.28
+100415,2026-03-13,Debra Adams,East,Electronics,Smart Phone,3,699.99,2099.97,503.99,1511.97,588.0,0.28
+101423,2025-09-28,Laura Coleman,South,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+100730,2025-06-05,Molly Christensen,North,Office Supplies,File Organizer,9,24.99,224.91,11.25,101.25,123.66,0.5498
+100270,2025-11-02,Jose Bruce,East,Office Supplies,File Organizer,10,24.99,249.9,11.25,112.5,137.4,0.5498
+100482,2026-05-09,Caitlyn Maldonado,South,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100855,2025-06-05,Kevin Flores,East,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100694,2025-07-16,Brandy Myers,South,Furniture,Sofa,5,799.99,3999.95,479.99,2399.95,1600.0,0.4
+100722,2026-05-25,Jill Herring,East,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+100297,2025-12-27,Scott Ellis,South,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100984,2026-01-02,Michael Lewis,South,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100109,2025-10-24,Justin Santiago,West,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+101117,2026-01-24,John Mason,West,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+101460,2025-07-10,Dr. Andrea Perry,West,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+100944,2025-06-02,Patrick Park,West,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+100237,2025-11-01,Emma Jones,North,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+100051,2025-10-02,Jacob Bowers,South,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100786,2025-06-16,Michael Mckinney,North,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+100772,2025-12-04,Kathryn Edwards,West,Electronics,Wireless Headphones,15,149.99,2249.85,107.99,1619.85,630.0,0.28
+100332,2026-01-28,Diane Strickland,East,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+101125,2026-02-01,Joshua Farrell,South,Electronics,Smart Phone,3,699.99,2099.97,503.99,1511.97,588.0,0.28
+101472,2025-07-03,Unknown Customer,South,Electronics,Wireless Headphones,6,149.99,899.94,107.99,647.94,252.0,0.28
+100123,2025-11-30,Mark Munoz,West,Electronics,Wireless Headphones,5,149.99,749.95,107.99,539.95,210.0,0.28
+101182,2026-04-18,Brianna Wallace,East,Electronics,Smart Watch,14,249.99,3499.86,179.99,2519.86,980.0,0.28
+100754,2025-07-04,Michael Taylor,North,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+101304,2025-06-04,Jason Lee,South,Electronics,Smart Phone,3,699.99,2099.97,503.99,1511.97,588.0,0.28
+101493,2025-08-01,Anthony Hopkins,West,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+100700,2026-05-06,Amanda Perry,South,Electronics,Laptop,1,1199.99,1199.99,863.99,863.99,336.0,0.28
+101222,2026-05-13,Mr. Marc Cunningham DDS,West,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+101418,2026-03-15,Sara Townsend,East,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100339,2025-11-05,Jeremy Ramirez,West,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+100261,2025-06-07,Monica Cain,North,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+100247,2025-07-08,Susan Young,West,Furniture,Sofa,10,799.99,7999.9,479.99,4799.9,3200.0,0.4
+100212,2025-07-18,Bryan Park,West,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100067,2026-03-10,Suzanne Hill,West,Electronics,Smart Watch,4,249.99,999.96,179.99,719.96,280.0,0.28
+101587,2025-12-07,Bobby Moore,North,Furniture,Dining Table,9,450.0,4050.0,270.0,2430.0,1620.0,0.4
+101079,2026-05-19,Sharon Glass,East,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100141,2025-12-05,Hayley Ball,West,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+100936,2026-05-19,Deborah Wilcox,West,Electronics,Wireless Headphones,9,149.99,1349.91,107.99,971.91,378.0,0.28
+100943,2026-04-21,Russell Barnes,West,Office Supplies,Paper Shredder,9,89.99,809.91,40.5,364.5,445.41,0.5499
+101416,2026-04-27,Jerry Harmon,East,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+100530,2026-01-26,David Smith,South,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+101174,2026-05-28,Tammy Gray,West,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+100382,2026-04-23,Eric Kim,West,Office Supplies,Paper Shredder,11,89.99,989.89,40.5,445.5,544.39,0.5499
+101347,2026-02-19,Megan Whitney,East,Office Supplies,Paper Shredder,10,89.99,899.9,40.5,405.0,494.9,0.5499
+100829,2026-01-14,Lisa Thompson,South,Electronics,Wireless Headphones,3,149.99,449.97,107.99,323.97,126.0,0.28
+100618,2025-06-29,Ashley Williams,North,Office Supplies,Notebook,5,4.99,24.95,2.25,11.25,13.7,0.5491
+100184,2026-03-28,Ian Brown,East,Electronics,Smart Watch,15,249.99,3749.85,179.99,2699.85,1050.0,0.28
+101287,2025-07-03,Nicole Riley,West,Office Supplies,File Organizer,8,24.99,199.92,11.25,90.0,109.92,0.5498
+100946,2026-04-04,Julia Best,South,Office Supplies,File Organizer,9,24.99,224.91,11.25,101.25,123.66,0.5498
+101453,2025-12-25,Mary Williams,North,Office Supplies,Paper Shredder,14,89.99,1259.86,40.5,567.0,692.86,0.5499
+100453,2026-02-27,Nicole King,East,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+101407,2025-08-10,Darrell Henderson,North,Furniture,Ergonomic Desk,3,299.99,899.97,179.99,539.97,360.0,0.4
+101366,2026-04-17,Robert Wood,West,Furniture,Ergonomic Desk,9,299.99,2699.91,179.99,1619.91,1080.0,0.4
+100420,2025-09-08,Carlos Flores,West,Electronics,Smart Phone,1,699.99,699.99,503.99,503.99,196.0,0.28
+101385,2025-10-05,Angela Allen,East,Electronics,Mutated Product,6,149.99,899.94,107.99,647.94,252.0,0.28
+100366,2025-08-23,Jerry Buck,East,Office Supplies,File Organizer,14,24.99,349.86,11.25,157.5,192.36,0.5498
+100575,2025-08-29,Leah Wise,East,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+100714,2025-12-23,Jennifer Livingston,West,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+100526,2025-11-10,Brandi Myers,East,Furniture,Sofa,6,799.99,4799.94,479.99,2879.94,1920.0,0.4
+101006,2025-10-20,Unknown Customer,West,Furniture,Ergonomic Desk,7,299.99,2099.93,179.99,1259.93,840.0,0.4
+101089,2025-07-23,Kayla Kim,North,Office Supplies,Gel Pens (Pack of 10),12,12.5,150.0,5.62,67.44,82.56,0.5504
+101232,2025-09-29,Barbara Case,South,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+100939,2026-02-11,Abigail Hamilton,West,Electronics,Laptop,11,1199.99,13199.89,863.99,9503.89,3696.0,0.28
+100724,2025-11-19,Kimberly Gomez,East,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+100522,2025-11-07,Derek Richardson,West,Office Supplies,File Organizer,8,24.99,199.92,11.25,90.0,109.92,0.5498
+100405,2026-04-29,Mary Gonzalez,North,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+101037,2025-07-30,Nancy Brown,South,Furniture,Office Chair,15,189.99,2849.85,113.99,1709.85,1140.0,0.4
+100904,2026-01-25,Michele Smith,East,Office Supplies,Paper Shredder,12,89.99,1079.88,40.5,486.0,593.88,0.5499
+100381,2025-07-10,Daniel Mcknight,South,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+100887,2025-10-17,Unknown Customer,South,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+100601,2026-02-03,Robert Love,South,Electronics,Smart Watch,11,249.99,2749.89,179.99,1979.89,770.0,0.28
+100298,2026-04-21,Deborah Mason,North,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+101388,2025-09-16,Victoria Noble,North,Office Supplies,Paper Shredder,12,89.99,1079.88,40.5,486.0,593.88,0.5499
+100414,2025-06-03,Ricky Oconnor,North,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+101040,2026-05-23,Brian Perez,North,Furniture,Dining Table,11,450.0,4950.0,270.0,2970.0,1980.0,0.4
+100857,2026-02-15,Christian Carlson,North,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+100353,2025-10-11,William Woodward,West,Electronics,Wireless Headphones,4,149.99,599.96,107.99,431.96,168.0,0.28
+100170,2025-09-03,Joseph Kaiser,West,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+101132,2025-10-14,John Jones,East,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100566,2026-01-22,Eric Park,East,Office Supplies,File Organizer,14,24.99,349.86,11.25,157.5,192.36,0.5498
+100324,2026-03-04,John Thomas,North,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+100044,2025-11-27,Alexandra James,South,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+100737,2025-12-11,Unknown Customer,North,Furniture,Mutated Product,2,189.99,379.98,113.99,227.98,152.0,0.4
+100966,2025-08-27,Diane Roberts,East,Electronics,Laptop,6,1199.99,7199.94,863.99,5183.94,2016.0,0.28
+101041,2025-10-10,Richard Rice,South,Office Supplies,File Organizer,5,24.99,124.95,11.25,56.25,68.7,0.5498
+100710,2025-06-04,Summer Gray,North,Office Supplies,File Organizer,12,24.99,299.88,11.25,135.0,164.88,0.5498
+100915,2026-03-03,Stephanie Davis,East,Office Supplies,Gel Pens (Pack of 10),12,12.5,150.0,5.62,67.44,82.56,0.5504
+101368,2026-05-14,Matthew King,North,Electronics,Smart Phone,14,699.99,9799.86,503.99,7055.86,2744.0,0.28
+101137,2026-03-02,Unknown Customer,North,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+100175,2025-11-08,Christopher Wise,West,Furniture,Office Chair,10,189.99,1899.9,113.99,1139.9,760.0,0.4
+100614,2025-06-03,Richard Mcconnell,West,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+100529,2025-11-08,Brittany Bishop,South,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+100316,2025-08-20,Todd Cook,East,Office Supplies,Gel Pens (Pack of 10),3,12.5,37.5,5.62,16.86,20.64,0.5504
+100994,2026-03-23,Zachary Salas,East,Furniture,Sofa,4,799.99,3199.96,479.99,1919.96,1280.0,0.4
+100015,2025-07-20,Xavier Moore,North,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+100486,2026-03-25,Hannah Lewis,East,Office Supplies,Gel Pens (Pack of 10),13,12.5,162.5,5.62,73.06,89.44,0.5504
+101420,2025-10-07,Jon Wallace,East,Furniture,Dining Table,9,450.0,4050.0,270.0,2430.0,1620.0,0.4
+100736,2025-08-30,Theresa Blair,South,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+101230,2025-08-15,Elizabeth Reed,North,Office Supplies,File Organizer,5,24.99,124.95,11.25,56.25,68.7,0.5498
+100351,2025-10-19,Paul Fischer,West,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+100706,2026-05-14,Tammy Davis,South,Office Supplies,File Organizer,8,24.99,199.92,11.25,90.0,109.92,0.5498
+100199,2025-08-24,Paige Lee,West,Office Supplies,Gel Pens (Pack of 10),9,12.5,112.5,5.62,50.58,61.92,0.5504
+100628,2026-04-16,Laura Burke,East,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+100744,2025-10-21,Jason Edwards,West,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+100422,2025-12-20,Ryan Bond,North,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+101175,2026-03-28,Joseph Shields,East,Electronics,Laptop,2,1199.99,2399.98,863.99,1727.98,672.0,0.28
+100602,2026-03-18,Jennifer Carter,South,Furniture,Sofa,2,799.99,1599.98,479.99,959.98,640.0,0.4
+101053,2025-08-20,Matthew Griffin,South,Office Supplies,File Organizer,15,24.99,374.85,11.25,168.75,206.1,0.5498
+101084,2026-04-02,Denise Murray,West,Office Supplies,Notebook,5,4.99,24.95,2.25,11.25,13.7,0.5491
+100056,2025-08-16,Amy Simmons,South,Office Supplies,Paper Shredder,2,89.99,179.98,40.5,81.0,98.98,0.5499
+100043,2026-01-19,Lisa Miller,West,Furniture,Ergonomic Desk,13,299.99,3899.87,179.99,2339.87,1560.0,0.4
+100100,2026-05-09,Kathryn Fisher,West,Furniture,Office Chair,7,189.99,1329.93,113.99,797.93,532.0,0.4
+100274,2026-03-13,Randall Benitez,East,Electronics,Wireless Headphones,2,149.99,299.98,107.99,215.98,84.0,0.28
+101543,2026-02-27,Lauren Carter,North,Electronics,Smart Phone,15,699.99,10499.85,503.99,7559.85,2940.0,0.28
+100101,2025-07-29,Angela Wilson,West,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+101593,2025-10-05,Christina Rowland,North,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+100107,2025-07-02,Mario Leblanc,South,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+101105,2025-12-08,Robert Ortiz,East,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+101405,2026-03-20,Marc Smith,West,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+101116,2025-11-06,Kelly Lynch,North,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100629,2025-06-24,Linda Mitchell,South,Office Supplies,Gel Pens (Pack of 10),14,12.5,175.0,5.62,78.68,96.32,0.5504
+101492,2026-05-17,Jessica Fowler,East,Office Supplies,Paper Shredder,4,89.99,359.96,40.5,162.0,197.96,0.5499
+100394,2025-08-15,Unknown Customer,South,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100712,2025-10-06,Connie Edwards,South,Office Supplies,Notebook,5,4.99,24.95,2.25,11.25,13.7,0.5491
+100990,2025-08-05,Kim Flores,South,Furniture,Ergonomic Desk,10,299.99,2999.9,179.99,1799.9,1200.0,0.4
+100483,2025-12-07,Jordan Smith,North,Office Supplies,File Organizer,12,24.99,299.88,11.25,135.0,164.88,0.5498
+100668,2025-10-09,Laura Griffin,West,Office Supplies,Paper Shredder,9,89.99,809.91,40.5,364.5,445.41,0.5499
+100720,2026-05-25,Christopher Parker,South,Electronics,Smart Watch,4,249.99,999.96,179.99,719.96,280.0,0.28
+101265,2025-10-07,Julie Morris,North,Electronics,Wireless Headphones,7,149.99,1049.93,107.99,755.93,294.0,0.28
+100432,2026-05-10,Corey Baker,West,Office Supplies,Notebook,15,4.99,74.85,2.25,33.75,41.1,0.5491
+100893,2025-11-12,Paul Smith,North,Furniture,Sofa,9,799.99,7199.91,479.99,4319.91,2880.0,0.4
+100551,2026-02-27,Eric Floyd,East,Furniture,Dining Table,5,450.0,2250.0,270.0,1350.0,900.0,0.4
+100478,2025-10-30,Lindsey Armstrong,South,Office Supplies,Gel Pens (Pack of 10),13,12.5,162.5,5.62,73.06,89.44,0.5504
+100543,2025-08-08,David Wright,West,Furniture,Dining Table,11,450.0,4950.0,270.0,2970.0,1980.0,0.4
+100462,2026-04-28,Jamie Tucker,South,Electronics,Wireless Headphones,9,149.99,1349.91,107.99,971.91,378.0,0.28
+101034,2026-02-10,Jenna Gardner,South,Furniture,Office Chair,9,189.99,1709.91,113.99,1025.91,684.0,0.4
+100941,2025-10-24,Jasmine Nguyen,West,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100611,2026-05-11,Kathleen Morris,East,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+100798,2026-01-22,Todd Cook,West,Electronics,Laptop,6,1199.99,7199.94,863.99,5183.94,2016.0,0.28
+100590,2026-02-14,Kiara Jenkins,West,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+101375,2026-05-12,Kimberly Clark,West,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+100226,2025-10-16,Adam Alvarado,North,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+101417,2025-07-16,Steven Jones,North,Office Supplies,Gel Pens (Pack of 10),8,12.5,100.0,5.62,44.96,55.04,0.5504
+100538,2025-12-03,Kathy Carson,East,Office Supplies,Notebook,9,4.99,44.91,2.25,20.25,24.66,0.5491
+100163,2025-07-06,Dawn Carlson,West,Furniture,Office Chair,5,189.99,949.95,113.99,569.95,380.0,0.4
+100811,2025-11-02,Joshua Chambers,East,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+100148,2026-02-28,Hannah Padilla,South,Furniture,Ergonomic Desk,11,299.99,3299.89,179.99,1979.89,1320.0,0.4
+100792,2026-01-09,Alexander Allen,North,Furniture,Ergonomic Desk,4,299.99,1199.96,179.99,719.96,480.0,0.4
+101310,2026-05-07,Shelly Cameron,East,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+100306,2026-01-13,Todd Moore,West,Electronics,Wireless Headphones,13,149.99,1949.87,107.99,1403.87,546.0,0.28
+100192,2025-11-11,Maria Lewis,South,Furniture,Sofa,10,799.99,7999.9,479.99,4799.9,3200.0,0.4
+100309,2025-09-03,Brian Castro,South,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+100680,2025-12-15,Laura Lewis,South,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100838,2026-03-04,Cory Lucas,South,Furniture,Office Chair,4,189.99,759.96,113.99,455.96,304.0,0.4
+101357,2026-01-02,Laura White,North,Office Supplies,Mutated Product,14,89.99,1259.86,40.5,567.0,692.86,0.5499
+101553,2026-01-14,Cynthia Miller,West,Furniture,Sofa,3,799.99,2399.97,479.99,1439.97,960.0,0.4
+100707,2026-04-24,Omar Hopkins,East,Furniture,Dining Table,11,450.0,4950.0,270.0,2970.0,1980.0,0.4
+101144,2025-06-13,Kendra Sullivan,West,Office Supplies,Gel Pens (Pack of 10),11,12.5,137.5,5.62,61.82,75.68,0.5504
+101101,2025-07-28,Melissa Lopez,West,Electronics,Laptop,8,1199.99,9599.92,863.99,6911.92,2688.0,0.28
+101581,2026-02-19,Devon Knox,West,Office Supplies,Paper Shredder,10,89.99,899.9,40.5,405.0,494.9,0.5499
+100682,2025-11-15,Jessica Lewis,West,Furniture,Ergonomic Desk,4,299.99,1199.96,179.99,719.96,480.0,0.4
+100218,2025-08-24,Sean Roberts,South,Furniture,Ergonomic Desk,12,299.99,3599.88,179.99,2159.88,1440.0,0.4
+101477,2025-09-22,Mrs. Amanda Thompson,North,Furniture,Dining Table,3,450.0,1350.0,270.0,810.0,540.0,0.4
+100286,2025-07-22,Thomas Nunez,North,Furniture,Dining Table,8,450.0,3600.0,270.0,2160.0,1440.0,0.4
+101047,2026-03-18,Nancy Haynes,West,Electronics,Laptop,13,1199.99,15599.87,863.99,11231.87,4368.0,0.28
+101336,2025-06-20,Alicia Turner,North,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+100552,2026-04-10,Anne Owens,West,Furniture,Ergonomic Desk,7,299.99,2099.93,179.99,1259.93,840.0,0.4
+101118,2025-06-21,Miranda Sharp,North,Furniture,Ergonomic Desk,7,299.99,2099.93,179.99,1259.93,840.0,0.4
+101364,2026-02-03,Jason Griffin,North,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+101277,2026-02-07,Katelyn Ferguson,East,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+101322,2025-08-23,Michael Miller,East,Electronics,Smart Phone,1,699.99,699.99,503.99,503.99,196.0,0.28
+101401,2025-06-08,Patricia Barnes,West,Furniture,Dining Table,7,450.0,3150.0,270.0,1890.0,1260.0,0.4
+101030,2025-11-26,Andrew Norman,East,Office Supplies,Gel Pens (Pack of 10),10,12.5,125.0,5.62,56.2,68.8,0.5504
+100576,2026-03-13,Crystal Cantu,West,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+100514,2026-05-27,Frederick Lee,West,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+101189,2025-11-30,Crystal Moses,North,Electronics,Wireless Headphones,3,149.99,449.97,107.99,323.97,126.0,0.28
+101080,2026-04-21,Gregory Kelly,South,Furniture,Ergonomic Desk,9,299.99,2699.91,179.99,1619.91,1080.0,0.4
+100664,2025-09-12,Tina Harris,West,Furniture,Sofa,2,799.99,1599.98,479.99,959.98,640.0,0.4
+100413,2025-11-06,Tanya Long,East,Office Supplies,File Organizer,5,24.99,124.95,11.25,56.25,68.7,0.5498
+101547,2026-02-16,Erin Gilbert,East,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100925,2025-12-03,Diane Bradley,North,Furniture,Office Chair,10,189.99,1899.9,113.99,1139.9,760.0,0.4
+100942,2025-08-31,Jackson Contreras,East,Electronics,Smart Watch,9,249.99,2249.91,179.99,1619.91,630.0,0.28
+100813,2025-10-19,Kathy Hernandez,West,Office Supplies,File Organizer,15,24.99,374.85,11.25,168.75,206.1,0.5498
+101097,2025-11-18,Amy Beasley,West,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+100277,2025-07-12,Ronald Vargas,South,Furniture,Ergonomic Desk,11,299.99,3299.89,179.99,1979.89,1320.0,0.4
+101530,2026-02-10,Unknown Customer,West,Furniture,Ergonomic Desk,13,299.99,3899.87,179.99,2339.87,1560.0,0.4
+100973,2025-08-11,David Taylor,South,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+100236,2025-07-17,Katherine Ross,South,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+101352,2026-01-12,Unknown Customer,West,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+101466,2026-03-06,Emily Garcia,East,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+100416,2025-08-31,Kelsey Robles,East,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+101221,2026-01-02,Jeremy Hooper,South,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+100208,2026-03-29,Maria Hall,South,Office Supplies,Paper Shredder,14,89.99,1259.86,40.5,567.0,692.86,0.5499
+100997,2026-02-17,Megan Bishop,South,Electronics,Laptop,14,1199.99,16799.86,863.99,12095.86,4704.0,0.28
+100607,2025-08-28,Tammy Walker,West,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+100058,2026-03-10,Unknown Customer,East,Electronics,Laptop,1,1199.99,1199.99,863.99,863.99,336.0,0.28
+101331,2025-08-19,Billy Romero,West,Electronics,Laptop,8,1199.99,9599.92,863.99,6911.92,2688.0,0.28
+100555,2025-06-03,Diamond Rowe,East,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+100892,2025-11-20,Zachary Murphy,West,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+101313,2025-06-15,Tammy Zimmerman,South,Furniture,Dining Table,3,450.0,1350.0,270.0,810.0,540.0,0.4
+100363,2025-10-18,David Owens,West,Office Supplies,File Organizer,3,24.99,74.97,11.25,33.75,41.22,0.5498
+100527,2025-09-12,Nathaniel Rice,South,Furniture,Office Chair,14,189.99,2659.86,113.99,1595.86,1064.0,0.4
+100354,2025-10-22,Shelley Miller,South,Furniture,Dining Table,10,450.0,4500.0,270.0,2700.0,1800.0,0.4
+100879,2026-02-27,Sabrina Kelly,West,Office Supplies,Gel Pens (Pack of 10),15,12.5,187.5,5.62,84.3,103.2,0.5504
+101335,2025-10-05,Shelly Manning,North,Furniture,Sofa,14,799.99,11199.86,479.99,6719.86,4480.0,0.4
+101161,2026-04-12,Joseph Perez,South,Furniture,Ergonomic Desk,7,299.99,2099.93,179.99,1259.93,840.0,0.4
+101383,2026-02-07,Brent Mosley,South,Office Supplies,Notebook,8,4.99,39.92,2.25,18.0,21.92,0.5491
+100292,2025-08-16,Jennifer Mayer,North,Office Supplies,Notebook,1,4.99,4.99,2.25,2.25,2.74,0.5491
+101274,2025-11-24,Keith Mason,North,Furniture,Office Chair,4,189.99,759.96,113.99,455.96,304.0,0.4
+101457,2026-05-11,Unknown Customer,North,Electronics,Smart Phone,11,699.99,7699.89,503.99,5543.89,2156.0,0.28
+101251,2026-02-21,Susan Baker,North,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+100548,2026-01-21,Christine Moore,West,Electronics,Smart Phone,8,699.99,5599.92,503.99,4031.92,1568.0,0.28
+100233,2026-02-22,Michael Maldonado,North,Furniture,Ergonomic Desk,8,299.99,2399.92,179.99,1439.92,960.0,0.4
+100589,2026-02-25,Jennifer Smith,West,Furniture,Sofa,14,799.99,11199.86,479.99,6719.86,4480.0,0.4
+101376,2025-11-07,Paula Brady,North,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+100196,2025-07-25,Laura Walsh,East,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100834,2025-12-09,Hannah White,South,Office Supplies,Notebook,15,4.99,74.85,2.25,33.75,41.1,0.5491
+100493,2025-11-24,James Holmes,West,Electronics,Wireless Headphones,8,149.99,1199.92,107.99,863.92,336.0,0.28
+101594,2026-05-14,April Wilson,South,Office Supplies,Notebook,11,4.99,54.89,2.25,24.75,30.14,0.5491
+100081,2025-12-20,Christopher Wallace,East,Electronics,Wireless Headphones,9,149.99,1349.91,107.99,971.91,378.0,0.28
+100752,2025-08-04,Thomas Klein,North,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+101276,2025-12-21,William Hernandez,South,Furniture,Office Chair,15,189.99,2849.85,113.99,1709.85,1140.0,0.4
+100989,2025-07-18,Miranda Wilson,North,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+100380,2025-07-11,Rachel Ellis,East,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100111,2025-12-03,Terry Moreno,East,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+101473,2026-01-24,Robert Cook,South,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+101398,2026-01-21,Stephen Morrison,West,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+101467,2025-12-29,Unknown Customer,North,Electronics,Smart Watch,4,249.99,999.96,179.99,719.96,280.0,0.28
+101497,2026-04-29,Paula Castaneda,North,Furniture,Mutated Product,10,450.0,4500.0,270.0,2700.0,1800.0,0.4
+100886,2025-10-23,Matthew Wyatt,West,Furniture,Office Chair,4,189.99,759.96,113.99,455.96,304.0,0.4
+101190,2026-02-23,John Rogers,West,Office Supplies,Gel Pens (Pack of 10),8,12.5,100.0,5.62,44.96,55.04,0.5504
+100310,2026-04-13,Jacob Black,South,Office Supplies,File Organizer,9,24.99,224.91,11.25,101.25,123.66,0.5498
+101100,2025-08-01,Kimberly Moore,North,Furniture,Dining Table,5,450.0,2250.0,270.0,1350.0,900.0,0.4
+101211,2025-07-25,Tamara Wilson,South,Electronics,Wireless Headphones,5,149.99,749.95,107.99,539.95,210.0,0.28
+100583,2025-08-15,Daniel Gillespie,East,Office Supplies,File Organizer,8,24.99,199.92,11.25,90.0,109.92,0.5498
+101227,2026-03-07,Unknown Customer,North,Electronics,Wireless Headphones,8,149.99,1199.92,107.99,863.92,336.0,0.28
+101176,2025-08-02,Kimberly Williams,East,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+100890,2026-01-18,Kristi Brown MD,South,Electronics,Mutated Product,7,699.99,4899.93,503.99,3527.93,1372.0,0.28
+101134,2025-09-02,Jeffrey Ball,South,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+101554,2025-06-02,Tina Morgan,East,Office Supplies,File Organizer,5,24.99,124.95,11.25,56.25,68.7,0.5498
+101595,2025-12-11,Matthew Chen,North,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100613,2025-12-26,Unknown Customer,North,Furniture,Office Chair,11,189.99,2089.89,113.99,1253.89,836.0,0.4
+100570,2026-04-02,Benjamin Hughes,West,Office Supplies,Paper Shredder,1,89.99,89.99,40.5,40.5,49.49,0.5499
+101552,2025-08-23,Unknown Customer,East,Furniture,Ergonomic Desk,4,299.99,1199.96,179.99,719.96,480.0,0.4
+101096,2025-11-03,Ann Haley,North,Furniture,Sofa,1,799.99,799.99,479.99,479.99,320.0,0.4
+101278,2026-04-07,Mary Lyons,South,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+100584,2025-09-10,Ryan Hall,East,Furniture,Office Chair,1,189.99,189.99,113.99,113.99,76.0,0.4
+101314,2026-05-03,Michael Davis,East,Office Supplies,Notebook,11,4.99,54.89,2.25,24.75,30.14,0.5491
+100327,2026-04-29,Jessica Johnson,South,Furniture,Office Chair,12,189.99,2279.88,113.99,1367.88,912.0,0.4
+100254,2025-11-17,Patrick Wood,South,Electronics,Laptop,7,1199.99,8399.93,863.99,6047.93,2352.0,0.28
+100757,2025-08-22,Carrie Harris,South,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+100322,2026-01-15,Jonathan Mills,South,Furniture,Ergonomic Desk,8,299.99,2399.92,179.99,1439.92,960.0,0.4
+101206,2026-05-04,Derek Smith,South,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+100816,2026-03-31,Unknown Customer,East,Electronics,Smart Phone,8,699.99,5599.92,503.99,4031.92,1568.0,0.28
+100679,2025-11-14,Nichole Mcbride,West,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100817,2026-03-15,Heather Buchanan,South,Electronics,Smart Phone,12,699.99,8399.88,503.99,6047.88,2352.0,0.28
+101326,2026-02-26,Lindsay Carter,West,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+100949,2026-01-27,Dawn Woods,North,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+101470,2026-05-13,Ryan Garza,South,Electronics,Smart Watch,13,249.99,3249.87,179.99,2339.87,910.0,0.28
+100490,2026-03-24,Luke Carroll,South,Furniture,Ergonomic Desk,8,299.99,2399.92,179.99,1439.92,960.0,0.4
+100086,2025-11-18,Ashley Dorsey,South,Electronics,Laptop,13,1199.99,15599.87,863.99,11231.87,4368.0,0.28
+100898,2026-01-26,Amanda Mayer,East,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+101168,2025-11-05,Lisa Arnold,South,Electronics,Smart Watch,15,249.99,3749.85,179.99,2699.85,1050.0,0.28
+101574,2025-07-13,Robert Lewis,West,Electronics,Laptop,4,1199.99,4799.96,863.99,3455.96,1344.0,0.28
+100365,2026-02-07,Kevin Griffin,South,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+100517,2026-04-01,Connie Lyons,East,Furniture,Mutated Product,4,189.99,759.96,113.99,455.96,304.0,0.4
+100964,2026-01-27,Kristen Liu,South,Furniture,Dining Table,3,450.0,1350.0,270.0,810.0,540.0,0.4
+100287,2026-01-05,Catherine Adams,East,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+100358,2026-02-17,Todd Hood,East,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+101247,2026-04-14,Ashley Harmon,North,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+100979,2025-11-15,Joseph Meyers,South,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100678,2026-05-25,Katie Coleman,East,Electronics,Wireless Headphones,8,149.99,1199.92,107.99,863.92,336.0,0.28
+101549,2025-07-22,Kiara Rodriguez,West,Office Supplies,Paper Shredder,4,89.99,359.96,40.5,162.0,197.96,0.5499
+100899,2025-11-04,David Davis,South,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+100221,2026-04-01,Caleb Gonzalez,South,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+100113,2025-09-30,Madeline Davis,West,Furniture,Ergonomic Desk,13,299.99,3899.87,179.99,2339.87,1560.0,0.4
+101307,2025-10-28,Keith Nixon,East,Office Supplies,File Organizer,3,24.99,74.97,11.25,33.75,41.22,0.5498
+101521,2026-03-27,Joseph Quinn,South,Office Supplies,Paper Shredder,7,89.99,629.93,40.5,283.5,346.43,0.5499
+100711,2026-02-24,Madison Steele,South,Electronics,Laptop,2,1199.99,2399.98,863.99,1727.98,672.0,0.28
+100497,2026-04-05,Nicholas Beck,North,Office Supplies,Notebook,15,4.99,74.85,2.25,33.75,41.1,0.5491
+100174,2026-03-01,Alice Grant,West,Office Supplies,Paper Shredder,5,89.99,449.95,40.5,202.5,247.45,0.5499
+101260,2025-12-26,Bryan Nguyen,North,Office Supplies,Notebook,9,4.99,44.91,2.25,20.25,24.66,0.5491
+100651,2025-06-10,Emily Wilson,East,Office Supplies,Notebook,3,4.99,14.97,2.25,6.75,8.22,0.5491
+100818,2026-05-14,Michele Hunt,South,Office Supplies,File Organizer,7,24.99,174.93,11.25,78.75,96.18,0.5498
+101253,2025-06-27,Theresa Moore,South,Furniture,Dining Table,7,450.0,3150.0,270.0,1890.0,1260.0,0.4
+100018,2025-12-17,Timothy Brown,South,Furniture,Sofa,5,799.99,3999.95,479.99,2399.95,1600.0,0.4
+100285,2026-03-08,Ronald Vaughan,West,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+101318,2025-09-18,Howard Landry,North,Furniture,Ergonomic Desk,3,299.99,899.97,179.99,539.97,360.0,0.4
+100428,2026-01-26,Victoria Bautista,South,Electronics,Smart Phone,9,699.99,6299.91,503.99,4535.91,1764.0,0.28
+100535,2025-11-08,Joshua Perez,East,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+100670,2025-06-07,Andrew Dean,South,Electronics,Smart Phone,11,699.99,7699.89,503.99,5543.89,2156.0,0.28
+100214,2026-01-20,Jordan Williams,East,Electronics,Smart Watch,4,249.99,999.96,179.99,719.96,280.0,0.28
+100937,2025-10-19,Matthew Lee,South,Furniture,Sofa,10,799.99,7999.9,479.99,4799.9,3200.0,0.4
+100326,2025-09-21,Debbie Nichols,West,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+100864,2026-05-01,Anne Black,South,Furniture,Dining Table,8,450.0,3600.0,270.0,2160.0,1440.0,0.4
+100534,2026-05-03,Gary Horn,East,Electronics,Smart Watch,14,249.99,3499.86,179.99,2519.86,980.0,0.28
+100341,2026-04-04,Natalie Bennett,West,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+100147,2026-02-12,Heidi Frye,West,Office Supplies,File Organizer,14,24.99,349.86,11.25,157.5,192.36,0.5498
+100360,2026-03-28,Kimberly Leblanc,North,Office Supplies,File Organizer,7,24.99,174.93,11.25,78.75,96.18,0.5498
+100083,2025-07-30,Shaun Perez,West,Electronics,Laptop,15,1199.99,17999.85,863.99,12959.85,5040.0,0.28
+100048,2026-01-22,Matthew Brown,West,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+100468,2026-05-14,Jackie Benson,North,Furniture,Ergonomic Desk,2,299.99,599.98,179.99,359.98,240.0,0.4
+100155,2025-11-19,Jenna Escobar,South,Furniture,Sofa,11,799.99,8799.89,479.99,5279.89,3520.0,0.4
+101239,2025-12-24,Lisa Russell,North,Electronics,Wireless Headphones,6,149.99,899.94,107.99,647.94,252.0,0.28
+101572,2025-09-18,Peter Harvey,West,Furniture,Dining Table,5,450.0,2250.0,270.0,1350.0,900.0,0.4
+100500,2025-12-30,William Hurst,West,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+100179,2025-12-28,Stephen French,West,Electronics,Smart Phone,9,699.99,6299.91,503.99,4535.91,1764.0,0.28
+101110,2026-04-26,Christopher Aguirre,North,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+100561,2025-06-21,Brooke Jackson,North,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+101293,2025-11-23,Michelle Lam,East,Furniture,Dining Table,10,450.0,4500.0,270.0,2700.0,1800.0,0.4
+100528,2026-03-24,Mr. Steven Silva III,East,Electronics,Wireless Headphones,5,149.99,749.95,107.99,539.95,210.0,0.28
+100346,2026-03-22,Lisa Rivers,West,Furniture,Sofa,7,799.99,5599.93,479.99,3359.93,2240.0,0.4
+101151,2025-10-21,Jacqueline Lam,North,Furniture,Dining Table,8,450.0,3600.0,270.0,2160.0,1440.0,0.4
+101414,2025-06-23,John Spears,North,Office Supplies,Paper Shredder,4,89.99,359.96,40.5,162.0,197.96,0.5499
+100819,2026-03-24,Amanda Evans,West,Electronics,Laptop,5,1199.99,5999.95,863.99,4319.95,1680.0,0.28
+101563,2026-05-19,Keith Richmond,North,Electronics,Smart Phone,4,699.99,2799.96,503.99,2015.96,784.0,0.28
+100243,2026-01-28,Dana Anderson MD,North,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+101223,2025-10-21,Unknown Customer,West,Furniture,Ergonomic Desk,10,299.99,2999.9,179.99,1799.9,1200.0,0.4
+100312,2025-11-12,Unknown Customer,South,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+100435,2025-07-25,William Hunter,South,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+101573,2026-03-20,Scott Johnston,North,Furniture,Dining Table,5,450.0,2250.0,270.0,1350.0,900.0,0.4
+101384,2026-03-12,Stephanie Edwards,North,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100308,2025-11-13,Dawn Ortiz,East,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+100430,2026-05-27,Dawn Prince,West,Furniture,Dining Table,3,450.0,1350.0,270.0,810.0,540.0,0.4
+100370,2025-10-07,Lisa Davis,North,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+100617,2025-06-18,Carol Anderson,East,Furniture,Ergonomic Desk,15,299.99,4499.85,179.99,2699.85,1800.0,0.4
+100845,2025-06-30,Kimberly Weber,East,Electronics,Smart Phone,3,699.99,2099.97,503.99,1511.97,588.0,0.28
+101524,2025-09-24,Jorge Schultz DVM,East,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100296,2025-09-22,Chad Davis,North,Electronics,Wireless Headphones,6,149.99,899.94,107.99,647.94,252.0,0.28
+100643,2025-12-28,Judy Flores,South,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+100461,2026-01-10,Carly Adams,East,Furniture,Office Chair,9,189.99,1709.91,113.99,1025.91,684.0,0.4
+101441,2025-09-24,Jessica Garcia,South,Office Supplies,Notebook,3,4.99,14.97,2.25,6.75,8.22,0.5491
+100377,2025-12-04,Elizabeth Jackson,West,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+101068,2025-06-26,Douglas Richardson,South,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+100126,2025-07-09,Unknown Customer,West,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+100596,2025-09-07,Unknown Customer,South,Office Supplies,Notebook,10,4.99,49.9,2.25,22.5,27.4,0.5491
+100355,2025-08-16,Cole Peterson,East,Furniture,Office Chair,3,189.99,569.97,113.99,341.97,228.0,0.4
+101346,2025-08-16,Samuel Chapman,East,Electronics,Smart Watch,5,249.99,1249.95,179.99,899.95,350.0,0.28
+100209,2026-04-02,Diane Hernandez,North,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+101202,2026-04-10,Lauren Rodriguez,East,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+101311,2025-06-17,Jacob Johnson,South,Furniture,Dining Table,10,450.0,4500.0,270.0,2700.0,1800.0,0.4
+100839,2026-02-21,Brooke Smith,East,Office Supplies,Paper Shredder,7,89.99,629.93,40.5,283.5,346.43,0.5499
+100637,2025-08-16,Carl Rose,West,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+101491,2025-06-15,Megan Ortega,South,Furniture,Ergonomic Desk,12,299.99,3599.88,179.99,2159.88,1440.0,0.4
+100631,2025-12-09,Alexis Torres,North,Office Supplies,File Organizer,12,24.99,299.88,11.25,135.0,164.88,0.5498
+100610,2026-05-27,Jesse Fletcher,West,Office Supplies,Gel Pens (Pack of 10),1,12.5,12.5,5.62,5.62,6.88,0.5504
+100010,2026-04-24,Kyle Williamson,East,Office Supplies,Gel Pens (Pack of 10),3,12.5,37.5,5.62,16.86,20.64,0.5504
+101179,2026-04-06,Unknown Customer,East,Furniture,Ergonomic Desk,15,299.99,4499.85,179.99,2699.85,1800.0,0.4
+100282,2026-04-24,Unknown Customer,West,Furniture,Office Chair,10,189.99,1899.9,113.99,1139.9,760.0,0.4
+100291,2026-03-23,Elizabeth Turner,South,Office Supplies,Gel Pens (Pack of 10),11,12.5,137.5,5.62,61.82,75.68,0.5504
+100986,2025-06-20,Steven Beltran,South,Electronics,Laptop,14,1199.99,16799.86,863.99,12095.86,4704.0,0.28
+100677,2025-12-11,Cynthia Medina,South,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+100129,2026-05-22,Maria Moss,East,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+101226,2025-08-31,Kathryn Bell,South,Electronics,Smart Watch,8,249.99,1999.92,179.99,1439.92,560.0,0.28
+101546,2026-03-10,Sara Wilson,South,Furniture,Office Chair,1,189.99,189.99,113.99,113.99,76.0,0.4
+101149,2025-10-16,Kimberly Johnson,South,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+101090,2026-04-25,Jessica Cook,East,Furniture,Dining Table,9,450.0,4050.0,270.0,2430.0,1620.0,0.4
+100158,2025-06-06,Joshua Thompson,East,Furniture,Ergonomic Desk,12,299.99,3599.88,179.99,2159.88,1440.0,0.4
+101577,2026-01-04,Yvette Campbell,West,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100516,2026-05-13,Kevin Francis,South,Electronics,Smart Phone,3,699.99,2099.97,503.99,1511.97,588.0,0.28
+101185,2026-03-10,Joseph Mcbride,South,Furniture,Office Chair,14,189.99,2659.86,113.99,1595.86,1064.0,0.4
+100597,2026-05-28,Unknown Customer,North,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+101591,2025-11-23,Michael West,West,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100620,2025-09-08,James Kelley,South,Office Supplies,Gel Pens (Pack of 10),11,12.5,137.5,5.62,61.82,75.68,0.5504
+100410,2026-03-27,Brandon Russell,South,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+100096,2025-08-13,Troy Mitchell,West,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+101036,2025-09-18,John Smith,North,Electronics,Smart Watch,3,249.99,749.97,179.99,539.97,210.0,0.28
+100156,2026-04-28,Victoria Shannon,West,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+100419,2026-03-22,Bridget Lynch,South,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+101529,2026-05-16,Michael Robinson,East,Furniture,Sofa,5,799.99,3999.95,479.99,2399.95,1600.0,0.4
+100477,2025-12-01,Julie Keller,West,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+100743,2026-05-31,Joshua Jones,West,Electronics,Smart Phone,14,699.99,9799.86,503.99,7055.86,2744.0,0.28
+100787,2026-02-09,Jessica Hawkins,West,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+101083,2025-11-30,Kurt Erickson,South,Office Supplies,File Organizer,9,24.99,224.91,11.25,101.25,123.66,0.5498
+100447,2025-06-06,Sarah Dunn,East,Furniture,Sofa,9,799.99,7199.91,479.99,4319.91,2880.0,0.4
+100755,2026-02-03,Peter Garcia,South,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+100390,2026-01-15,Donna Wolf,North,Office Supplies,Notebook,4,4.99,19.96,2.25,9.0,10.96,0.5491
+101424,2026-05-16,Mark Smith,South,Furniture,Office Chair,11,189.99,2089.89,113.99,1253.89,836.0,0.4
+100781,2026-01-19,Steven Wilson,West,Office Supplies,Paper Shredder,3,89.99,269.97,40.5,121.5,148.47,0.5499
+101370,2025-07-22,Unknown Customer,East,Office Supplies,Paper Shredder,6,89.99,539.94,40.5,243.0,296.94,0.5499
+101157,2025-07-10,Tyler Hoover,North,Office Supplies,Paper Shredder,6,89.99,539.94,40.5,243.0,296.94,0.5499
+101494,2025-06-26,Erin Johnson,West,Electronics,Laptop,7,1199.99,8399.93,863.99,6047.93,2352.0,0.28
+100701,2026-01-03,Luis Molina,West,Electronics,Wireless Headphones,5,149.99,749.95,107.99,539.95,210.0,0.28
+100774,2026-04-21,Paul Walter,West,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+100142,2026-05-15,Joshua Dalton,South,Office Supplies,Notebook,3,4.99,14.97,2.25,6.75,8.22,0.5491
+101261,2026-03-15,Victor Taylor,South,Office Supplies,Gel Pens (Pack of 10),9,12.5,112.5,5.62,50.58,61.92,0.5504
+100968,2025-06-29,Unknown Customer,South,Furniture,Ergonomic Desk,11,299.99,3299.89,179.99,1979.89,1320.0,0.4
+100914,2025-10-14,Mackenzie Lee,South,Electronics,Smart Watch,6,249.99,1499.94,179.99,1079.94,420.0,0.28
+100636,2026-03-06,Cynthia Pruitt,North,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+101001,2025-10-03,Abigail Mccoy,East,Furniture,Dining Table,11,450.0,4950.0,270.0,2970.0,1980.0,0.4
+101576,2026-01-14,Amber Lewis,North,Office Supplies,Paper Shredder,7,89.99,629.93,40.5,283.5,346.43,0.5499
+100088,2025-08-29,Jessica Adams,North,Furniture,Office Chair,3,189.99,569.97,113.99,341.97,228.0,0.4
+100041,2026-03-07,Marilyn Wilson,West,Office Supplies,Gel Pens (Pack of 10),8,12.5,100.0,5.62,44.96,55.04,0.5504
+100131,2025-12-02,Anthony Kelly,West,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+100782,2025-08-13,Zachary Rios,South,Office Supplies,Notebook,11,4.99,54.89,2.25,24.75,30.14,0.5491
+101479,2025-08-19,Cody Alexander,South,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100910,2025-07-13,Courtney Baker,North,Electronics,Smart Watch,1,249.99,249.99,179.99,179.99,70.0,0.28
+101537,2025-06-22,Michelle Hodge,East,Furniture,Dining Table,10,450.0,4500.0,270.0,2700.0,1800.0,0.4
+100164,2025-12-11,Kimberly Sampson,West,Furniture,Office Chair,11,189.99,2089.89,113.99,1253.89,836.0,0.4
+100290,2026-05-17,Unknown Customer,East,Office Supplies,Gel Pens (Pack of 10),8,12.5,100.0,5.62,44.96,55.04,0.5504
+101571,2025-06-29,Christopher Adams,East,Furniture,Office Chair,9,189.99,1709.91,113.99,1025.91,684.0,0.4
+100809,2026-01-29,Unknown Customer,East,Office Supplies,Notebook,8,4.99,39.92,2.25,18.0,21.92,0.5491
+100348,2025-10-06,Christine Fuentes,East,Furniture,Office Chair,7,189.99,1329.93,113.99,797.93,532.0,0.4
+100571,2026-03-23,Derrick Kelly,East,Furniture,Office Chair,5,189.99,949.95,113.99,569.95,380.0,0.4
+100693,2025-12-24,Teresa Flores,West,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+101564,2026-01-03,David Esparza,South,Office Supplies,File Organizer,14,24.99,349.86,11.25,157.5,192.36,0.5498
+100843,2026-04-08,Veronica Snow,South,Furniture,Office Chair,9,189.99,1709.91,113.99,1025.91,684.0,0.4
+101328,2025-08-11,Victoria Hernandez,South,Furniture,Office Chair,10,189.99,1899.9,113.99,1139.9,760.0,0.4
+101094,2025-09-12,Nicole Williams,West,Office Supplies,Paper Shredder,6,89.99,539.94,40.5,243.0,296.94,0.5499
+101433,2025-09-20,Jordan Clark,North,Office Supplies,Gel Pens (Pack of 10),10,12.5,125.0,5.62,56.2,68.8,0.5504
+100458,2025-07-02,Shannon Park,South,Furniture,Sofa,6,799.99,4799.94,479.99,2879.94,1920.0,0.4
+100375,2025-10-07,Jill Smith,East,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+100333,2026-04-02,Connor Smith,West,Office Supplies,Notebook,4,4.99,19.96,2.25,9.0,10.96,0.5491
+100932,2025-10-06,Laurie Turner,West,Electronics,Smart Phone,9,699.99,6299.91,503.99,4535.91,1764.0,0.28
+101462,2025-12-07,Jill Hunt,North,Office Supplies,File Organizer,14,24.99,349.86,11.25,157.5,192.36,0.5498
+101209,2026-01-31,Jason Mosley,West,Furniture,Ergonomic Desk,3,299.99,899.97,179.99,539.97,360.0,0.4
+100867,2025-07-08,Sheena Schmidt,East,Electronics,Smart Watch,15,249.99,3749.85,179.99,2699.85,1050.0,0.28
+100715,2026-01-27,Kyle Carroll,West,Furniture,Ergonomic Desk,5,299.99,1499.95,179.99,899.95,600.0,0.4
+101323,2025-10-20,Wesley Ramsey,South,Office Supplies,Gel Pens (Pack of 10),1,12.5,12.5,5.62,5.62,6.88,0.5504
+100318,2025-11-24,Amber Tyler,South,Electronics,Smart Watch,15,249.99,3749.85,179.99,2699.85,1050.0,0.28
+101320,2025-11-26,Ryan Petty,West,Office Supplies,Gel Pens (Pack of 10),12,12.5,150.0,5.62,67.44,82.56,0.5504
+101443,2025-07-12,Kristin King,North,Office Supplies,Paper Shredder,10,89.99,899.9,40.5,405.0,494.9,0.5499
+100167,2025-10-04,Melissa Robinson,East,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+100012,2025-10-14,Lacey Christian,East,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100171,2025-10-03,Alison Gomez,South,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+100260,2026-01-09,Antonio Salazar,West,Electronics,Laptop,14,1199.99,16799.86,863.99,12095.86,4704.0,0.28
+100672,2025-12-21,Craig Zimmerman,West,Office Supplies,Paper Shredder,1,89.99,89.99,40.5,40.5,49.49,0.5499
+100258,2026-03-29,Daniel Perez,South,Electronics,Smart Phone,14,699.99,9799.86,503.99,7055.86,2744.0,0.28
+101302,2025-11-20,Sarah Smith,East,Office Supplies,Paper Shredder,12,89.99,1079.88,40.5,486.0,593.88,0.5499
+100138,2025-11-11,Rebecca Becker,West,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+100549,2025-07-01,Julia Peterson,North,Electronics,Wireless Headphones,15,149.99,2249.85,107.99,1619.85,630.0,0.28
+101270,2025-08-11,Susan Morrow,North,Office Supplies,File Organizer,13,24.99,324.87,11.25,146.25,178.62,0.5498
+101343,2025-08-03,Laura Stevens,East,Furniture,Office Chair,1,189.99,189.99,113.99,113.99,76.0,0.4
+101196,2025-11-01,Anthony Wood,North,Furniture,Office Chair,1,189.99,189.99,113.99,113.99,76.0,0.4
+100558,2025-07-07,Kelli Munoz,South,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+100139,2025-11-15,Amy Franco,North,Office Supplies,Paper Shredder,4,89.99,359.96,40.5,162.0,197.96,0.5499
+101445,2025-11-07,Unknown Customer,South,Electronics,Smart Phone,9,699.99,6299.91,503.99,4535.91,1764.0,0.28
+100531,2025-12-28,Terry Campbell,South,Furniture,Office Chair,11,189.99,2089.89,113.99,1253.89,836.0,0.4
+100224,2026-05-15,Darryl Reyes,West,Office Supplies,Notebook,5,4.99,24.95,2.25,11.25,13.7,0.5491
+101345,2026-02-08,Julia Bradley,East,Office Supplies,Gel Pens (Pack of 10),11,12.5,137.5,5.62,61.82,75.68,0.5504
+100409,2026-01-23,Robin Johnston,West,Electronics,Smart Watch,5,249.99,1249.95,179.99,899.95,350.0,0.28
+100325,2026-04-11,John Shields,South,Office Supplies,Gel Pens (Pack of 10),13,12.5,162.5,5.62,73.06,89.44,0.5504
+100842,2025-06-19,Anthony Wright,North,Furniture,Dining Table,11,450.0,4950.0,270.0,2970.0,1980.0,0.4
+100299,2026-03-27,Paul Price,East,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100903,2026-04-21,Christine Wagner,West,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+100820,2026-01-10,Emily Delgado,West,Electronics,Laptop,9,1199.99,10799.91,863.99,7775.91,3024.0,0.28
+101540,2026-02-04,Denise White,East,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+100193,2026-03-09,Laura Mueller,West,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+100440,2026-03-26,Bobby Lang,East,Electronics,Smart Watch,14,249.99,3499.86,179.99,2519.86,980.0,0.28
+100573,2025-12-31,Veronica Solomon,North,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+100503,2026-01-30,Robert Odonnell,East,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+100605,2025-08-11,Carol Gilbert,East,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+100938,2026-01-22,Carol Young,East,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100003,2025-12-11,Patricia Daniels,South,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+100917,2025-11-13,David Stanley,North,Office Supplies,Notebook,11,4.99,54.89,2.25,24.75,30.14,0.5491
+100467,2026-04-09,Christopher Taylor,South,Electronics,Smart Phone,14,699.99,9799.86,503.99,7055.86,2744.0,0.28
+100321,2026-01-06,Kenneth Barnett,South,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+100005,2025-08-23,Stephen Nelson,North,Furniture,Sofa,5,799.99,3999.95,479.99,2399.95,1600.0,0.4
+100222,2025-06-09,Samuel Brown III,West,Office Supplies,Notebook,1,100.0,100.0,45.0,45.0,55.0,0.55
+100547,2025-10-23,Robert Solis,West,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+100921,2025-07-17,Mark Green,South,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+100039,2025-08-10,Tiffany Day,West,Electronics,Laptop,7,1199.99,8399.93,863.99,6047.93,2352.0,0.28
+100542,2026-03-22,Ryan Bishop,West,Electronics,Smart Phone,3,699.99,2099.97,503.99,1511.97,588.0,0.28
+100242,2026-03-06,Unknown Customer,North,Furniture,Ergonomic Desk,15,299.99,4499.85,179.99,2699.85,1800.0,0.4
+100136,2026-02-10,Brian Pruitt,North,Office Supplies,Paper Shredder,11,89.99,989.89,40.5,445.5,544.39,0.5499
+101458,2025-10-01,Michael Kelley,South,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+101114,2026-03-03,Kendra Lee,West,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+100952,2026-05-30,Mr. John Smith,East,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+101259,2025-08-29,Michelle Rosales,West,Electronics,Smart Phone,3,699.99,2099.97,503.99,1511.97,588.0,0.28
+101178,2026-05-04,Rodney Mcdonald,East,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+100926,2026-05-01,Unknown Customer,West,Electronics,Smart Watch,3,249.99,749.97,179.99,539.97,210.0,0.28
+101536,2025-10-31,Christie Green,East,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+100581,2026-02-20,Jacob Garcia,South,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+101465,2025-10-20,Jason Potts,East,Electronics,Laptop,6,1199.99,7199.94,863.99,5183.94,2016.0,0.28
+100661,2025-11-17,Sara Schmidt,South,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+101538,2026-04-23,Darlene Gray,South,Furniture,Ergonomic Desk,14,299.99,4199.86,179.99,2519.86,1680.0,0.4
+100376,2026-04-03,Dean Gardner,West,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+101193,2025-11-21,Jason Roberts,North,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100319,2025-06-28,Peter David,West,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+101440,2025-12-07,Tony Mcdonald,West,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+101220,2025-09-13,Katherine Clark,North,Furniture,Ergonomic Desk,14,299.99,4199.86,179.99,2519.86,1680.0,0.4
+100976,2025-07-09,Jeffery Hayden,West,Office Supplies,Notebook,9,4.99,44.91,2.25,20.25,24.66,0.5491
+101249,2025-08-20,Alan Dixon,North,Electronics,Laptop,2,1199.99,2399.98,863.99,1727.98,672.0,0.28
+100594,2026-01-17,Kimberly Lawrence,South,Office Supplies,File Organizer,3,24.99,74.97,11.25,33.75,41.22,0.5498
+100368,2026-03-01,Unknown Customer,North,Electronics,Laptop,2,1199.99,2399.98,863.99,1727.98,672.0,0.28
+101481,2026-05-20,Scott Green,South,Electronics,Laptop,3,1199.99,3599.97,863.99,2591.97,1008.0,0.28
+101107,2025-06-22,James Morris,South,Furniture,Dining Table,10,450.0,4500.0,270.0,2700.0,1800.0,0.4
+101344,2026-05-29,Unknown Customer,West,Electronics,Wireless Headphones,13,149.99,1949.87,107.99,1403.87,546.0,0.28
+100764,2026-01-25,Natalie Johnson,East,Electronics,Smart Phone,3,699.99,2099.97,503.99,1511.97,588.0,0.28
+100227,2026-03-18,Ashley Rodriguez,North,Electronics,Wireless Headphones,3,149.99,449.97,107.99,323.97,126.0,0.28
+100998,2026-02-28,Jason Christensen,South,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100841,2026-04-09,Christine Cox,West,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+100066,2025-09-24,Brian Garcia,West,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+100579,2026-01-29,Susan Higgins,South,Furniture,Ergonomic Desk,9,299.99,2699.91,179.99,1619.91,1080.0,0.4
+100024,2025-09-13,Rebecca Garcia,East,Office Supplies,Paper Shredder,9,89.99,809.91,40.5,364.5,445.41,0.5499
+100211,2025-12-30,Kristen Thomas,East,Furniture,Sofa,2,799.99,1599.98,479.99,959.98,640.0,0.4
+101299,2025-11-29,Kyle Cochran,North,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+100962,2026-04-26,Brian Morris,West,Electronics,Smart Watch,1,249.99,249.99,179.99,179.99,70.0,0.28
+100536,2026-02-07,Monica Sanchez,South,Office Supplies,Paper Shredder,12,89.99,1079.88,40.5,486.0,593.88,0.5499
+101004,2025-10-09,Haley Jones,South,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+100085,2026-03-06,Kenneth Baker,South,Office Supplies,Paper Shredder,1,89.99,89.99,40.5,40.5,49.49,0.5499
+101545,2026-02-03,Yvonne Brown,West,Furniture,Office Chair,9,189.99,1709.91,113.99,1025.91,684.0,0.4
+100965,2025-11-05,Shannon Torres,South,Office Supplies,Paper Shredder,6,89.99,539.94,40.5,243.0,296.94,0.5499
+100806,2026-02-28,Erin Hendrix,East,Electronics,Wireless Headphones,4,149.99,599.96,107.99,431.96,168.0,0.28
+100630,2025-09-16,Debra Harris,East,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+101305,2025-07-30,Anthony Hardy,West,Furniture,Ergonomic Desk,2,299.99,599.98,179.99,359.98,240.0,0.4
+101551,2025-12-22,Devin Mooney,South,Office Supplies,File Organizer,13,24.99,324.87,11.25,146.25,178.62,0.5498
+101138,2025-10-20,Thomas Moss,South,Furniture,Sofa,4,799.99,3199.96,479.99,1919.96,1280.0,0.4
+100505,2025-07-19,Karen Gibson,East,Office Supplies,Gel Pens (Pack of 10),9,12.5,112.5,5.62,50.58,61.92,0.5504
+100273,2026-03-20,Jesus Jones,East,Electronics,Wireless Headphones,12,149.99,1799.88,107.99,1295.88,504.0,0.28
+100228,2026-01-28,Stephanie Reynolds,West,Furniture,Mutated Product,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+100362,2025-10-05,Unknown Customer,East,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+101342,2025-10-15,Unknown Customer,North,Furniture,Sofa,7,799.99,5599.93,479.99,3359.93,2240.0,0.4
+100622,2026-05-14,Martha Ross,South,Electronics,Smart Phone,4,699.99,2799.96,503.99,2015.96,784.0,0.28
+100002,2025-10-21,Meghan Ross,North,Electronics,Laptop,13,1199.99,15599.87,863.99,11231.87,4368.0,0.28
+100006,2025-10-16,Jeffrey Mcclain,West,Electronics,Laptop,15,1199.99,17999.85,863.99,12959.85,5040.0,0.28
+101334,2026-04-24,Brian Davis,East,Furniture,Ergonomic Desk,7,299.99,2099.93,179.99,1259.93,840.0,0.4
+100808,2025-11-18,Marissa Wade,South,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+100665,2025-06-11,Gregory Villarreal,South,Furniture,Sofa,14,799.99,11199.86,479.99,6719.86,4480.0,0.4
+100215,2026-05-07,Dana Smith,North,Office Supplies,Gel Pens (Pack of 10),1,12.5,12.5,5.62,5.62,6.88,0.5504
+100836,2025-12-02,Richard Lewis,South,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100027,2026-03-14,Justin Shaw,North,Furniture,Dining Table,15,450.0,6750.0,270.0,4050.0,2700.0,0.4
+101191,2025-09-17,April Johnson,South,Electronics,Laptop,10,1199.99,11999.9,863.99,8639.9,3360.0,0.28
+101520,2026-03-05,Shelley Reid,South,Electronics,Smart Watch,3,249.99,749.97,179.99,539.97,210.0,0.28
+101022,2026-03-19,Pamela Cooley,West,Furniture,Office Chair,12,189.99,2279.88,113.99,1367.88,912.0,0.4
+100718,2025-12-17,Unknown Customer,North,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+101018,2026-03-22,Dr. Jennifer Woodard,South,Furniture,Ergonomic Desk,12,299.99,3599.88,179.99,2159.88,1440.0,0.4
+100624,2026-01-19,Francisco Clark,West,Electronics,Smart Watch,4,249.99,999.96,179.99,719.96,280.0,0.28
+100007,2026-03-03,Daniel Nixon,North,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+100256,2025-07-12,William Zhang,West,Furniture,Office Chair,5,189.99,949.95,113.99,569.95,380.0,0.4
+100803,2025-10-02,Ashley Jones,North,Electronics,Smart Watch,3,249.99,749.97,179.99,539.97,210.0,0.28
+100025,2025-10-13,Philip Stone,South,Electronics,Smart Watch,9,249.99,2249.91,179.99,1619.91,630.0,0.28
+100572,2025-09-07,Sara Beltran,West,Furniture,Ergonomic Desk,8,299.99,2399.92,179.99,1439.92,960.0,0.4
+100047,2026-03-17,Michael Anderson,West,Electronics,Wireless Headphones,9,149.99,1349.91,107.99,971.91,378.0,0.28
+100106,2026-04-01,Unknown Customer,South,Office Supplies,File Organizer,8,24.99,199.92,11.25,90.0,109.92,0.5498
+100349,2026-05-16,Roberto Dougherty,South,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+100055,2026-02-01,Mary Hammond,West,Furniture,Ergonomic Desk,3,299.99,899.97,179.99,539.97,360.0,0.4
+100120,2026-03-06,Jessica Flynn,East,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+101049,2026-04-23,Unknown Customer,South,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+100072,2026-02-05,Joshua Pruitt,West,Office Supplies,Notebook,10,4.99,49.9,2.25,22.5,27.4,0.5491
+100812,2025-12-28,Nicole Jones,North,Electronics,Laptop,6,1199.99,7199.94,863.99,5183.94,2016.0,0.28
+101435,2025-10-25,Michael Jones,South,Electronics,Smart Watch,9,249.99,2249.91,179.99,1619.91,630.0,0.28
+101519,2025-07-23,David Bowen,South,Furniture,Sofa,6,799.99,4799.94,479.99,2879.94,1920.0,0.4
+100881,2025-08-05,Taylor Edwards,West,Furniture,Sofa,10,799.99,7999.9,479.99,4799.9,3200.0,0.4
+100045,2025-09-20,Nancy Luna,South,Furniture,Ergonomic Desk,13,299.99,3899.87,179.99,2339.87,1560.0,0.4
+100523,2025-12-18,Corey Lee,North,Furniture,Sofa,10,799.99,7999.9,479.99,4799.9,3200.0,0.4
+100232,2025-11-05,Michele Hamilton,East,Electronics,Laptop,9,1199.99,10799.91,863.99,7775.91,3024.0,0.28
+101468,2025-08-25,Donna Porter,South,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+101217,2026-05-03,Frank Atkinson,North,Office Supplies,Notebook,15,4.99,74.85,2.25,33.75,41.1,0.5491
+100978,2026-01-08,Unknown Customer,South,Electronics,Smart Watch,10,249.99,2499.9,179.99,1799.9,700.0,0.28
+101317,2026-03-26,Ashley Mcgee,West,Furniture,Office Chair,3,189.99,569.97,113.99,341.97,228.0,0.4
+101476,2026-05-21,Katherine Dalton,West,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100603,2026-03-12,Rhonda Day,North,Furniture,Office Chair,1,189.99,189.99,113.99,113.99,76.0,0.4
+100465,2025-11-20,Robert Thomas,South,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+101245,2026-03-10,Matthew Waters,East,Office Supplies,Notebook,1,4.99,4.99,2.25,2.25,2.74,0.5491
+100788,2025-08-24,Amy Watson,West,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+101450,2026-01-12,Rebecca Turner,North,Furniture,Sofa,6,799.99,4799.94,479.99,2879.94,1920.0,0.4
+101167,2026-04-16,Erin Manning,West,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+100060,2026-03-19,Victoria Rivera,West,Furniture,Sofa,2,799.99,1599.98,479.99,959.98,640.0,0.4
+101348,2026-05-05,Lisa Ponce,North,Electronics,Smart Phone,4,699.99,2799.96,503.99,2015.96,784.0,0.28
+100092,2025-08-18,Donna Calhoun,South,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+100861,2026-05-03,Zachary Morgan MD,West,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+100194,2025-10-08,Samuel Murphy,West,Office Supplies,Gel Pens (Pack of 10),12,12.5,150.0,5.62,67.44,82.56,0.5504
+100280,2025-06-24,George Johnson,East,Furniture,Ergonomic Desk,8,299.99,2399.92,179.99,1439.92,960.0,0.4
+100695,2025-10-19,Stephanie Schultz,South,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+100359,2025-07-07,Janet Lopez,East,Electronics,Laptop,6,1199.99,7199.94,863.99,5183.94,2016.0,0.28
+101000,2025-07-09,Madeline Roberts,South,Furniture,Ergonomic Desk,4,299.99,1199.96,179.99,719.96,480.0,0.4
+101088,2025-06-18,Manuel Taylor,South,Office Supplies,Paper Shredder,6,89.99,539.94,40.5,243.0,296.94,0.5499
+100847,2026-03-10,David Moore,West,Furniture,Dining Table,9,450.0,4050.0,270.0,2430.0,1620.0,0.4
+100182,2025-06-05,Alexa Rodriguez,North,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+101133,2026-03-11,Brent Gutierrez,South,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+101373,2025-11-05,Zoe Cole,East,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+100110,2026-03-14,Samuel Delgado,North,Furniture,Ergonomic Desk,14,299.99,4199.86,179.99,2519.86,1680.0,0.4
+101023,2025-09-28,Geoffrey Paul,North,Office Supplies,File Organizer,3,24.99,74.97,11.25,33.75,41.22,0.5498
+100042,2026-04-15,Antonio Williams,West,Office Supplies,Notebook,15,4.99,74.85,2.25,33.75,41.1,0.5491
+100746,2026-05-22,Timothy White,West,Office Supplies,Gel Pens (Pack of 10),12,12.5,150.0,5.62,67.44,82.56,0.5504
+100125,2025-11-04,Marc Larson,West,Furniture,Sofa,3,799.99,2399.97,479.99,1439.97,960.0,0.4
+101010,2025-12-29,Dennis Rodriguez,East,Electronics,Smart Watch,14,249.99,3499.86,179.99,2519.86,980.0,0.28
+100052,2026-02-27,Brittney Peterson,South,Furniture,Sofa,12,799.99,9599.88,479.99,5759.88,3840.0,0.4
+101514,2025-06-06,Amy Callahan,West,Electronics,Smart Phone,4,699.99,2799.96,503.99,2015.96,784.0,0.28
+100545,2026-01-06,Jeanette Duarte,West,Office Supplies,Paper Shredder,3,89.99,269.97,40.5,121.5,148.47,0.5499
+100068,2025-06-02,Marc Davis,East,Furniture,Ergonomic Desk,14,299.99,4199.86,179.99,2519.86,1680.0,0.4
+100507,2026-05-20,Amy Young,East,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+100329,2026-01-12,Jacob Jackson,North,Electronics,Laptop,2,1199.99,2399.98,863.99,1727.98,672.0,0.28
+101301,2026-01-06,Megan Sellers,East,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100137,2026-01-24,Steven Gordon,West,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100796,2025-06-06,Robert Garcia,East,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+100132,2025-07-08,Michael Sanchez,South,Electronics,Wireless Headphones,11,149.99,1649.89,107.99,1187.89,462.0,0.28
+100080,2025-10-30,Christopher Ewing,West,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+101339,2025-10-20,Unknown Customer,South,Furniture,Ergonomic Desk,4,299.99,1199.96,179.99,719.96,480.0,0.4
+100105,2025-11-03,Jonathan Cameron,North,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100541,2026-03-08,Alejandro Rowe,South,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+100905,2026-01-13,Laura Cook,North,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+100165,2025-06-02,Mark Lee,East,Electronics,Wireless Headphones,8,149.99,1199.92,107.99,863.92,336.0,0.28
+100248,2026-05-22,Andrea Gomez,South,Office Supplies,Paper Shredder,4,89.99,359.96,40.5,162.0,197.96,0.5499
+100446,2025-07-16,Joy Peterson,East,Electronics,Smart Watch,11,249.99,2749.89,179.99,1979.89,770.0,0.28
+100916,2026-01-26,Elizabeth Lowe,East,Furniture,Office Chair,15,189.99,2849.85,113.99,1709.85,1140.0,0.4
+100858,2025-06-23,Dr. Kelly Fisher,East,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100334,2026-04-11,Rebekah Barrett,North,Office Supplies,Notebook,15,4.99,74.85,2.25,33.75,41.1,0.5491
+101007,2026-05-07,Amy Duncan,West,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+101234,2026-04-22,Emily Campbell,North,Office Supplies,Gel Pens (Pack of 10),3,12.5,37.5,5.62,16.86,20.64,0.5504
+101050,2025-09-25,Kayla Fletcher,West,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+100421,2026-04-23,Robert Duran,East,Electronics,Smart Phone,11,699.99,7699.89,503.99,5543.89,2156.0,0.28
+100102,2026-02-24,Lee Clayton,North,Electronics,Smart Watch,14,249.99,3499.86,179.99,2519.86,980.0,0.28
+100434,2025-06-16,Taylor Rose,South,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+100074,2025-09-01,Kathy Smith,South,Electronics,Laptop,2,1199.99,2399.98,863.99,1727.98,672.0,0.28
+101486,2025-11-11,Alexandra Sanchez,East,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+101507,2025-09-20,Courtney Sanchez,North,Electronics,Wireless Headphones,12,149.99,1799.88,107.99,1295.88,504.0,0.28
+100918,2026-03-07,Robert Castro,South,Electronics,Smart Phone,8,699.99,5599.92,503.99,4031.92,1568.0,0.28
+100302,2025-07-30,Gregory Wright,East,Furniture,Sofa,10,799.99,7999.9,479.99,4799.9,3200.0,0.4
+101393,2025-12-18,James Donovan,South,Electronics,Laptop,3,1199.99,3599.97,863.99,2591.97,1008.0,0.28
+101350,2026-04-01,Robert Sandoval,East,Office Supplies,File Organizer,15,24.99,374.85,11.25,168.75,206.1,0.5498
+100824,2026-02-09,Angela Martin,North,Electronics,Laptop,15,1199.99,17999.85,863.99,12959.85,5040.0,0.28
+100762,2025-12-09,Unknown Customer,North,Electronics,Smart Watch,9,249.99,2249.91,179.99,1619.91,630.0,0.28
+100235,2026-03-27,Travis Chan,South,Electronics,Laptop,2,1199.99,2399.98,863.99,1727.98,672.0,0.28
+101374,2025-08-06,Chelsea Byrd,East,Office Supplies,Gel Pens (Pack of 10),13,12.5,162.5,5.62,73.06,89.44,0.5504
+100267,2026-01-15,Aaron Green,North,Electronics,Smart Watch,10,249.99,2499.9,179.99,1799.9,700.0,0.28
+100305,2025-10-26,Felicia Pope,North,Office Supplies,Notebook,15,4.99,74.85,2.25,33.75,41.1,0.5491
+101106,2026-02-09,Laura Bishop,West,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+101046,2026-03-01,Kristina Mann,West,Electronics,Laptop,12,1199.99,14399.88,863.99,10367.88,4032.0,0.28
+101338,2025-09-09,Ashley Wilson,North,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+100673,2025-12-09,Jaime West,South,Electronics,Laptop,4,1199.99,4799.96,863.99,3455.96,1344.0,0.28
+100249,2025-12-18,Christian Gonzalez,West,Office Supplies,Notebook,3,4.99,14.97,2.25,6.75,8.22,0.5491
+101188,2025-10-17,Melissa Jefferson,North,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+100071,2025-08-19,Kelly Walsh,West,Electronics,Smart Watch,13,249.99,3249.87,179.99,2339.87,910.0,0.28
+100094,2025-09-17,Mrs. Brittany Montgomery,South,Electronics,Smart Watch,4,249.99,999.96,179.99,719.96,280.0,0.28
+100033,2026-05-07,Timothy Morris,East,Furniture,Dining Table,10,450.0,4500.0,270.0,2700.0,1800.0,0.4
+100799,2026-01-31,Karen Ortega,North,Office Supplies,File Organizer,5,24.99,124.95,11.25,56.25,68.7,0.5498
+101212,2025-06-11,Lauren Stanley,West,Furniture,Sofa,10,799.99,7999.9,479.99,4799.9,3200.0,0.4
+101391,2026-05-15,Timothy Yang,West,Electronics,Wireless Headphones,7,149.99,1049.93,107.99,755.93,294.0,0.28
+100448,2025-11-03,Kimberly Peterson,North,Office Supplies,Paper Shredder,1,89.99,89.99,40.5,40.5,49.49,0.5499
+100445,2025-12-06,Eileen Long,East,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+100771,2025-06-19,Walter Davies,South,Electronics,Laptop,7,1199.99,8399.93,863.99,6047.93,2352.0,0.28
+100716,2025-12-01,Kenneth Parker,South,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+101057,2025-07-22,Nathaniel Casey,West,Office Supplies,Gel Pens (Pack of 10),15,12.5,187.5,5.62,84.3,103.2,0.5504
+101262,2025-10-24,Dawn Black,East,Electronics,Wireless Headphones,7,149.99,1049.93,107.99,755.93,294.0,0.28
+100000,2026-04-24,John Hernandez,North,Electronics,Smart Phone,12,699.99,8399.88,503.99,6047.88,2352.0,0.28
+101362,2025-10-09,Kevin Harris,East,Furniture,Office Chair,7,189.99,1329.93,113.99,797.93,532.0,0.4
+100077,2025-06-26,Amanda Galloway,South,Office Supplies,File Organizer,14,24.99,349.86,11.25,157.5,192.36,0.5498
+100084,2026-05-02,Christopher Gutierrez,South,Electronics,Smart Watch,10,249.99,2499.9,179.99,1799.9,700.0,0.28
+100144,2026-04-12,Kathleen Munoz,North,Office Supplies,Paper Shredder,10,89.99,899.9,40.5,405.0,494.9,0.5499
+100082,2026-03-15,John Stark,South,Furniture,Dining Table,11,450.0,4950.0,270.0,2970.0,1980.0,0.4
+100457,2026-01-26,Anthony Stanley,East,Office Supplies,Notebook,11,4.99,54.89,2.25,24.75,30.14,0.5491
+101246,2026-04-02,Ronald Wright,North,Office Supplies,Notebook,4,4.99,19.96,2.25,9.0,10.96,0.5491
+100676,2026-02-22,Matthew Anderson,East,Furniture,Sofa,8,799.99,6399.92,479.99,3839.92,2560.0,0.4
+101598,2026-02-16,Charles Faulkner,East,Electronics,Wireless Headphones,11,149.99,1649.89,107.99,1187.89,462.0,0.28
+101359,2025-08-04,Jerry Ford,South,Electronics,Laptop,5,1199.99,5999.95,863.99,4319.95,1680.0,0.28
+100436,2026-05-22,Dr. Jason Walls,North,Office Supplies,File Organizer,13,24.99,324.87,11.25,146.25,178.62,0.5498
+100770,2026-02-11,Unknown Customer,South,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+100869,2025-09-02,Joshua Brown,West,Office Supplies,Notebook,3,4.99,14.97,2.25,6.75,8.22,0.5491
+100644,2026-05-30,Samantha Garcia,East,Office Supplies,File Organizer,3,24.99,74.97,11.25,33.75,41.22,0.5498
+100862,2025-06-27,Shawn Fox,South,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+101013,2026-05-29,Anthony Hebert,North,Furniture,Ergonomic Desk,6,299.99,1799.94,179.99,1079.94,720.0,0.4
+101526,2025-08-13,Jacqueline Garcia,South,Electronics,Smart Watch,3,249.99,749.97,179.99,539.97,210.0,0.28
+101316,2025-06-11,Sarah Vazquez,North,Office Supplies,Paper Shredder,5,89.99,449.95,40.5,202.5,247.45,0.5499
+101235,2025-10-12,Micheal Cohen,South,Office Supplies,Paper Shredder,14,89.99,1259.86,40.5,567.0,692.86,0.5499
+100404,2026-04-10,James King,West,Office Supplies,Paper Shredder,10,89.99,899.9,40.5,405.0,494.9,0.5499
+101439,2025-08-27,Catherine Joseph,South,Office Supplies,File Organizer,5,24.99,124.95,11.25,56.25,68.7,0.5498
+100958,2026-04-17,James Hall,North,Electronics,Wireless Headphones,9,149.99,1349.91,107.99,971.91,378.0,0.28
+101315,2026-03-04,Michael Cunningham,West,Electronics,Wireless Headphones,9,149.99,1349.91,107.99,971.91,378.0,0.28
+100104,2026-03-16,Melissa Baker,East,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100609,2025-10-22,Samantha Huff,West,Office Supplies,Paper Shredder,4,89.99,359.96,40.5,162.0,197.96,0.5499
+101026,2025-11-29,Joseph Delgado,North,Electronics,Smart Watch,15,249.99,3749.85,179.99,2699.85,1050.0,0.28
+101583,2026-03-03,Laura Lewis,North,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+100688,2025-11-18,Robert Frazier,South,Electronics,Laptop,14,1199.99,16799.86,863.99,12095.86,4704.0,0.28
+101087,2025-11-15,Unknown Customer,East,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+100826,2026-02-03,Shannon Lopez,North,Electronics,Laptop,14,1199.99,16799.86,863.99,12095.86,4704.0,0.28
+101263,2025-12-25,Christopher Rocha,West,Office Supplies,Paper Shredder,9,89.99,809.91,40.5,364.5,445.41,0.5499
+101242,2026-02-25,Cassandra Stone,North,Furniture,Ergonomic Desk,15,299.99,4499.85,179.99,2699.85,1800.0,0.4
+100062,2026-02-21,Tanya Meadows,West,Office Supplies,File Organizer,15,24.99,374.85,11.25,168.75,206.1,0.5498
+100281,2025-08-24,Unknown Customer,North,Furniture,Office Chair,4,189.99,759.96,113.99,455.96,304.0,0.4
+100852,2025-07-26,Savannah Payne,East,Office Supplies,File Organizer,12,24.99,299.88,11.25,135.0,164.88,0.5498
+100778,2025-10-02,William Ortega,West,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+101121,2026-04-22,Bobby Johnson,East,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+100238,2025-09-22,Monica Sutton,North,Electronics,Laptop,14,1199.99,16799.86,863.99,12095.86,4704.0,0.28
+100223,2026-03-03,Kristin Moore,East,Office Supplies,Gel Pens (Pack of 10),5,12.5,62.5,5.62,28.1,34.4,0.5504
+100145,2026-03-26,Natalie Jones,North,Furniture,Office Chair,10,189.99,1899.9,113.99,1139.9,760.0,0.4
+100373,2026-05-20,Alexis Hurst,North,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+101356,2025-10-24,Brandon Rosales,West,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100118,2025-08-16,Kyle Montes,West,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+101244,2025-12-26,Nicole Lynch,West,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+101240,2025-10-27,John Ferguson,East,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+100250,2025-11-11,Lucas Raymond,South,Electronics,Smart Phone,14,699.99,9799.86,503.99,7055.86,2744.0,0.28
+101447,2025-07-04,Sharon Simmons,North,Furniture,Ergonomic Desk,10,299.99,2999.9,179.99,1799.9,1200.0,0.4
+100009,2025-10-15,Tonya Garcia,South,Office Supplies,Paper Shredder,2,89.99,179.98,40.5,81.0,98.98,0.5499
+100449,2025-10-21,Jeremy Allen,South,Furniture,Dining Table,10,450.0,4500.0,270.0,2700.0,1800.0,0.4
+101054,2025-08-19,Noah Oliver,South,Office Supplies,File Organizer,10,24.99,249.9,11.25,112.5,137.4,0.5498
+100708,2025-09-26,Karen Jackson,North,Furniture,Office Chair,5,189.99,949.95,113.99,569.95,380.0,0.4
+100882,2025-11-10,Victor Moore,East,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+100593,2025-12-31,Cheryl White,South,Furniture,Ergonomic Desk,10,299.99,2999.9,179.99,1799.9,1200.0,0.4
+100389,2026-04-21,Tammy Warren,South,Office Supplies,File Organizer,1,24.99,24.99,11.25,11.25,13.74,0.5498
+101325,2025-07-29,Diana Miller,North,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+100557,2026-05-02,Michael Carr,North,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+100908,2026-01-14,Samantha Palmer,North,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+100924,2026-05-12,Steven Gonzalez,South,Office Supplies,File Organizer,10,24.99,249.9,11.25,112.5,137.4,0.5498
+101093,2026-05-26,Willie Woods,East,Electronics,Wireless Headphones,9,149.99,1349.91,107.99,971.91,378.0,0.28
+101061,2025-11-29,Valerie Anderson,East,Office Supplies,File Organizer,1,24.99,24.99,11.25,11.25,13.74,0.5498
+101533,2025-12-11,Kristen Smith,South,Electronics,Wireless Headphones,11,149.99,1649.89,107.99,1187.89,462.0,0.28
+100868,2026-04-12,Christopher Wilson,West,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+100539,2025-10-31,Mr. Timothy Faulkner,East,Electronics,Laptop,15,1199.99,17999.85,863.99,12959.85,5040.0,0.28
+100697,2026-04-30,Tyler Molina,East,Electronics,Laptop,11,1199.99,13199.89,863.99,9503.89,3696.0,0.28
+101156,2025-08-06,Samuel Hoffman,West,Furniture,Office Chair,4,189.99,759.96,113.99,455.96,304.0,0.4
+101142,2026-05-11,Charles Martinez,West,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+101031,2025-12-17,Sylvia Smith,South,Furniture,Office Chair,11,189.99,2089.89,113.99,1253.89,836.0,0.4
+100667,2025-12-09,Unknown Customer,West,Furniture,Sofa,5,799.99,3999.95,479.99,2399.95,1600.0,0.4
+101269,2026-04-18,Brian Martinez,East,Electronics,Smart Phone,12,699.99,8399.88,503.99,6047.88,2352.0,0.28
+100357,2026-03-13,Christina Wall,South,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+100783,2026-02-09,Heather Campbell,South,Furniture,Dining Table,7,450.0,3150.0,270.0,1890.0,1260.0,0.4
+101035,2025-06-25,Stephanie Day,South,Furniture,Sofa,4,799.99,3199.96,479.99,1919.96,1280.0,0.4
+100970,2025-11-14,Rebecca Long,West,Office Supplies,File Organizer,12,24.99,299.88,11.25,135.0,164.88,0.5498
+101268,2025-07-12,Matthew Odom,South,Furniture,Office Chair,14,189.99,2659.86,113.99,1595.86,1064.0,0.4
+101412,2026-01-01,Unknown Customer,East,Electronics,Smart Watch,15,249.99,3749.85,179.99,2699.85,1050.0,0.28
+101432,2026-03-08,Anna Sweeney,West,Electronics,Smart Phone,9,699.99,6299.91,503.99,4535.91,1764.0,0.28
+100885,2025-10-27,Unknown Customer,North,Electronics,Wireless Headphones,6,149.99,899.94,107.99,647.94,252.0,0.28
+100079,2025-12-30,Shelby Sanchez,South,Electronics,Laptop,3,1199.99,3599.97,863.99,2591.97,1008.0,0.28
+101074,2026-01-23,Andrew Andrews,North,Furniture,Sofa,8,799.99,6399.92,479.99,3839.92,2560.0,0.4
+100671,2026-05-21,Kristin Parsons,East,Furniture,Sofa,10,799.99,7999.9,479.99,4799.9,3200.0,0.4
+100057,2025-10-31,Joshua Diaz,South,Office Supplies,File Organizer,5,24.99,124.95,11.25,56.25,68.7,0.5498
+100133,2025-06-29,Vanessa Martin,East,Electronics,Laptop,5,1199.99,5999.95,863.99,4319.95,1680.0,0.28
+100933,2026-02-24,Jerry Kelley,North,Office Supplies,File Organizer,1,24.99,24.99,11.25,11.25,13.74,0.5498
+101404,2026-05-26,Stephanie Gill,East,Furniture,Sofa,14,799.99,11199.86,479.99,6719.86,4480.0,0.4
+100823,2025-11-18,Zachary Clayton,North,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+100504,2025-06-28,Richard Russo,North,Furniture,Ergonomic Desk,7,299.99,2099.93,179.99,1259.93,840.0,0.4
+101475,2025-09-04,Marvin Stewart,South,Office Supplies,File Organizer,13,24.99,324.87,11.25,146.25,178.62,0.5498
+100386,2026-03-20,Juan Soto,East,Electronics,Smart Phone,1,699.99,699.99,503.99,503.99,196.0,0.28
+100894,2025-08-02,Jennifer Collier,West,Electronics,Laptop,8,1199.99,9599.92,863.99,6911.92,2688.0,0.28
+101568,2026-04-02,Danielle Ortega,West,Electronics,Smart Phone,12,699.99,8399.88,503.99,6047.88,2352.0,0.28
+100475,2026-03-24,James Miller,South,Furniture,Sofa,4,799.99,3199.96,479.99,1919.96,1280.0,0.4
+101160,2026-03-17,Andrea Johnson,East,Office Supplies,Notebook,3,4.99,14.97,2.25,6.75,8.22,0.5491
+100652,2025-06-18,Scott Pittman,North,Office Supplies,Gel Pens (Pack of 10),8,12.5,100.0,5.62,44.96,55.04,0.5504
+100172,2025-06-21,Karla Shaffer,East,Electronics,Laptop,13,1199.99,15599.87,863.99,11231.87,4368.0,0.28
+100038,2025-10-11,Edward Smith,South,Electronics,Wireless Headphones,13,149.99,1949.87,107.99,1403.87,546.0,0.28
+100713,2026-02-19,Robert Murphy,East,Electronics,Smart Watch,15,249.99,3749.85,179.99,2699.85,1050.0,0.28
+100090,2025-07-12,Kyle Edwards,East,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+100875,2025-09-22,Joseph Johnson DDS,North,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+101324,2025-07-29,Sophia Adams,West,Electronics,Smart Watch,1,249.99,249.99,179.99,179.99,70.0,0.28
+100499,2026-04-03,Daniel Cooper,West,Electronics,Laptop,4,1199.99,4799.96,863.99,3455.96,1344.0,0.28
+100338,2026-03-02,Paul Landry,West,Furniture,Ergonomic Desk,10,299.99,2999.9,179.99,1799.9,1200.0,0.4
+100028,2025-12-28,Unknown Customer,South,Office Supplies,Gel Pens (Pack of 10),5,12.5,62.5,5.62,28.1,34.4,0.5504
+101205,2025-09-16,Matthew Ortiz,North,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+101509,2025-12-26,Cindy Juarez,West,Electronics,Smart Phone,1,699.99,699.99,503.99,503.99,196.0,0.28
+100945,2025-08-10,Casey Brown,West,Office Supplies,Notebook,10,4.99,49.9,2.25,22.5,27.4,0.5491
+100169,2025-08-29,Jesus Valentine,East,Office Supplies,File Organizer,9,24.99,224.91,11.25,101.25,123.66,0.5498
+100912,2025-06-06,Amy Edwards,South,Electronics,Wireless Headphones,8,149.99,1199.92,107.99,863.92,336.0,0.28
+100491,2025-09-25,Troy Clark,South,Furniture,Ergonomic Desk,5,299.99,1499.95,179.99,899.95,600.0,0.4
+100953,2025-10-26,Joseph Johnson,East,Electronics,Laptop,15,1199.99,17999.85,863.99,12959.85,5040.0,0.28
+101032,2026-02-01,Anna Christensen,West,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+100587,2026-04-18,Lee Smith,West,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100750,2025-11-01,Nancy Anderson,North,Furniture,Sofa,12,799.99,9599.88,479.99,5759.88,3840.0,0.4
+100657,2026-03-19,Matthew Shelton,South,Electronics,Wireless Headphones,2,149.99,299.98,107.99,215.98,84.0,0.28
+100234,2025-08-06,Kathryn Cooper,West,Electronics,Wireless Headphones,5,149.99,749.95,107.99,539.95,210.0,0.28
+100732,2026-04-06,Mrs. Rachel Rivas,East,Furniture,Ergonomic Desk,2,299.99,599.98,179.99,359.98,240.0,0.4
+101351,2025-07-07,Daniel Ramirez,East,Office Supplies,File Organizer,15,24.99,374.85,11.25,168.75,206.1,0.5498
+101355,2025-11-29,Kevin Fernandez,West,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100934,2026-04-23,Jack Contreras,North,Office Supplies,Paper Shredder,7,89.99,629.93,40.5,283.5,346.43,0.5499
+101065,2025-11-11,Alison Black,South,Office Supplies,Notebook,1,4.99,4.99,2.25,2.25,2.74,0.5491
+100108,2026-04-09,Matthew Nguyen,East,Electronics,Wireless Headphones,6,149.99,899.94,107.99,647.94,252.0,0.28
+101284,2025-06-18,Joshua Andersen,East,Office Supplies,Gel Pens (Pack of 10),11,12.5,137.5,5.62,61.82,75.68,0.5504
+100568,2026-04-17,Unknown Customer,South,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+100947,2025-11-13,Danielle Jones,South,Electronics,Wireless Headphones,2,149.99,299.98,107.99,215.98,84.0,0.28
+101048,2025-09-30,Jeffrey Dodson,West,Office Supplies,File Organizer,10,24.99,249.9,11.25,112.5,137.4,0.5498
+101120,2025-08-24,Jane Ferguson,West,Electronics,Laptop,12,1199.99,14399.88,863.99,10367.88,4032.0,0.28
+101200,2025-10-05,John Johnson,West,Electronics,Wireless Headphones,3,149.99,449.97,107.99,323.97,126.0,0.28
+100884,2026-05-27,Eric Jenkins,South,Furniture,Ergonomic Desk,13,299.99,3899.87,179.99,2339.87,1560.0,0.4
+100850,2025-12-13,Elizabeth Johnson,North,Furniture,Sofa,1,799.99,799.99,479.99,479.99,320.0,0.4
+100734,2025-10-10,Ashley Lamb,West,Office Supplies,Gel Pens (Pack of 10),14,12.5,175.0,5.62,78.68,96.32,0.5504
+100717,2025-10-15,Michael Berry,West,Electronics,Smart Watch,8,249.99,1999.92,179.99,1439.92,560.0,0.28
+100454,2026-05-02,Jessica Taylor,East,Office Supplies,File Organizer,8,24.99,199.92,11.25,90.0,109.92,0.5498
+100264,2026-05-17,Roy Rosario,North,Electronics,Laptop,3,1199.99,3599.97,863.99,2591.97,1008.0,0.28
+100075,2025-06-05,Shane Mendoza,West,Furniture,Ergonomic Desk,11,299.99,3299.89,179.99,1979.89,1320.0,0.4
+100444,2025-09-04,Ashley Kelley,East,Furniture,Office Chair,10,189.99,1899.9,113.99,1139.9,760.0,0.4
+100176,2026-03-19,Amanda Brown,West,Electronics,Smart Watch,9,249.99,2249.91,179.99,1619.91,630.0,0.28
+101042,2025-08-05,Michelle Andrews,North,Office Supplies,Notebook,8,4.99,39.92,2.25,18.0,21.92,0.5491
+101446,2025-09-26,Teresa Sanchez,South,Electronics,Laptop,1,1199.99,1199.99,863.99,863.99,336.0,0.28
+101163,2026-05-11,Bobby Rivers,West,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+101145,2026-01-04,Anna Sanchez,South,Electronics,Smart Watch,5,249.99,1249.95,179.99,899.95,350.0,0.28
+100595,2026-05-10,Megan Small,East,Furniture,Ergonomic Desk,11,299.99,3299.89,179.99,1979.89,1320.0,0.4
+100061,2025-11-13,Mrs. Natasha Williams,East,Office Supplies,Paper Shredder,1,89.99,89.99,40.5,40.5,49.49,0.5499
+100872,2025-08-26,Shaun Frank,South,Furniture,Ergonomic Desk,10,299.99,2999.9,179.99,1799.9,1200.0,0.4
+101236,2025-07-03,Natalie Henderson,South,Furniture,Ergonomic Desk,4,299.99,1199.96,179.99,719.96,480.0,0.4
+101558,2025-10-08,Jessica Scott,North,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+100278,2025-07-16,Unknown Customer,East,Electronics,Smart Watch,11,249.99,2749.89,179.99,1979.89,770.0,0.28
+100036,2025-06-03,Tyler Munoz,North,Electronics,Smart Watch,4,249.99,999.96,179.99,719.96,280.0,0.28
+100662,2026-01-13,Sean Rivas,South,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+101498,2025-08-22,Mr. William Jarvis,East,Furniture,Sofa,11,799.99,8799.89,479.99,5279.89,3520.0,0.4
+100977,2026-05-17,Patricia Jacobs,East,Furniture,Ergonomic Desk,8,299.99,2399.92,179.99,1439.92,960.0,0.4
+101308,2025-09-20,Jessica Taylor,North,Electronics,Smart Phone,12,699.99,8399.88,503.99,6047.88,2352.0,0.28
+100738,2025-06-05,Bruce Webb,South,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+100191,2025-11-16,Amanda Barnett,South,Furniture,Ergonomic Desk,7,299.99,2099.93,179.99,1259.93,840.0,0.4
+100919,2026-05-14,Scott Martin,West,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+100456,2025-06-30,Rebecca Turner,South,Office Supplies,Gel Pens (Pack of 10),10,12.5,125.0,5.62,56.2,68.8,0.5504
+100675,2026-01-31,Christopher Mclean,North,Furniture,Office Chair,1,189.99,189.99,113.99,113.99,76.0,0.4
+100760,2025-10-30,Julie Mckenzie,West,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100728,2026-02-03,Unknown Customer,South,Furniture,Office Chair,3,189.99,569.97,113.99,341.97,228.0,0.4
+100412,2025-08-21,Tamara Roach,South,Furniture,Sofa,1,799.99,799.99,479.99,479.99,320.0,0.4
+100616,2025-11-22,James Lowe,West,Electronics,Wireless Headphones,9,149.99,1349.91,107.99,971.91,378.0,0.28
+100114,2026-03-20,Travis Welch,South,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+100417,2025-12-06,Alan Robbins,East,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+101582,2026-02-07,Miranda Martinez,South,Furniture,Ergonomic Desk,13,299.99,3899.87,179.99,2339.87,1560.0,0.4
+100969,2025-06-13,Sara Sanchez,West,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+100604,2026-05-15,Unknown Customer,North,Furniture,Ergonomic Desk,14,299.99,4199.86,179.99,2519.86,1680.0,0.4
+101589,2025-06-06,Meredith Scott,South,Electronics,Laptop,14,1199.99,16799.86,863.99,12095.86,4704.0,0.28
+100848,2025-09-13,Samantha Chapman,South,Electronics,Laptop,5,1199.99,5999.95,863.99,4319.95,1680.0,0.28
+101501,2025-10-17,Richard Martinez,North,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+100498,2026-03-15,William Quinn,West,Electronics,Laptop,12,1199.99,14399.88,863.99,10367.88,4032.0,0.28
+100011,2025-11-05,Mary Pennington,South,Electronics,Smart Phone,4,699.99,2799.96,503.99,2015.96,784.0,0.28
+100284,2026-04-13,Tamara Ramirez,South,Electronics,Wireless Headphones,2,149.99,299.98,107.99,215.98,84.0,0.28
+101066,2025-07-09,Dana Mills,West,Electronics,Smart Phone,12,699.99,8399.88,503.99,6047.88,2352.0,0.28
+100690,2025-09-08,Patrick House,East,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+101358,2026-01-14,Rachel Browning,South,Electronics,Laptop,9,1199.99,10799.91,863.99,7775.91,3024.0,0.28
+101555,2026-04-08,Randy Roach,South,Office Supplies,Paper Shredder,2,89.99,179.98,40.5,81.0,98.98,0.5499
+100689,2026-05-04,Charles Chung,North,Electronics,Smart Phone,9,699.99,6299.91,503.99,4535.91,1764.0,0.28
+100851,2026-04-08,Sara Solomon,West,Furniture,Ergonomic Desk,13,299.99,3899.87,179.99,2339.87,1560.0,0.4
+100159,2025-12-06,Jonathan Bradley,West,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+100895,2025-06-05,Ashley Miles,East,Furniture,Office Chair,7,189.99,1329.93,113.99,797.93,532.0,0.4
+101312,2025-09-02,Randy Warren,South,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+100257,2026-01-15,Michael Henderson,North,Electronics,Wireless Headphones,8,149.99,1199.92,107.99,863.92,336.0,0.28
+101559,2026-03-10,Gail Ball,South,Electronics,Smart Watch,5,249.99,1249.95,179.99,899.95,350.0,0.28
+101039,2025-10-18,Mrs. Stephanie Mosley,East,Furniture,Office Chair,7,189.99,1329.93,113.99,797.93,532.0,0.4
+100515,2026-01-06,Jennifer Dunn,West,Electronics,Smart Phone,15,699.99,10499.85,503.99,7559.85,2940.0,0.28
+101015,2025-11-29,Laura Hall,North,Furniture,Dining Table,15,450.0,6750.0,270.0,4050.0,2700.0,0.4
+100768,2025-10-31,Michael Hurst,West,Electronics,Laptop,6,1199.99,7199.94,863.99,5183.94,2016.0,0.28
+101454,2025-07-14,Mary Meyers,North,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+100761,2025-08-11,Mary Hall,West,Electronics,Smart Watch,1,249.99,249.99,179.99,179.99,70.0,0.28
+101216,2026-01-17,David Brewer,South,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+101525,2025-07-23,Joann Young,South,Electronics,Mutated Product,3,1199.99,3599.97,863.99,2591.97,1008.0,0.28
+100521,2025-07-31,Tammy Davis,East,Furniture,Sofa,6,799.99,4799.94,479.99,2879.94,1920.0,0.4
+100022,2026-03-03,Lauren Howe,East,Electronics,Wireless Headphones,3,149.99,449.97,107.99,323.97,126.0,0.28
+100356,2026-03-18,Joseph Figueroa,West,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+101403,2026-03-30,Margaret Chandler,South,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+100340,2026-02-16,Diana Hardin,North,Furniture,Ergonomic Desk,13,299.99,3899.87,179.99,2339.87,1560.0,0.4
+100431,2025-07-15,Carl Cunningham,East,Furniture,Sofa,3,799.99,2399.97,479.99,1439.97,960.0,0.4
+100473,2025-06-28,Sarah Miller,North,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+100217,2025-07-23,Tonya Clarke,South,Electronics,Wireless Headphones,6,149.99,899.94,107.99,647.94,252.0,0.28
+100911,2026-01-25,Edward Hill,East,Office Supplies,Notebook,10,4.99,49.9,2.25,22.5,27.4,0.5491
+101329,2025-12-12,Scott Cox,West,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+101011,2026-04-22,Brittney Mills,South,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+100093,2025-11-16,Bryan Aguilar,East,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+101008,2026-04-26,Jordan Harrington,West,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+101070,2025-09-04,Rachel Franklin,South,Furniture,Dining Table,3,450.0,1350.0,270.0,810.0,540.0,0.4
+100696,2026-03-03,Angela Patterson,North,Electronics,Smart Watch,14,249.99,3499.86,179.99,2519.86,980.0,0.28
+100996,2025-09-25,Ryan Rivera,North,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+100153,2025-11-12,Charles Wood,North,Furniture,Office Chair,15,189.99,2849.85,113.99,1709.85,1140.0,0.4
+101464,2025-12-22,Brooke Gill,North,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100789,2026-04-20,Charles Moore,East,Electronics,Smart Watch,3,249.99,749.97,179.99,539.97,210.0,0.28
+100580,2025-09-25,Melinda Jackson,North,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+100703,2026-01-09,James Carpenter,East,Furniture,Office Chair,10,189.99,1899.9,113.99,1139.9,760.0,0.4
+101389,2026-05-09,Leslie Smith,West,Furniture,Dining Table,11,450.0,4950.0,270.0,2970.0,1980.0,0.4
+100487,2026-02-12,Eddie Herrera,North,Office Supplies,Notebook,8,4.99,39.92,2.25,18.0,21.92,0.5491
+100559,2026-05-01,Brian Mitchell,South,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+101141,2026-01-15,Elizabeth Olson,West,Electronics,Laptop,2,1199.99,2399.98,863.99,1727.98,672.0,0.28
+101119,2025-08-30,Mary Williams,West,Furniture,Office Chair,5,189.99,949.95,113.99,569.95,380.0,0.4
+100801,2026-03-30,Anne Acevedo,South,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+100633,2025-11-28,Justin Cantu,West,Electronics,Smart Phone,8,699.99,5599.92,503.99,4031.92,1568.0,0.28
+101225,2025-08-04,Lauren Jackson,North,Electronics,Smart Phone,9,699.99,6299.91,503.99,4535.91,1764.0,0.28
+101483,2025-10-03,Frank Davis,West,Office Supplies,File Organizer,14,24.99,349.86,11.25,157.5,192.36,0.5498
+101150,2025-10-18,Unknown Customer,South,Office Supplies,Notebook,9,4.99,44.91,2.25,20.25,24.66,0.5491
+100790,2026-01-06,Melanie Rosario,East,Electronics,Wireless Headphones,4,149.99,599.96,107.99,431.96,168.0,0.28
+100740,2026-01-05,Jeremy Mills,North,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+100830,2025-07-03,William Gates,East,Electronics,Laptop,6,1199.99,7199.94,863.99,5183.94,2016.0,0.28
+100119,2026-03-02,Anthony Lee,North,Electronics,Laptop,12,1199.99,14399.88,863.99,10367.88,4032.0,0.28
+100656,2026-05-03,Shannon Adams,North,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+100635,2025-06-20,Kathryn Jimenez,East,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100369,2026-02-11,Catherine Brown,West,Furniture,Sofa,12,799.99,9599.88,479.99,5759.88,3840.0,0.4
+100268,2026-03-20,Nicole Rose,North,Electronics,Laptop,11,1199.99,13199.89,863.99,9503.89,3696.0,0.28
+100655,2026-04-16,Veronica Hancock,East,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+100822,2025-06-28,Olivia Walls,North,Furniture,Dining Table,7,450.0,3150.0,270.0,1890.0,1260.0,0.4
+100046,2025-11-07,Seth Lane,East,Office Supplies,File Organizer,7,24.99,174.93,11.25,78.75,96.18,0.5498
+101425,2025-07-13,Warren Morales,East,Office Supplies,Gel Pens (Pack of 10),1,12.5,12.5,5.62,5.62,6.88,0.5504
+100991,2025-09-24,Jamie Henry,South,Office Supplies,Notebook,12,4.99,59.88,2.25,27.0,32.88,0.5491
+100876,2026-01-08,Unknown Customer,North,Electronics,Wireless Headphones,4,149.99,599.96,107.99,431.96,168.0,0.28
+100773,2026-02-23,Deborah Shepard,West,Furniture,Office Chair,15,189.99,2849.85,113.99,1709.85,1140.0,0.4
+101219,2025-09-28,Alexis Navarro,West,Office Supplies,Notebook,12,4.99,59.88,2.25,27.0,32.88,0.5491
+100004,2025-07-22,Clinton Burke,North,Furniture,Ergonomic Desk,8,299.99,2399.92,179.99,1439.92,960.0,0.4
+101003,2025-09-27,Robert Barnes,East,Office Supplies,File Organizer,5,24.99,124.95,11.25,56.25,68.7,0.5498
+100263,2025-12-20,Unknown Customer,East,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+101518,2026-05-05,Stephen Mcgee,East,Electronics,Wireless Headphones,1,149.99,149.99,107.99,107.99,42.0,0.28
+100443,2025-08-10,Kathryn Solomon,West,Office Supplies,File Organizer,14,24.99,349.86,11.25,157.5,192.36,0.5498
+101002,2026-03-27,Unknown Customer,East,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+101077,2025-08-21,Stephen Moore,South,Furniture,Office Chair,6,189.99,1139.94,113.99,683.94,456.0,0.4
+100837,2026-04-13,Marc Phillips,East,Office Supplies,Gel Pens (Pack of 10),13,12.5,162.5,5.62,73.06,89.44,0.5504
+101517,2025-08-05,Michael Perry,North,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+100304,2025-09-13,Dorothy White,West,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+100313,2026-03-03,Unknown Customer,North,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100149,2025-10-31,Kelly Lewis,East,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+101148,2026-05-02,Todd Kennedy,South,Office Supplies,Gel Pens (Pack of 10),5,12.5,62.5,5.62,28.1,34.4,0.5504
+101213,2026-04-18,Connie Torres,East,Furniture,Ergonomic Desk,2,299.99,599.98,179.99,359.98,240.0,0.4
+100050,2025-11-29,Unknown Customer,North,Furniture,Ergonomic Desk,5,299.99,1499.95,179.99,899.95,600.0,0.4
+101292,2026-03-07,Andrea Pena,East,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+100726,2025-09-06,Robin Hart,South,Electronics,Smart Watch,15,249.99,3749.85,179.99,2699.85,1050.0,0.28
+100833,2025-09-30,Caitlin Jacobs,North,Electronics,Laptop,12,1199.99,14399.88,863.99,10367.88,4032.0,0.28
+101115,2026-01-30,Gregory Fields,East,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+101166,2025-09-21,Lindsay Olson,West,Electronics,Smart Watch,15,249.99,3749.85,179.99,2699.85,1050.0,0.28
+100470,2025-06-04,Jennifer Booker,West,Electronics,Laptop,15,1199.99,17999.85,863.99,12959.85,5040.0,0.28
+100971,2025-07-01,Casey Peterson,North,Electronics,Smart Phone,11,699.99,7699.89,503.99,5543.89,2156.0,0.28
+100399,2026-02-12,Kyle Brown,East,Furniture,Office Chair,11,189.99,2089.89,113.99,1253.89,836.0,0.4
+100511,2025-10-21,Terri Mcclure,North,Office Supplies,Paper Shredder,6,89.99,539.94,40.5,243.0,296.94,0.5499
+100320,2025-09-29,Dillon Herrera,South,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100684,2025-07-15,Madeline Lopez,East,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+100035,2025-06-13,Jesse Lindsey,West,Electronics,Laptop,8,1199.99,9599.92,863.99,6911.92,2688.0,0.28
+100902,2025-07-31,Michelle Miller,North,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+100827,2026-05-03,Dr. Joanna George,West,Electronics,Laptop,9,1199.99,10799.91,863.99,7775.91,3024.0,0.28
+101490,2025-06-19,Andre Townsend PhD,South,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100407,2026-04-08,Tony Chen,North,Office Supplies,File Organizer,12,24.99,299.88,11.25,135.0,164.88,0.5498
+100920,2026-03-31,Sarah Farley,South,Electronics,Laptop,9,1199.99,10799.91,863.99,7775.91,3024.0,0.28
+100537,2025-06-11,Erik Joseph,East,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+100758,2026-02-20,Sean Wolfe,West,Office Supplies,Paper Shredder,8,89.99,719.92,40.5,324.0,395.92,0.5499
+100245,2025-09-05,Lauren Hughes,North,Furniture,Ergonomic Desk,3,299.99,899.97,179.99,539.97,360.0,0.4
+101127,2025-11-12,Eric Carter,South,Furniture,Office Chair,4,189.99,759.96,113.99,455.96,304.0,0.4
+100489,2025-08-07,Eric Johnson,South,Furniture,Ergonomic Desk,7,299.99,2099.93,179.99,1259.93,840.0,0.4
+100154,2025-08-30,Jonathan Bowen,North,Electronics,Smart Watch,13,249.99,3249.87,179.99,2339.87,910.0,0.28
+100961,2025-07-30,Matthew Brown,West,Furniture,Office Chair,8,189.99,1519.92,113.99,911.92,608.0,0.4
+100853,2025-09-30,Jacob Martin,East,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100685,2025-07-02,Caitlin Moreno,South,Office Supplies,Gel Pens (Pack of 10),14,12.5,175.0,5.62,78.68,96.32,0.5504
+100569,2025-06-11,Susan Stevens,West,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+101580,2026-05-29,Ashley Smith,South,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+100017,2025-06-26,Timothy Hayes,West,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+100980,2025-07-22,Joe Rivera,South,Electronics,Smart Phone,13,699.99,9099.87,503.99,6551.87,2548.0,0.28
+100190,2025-12-02,Katie Hester,West,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100992,2026-01-23,Mr. Thomas Sanchez,North,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+101380,2025-12-15,Kelsey Jones,South,Office Supplies,Notebook,8,4.99,39.92,2.25,18.0,21.92,0.5491
+100180,2025-07-20,Michele Morrison,East,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+100301,2026-03-11,Alexander Parrish,South,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+100496,2026-04-25,Matthew Hale,North,Electronics,Laptop,13,1199.99,15599.87,863.99,11231.87,4368.0,0.28
+101438,2025-10-23,Johnathan Gonzalez,West,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+101365,2025-12-23,Joshua Rodgers,South,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+100476,2025-09-21,Andrew House,West,Electronics,Smart Watch,10,249.99,2499.9,179.99,1799.9,700.0,0.28
+100157,2026-05-09,Lorraine Lindsey,East,Electronics,Laptop,3,1199.99,3599.97,863.99,2591.97,1008.0,0.28
+101243,2025-08-03,Peter Smith,South,Office Supplies,Notebook,10,4.99,49.9,2.25,22.5,27.4,0.5491
+101195,2025-11-01,Michael Davis,North,Office Supplies,Gel Pens (Pack of 10),12,12.5,150.0,5.62,67.44,82.56,0.5504
+100016,2025-07-26,Victoria Garcia,North,Electronics,Laptop,4,1199.99,4799.96,863.99,3455.96,1344.0,0.28
+101072,2025-06-07,James Lopez,North,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+100546,2026-02-09,Kristi Erickson,West,Electronics,Laptop,12,1199.99,14399.88,863.99,10367.88,4032.0,0.28
+100658,2025-11-10,Elizabeth Koch,South,Office Supplies,File Organizer,2,24.99,49.98,11.25,22.5,27.48,0.5498
+101353,2025-09-01,Terry Oneill,South,Electronics,Smart Watch,10,249.99,2499.9,179.99,1799.9,700.0,0.28
+101019,2025-08-08,Joseph Lee,West,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+101386,2026-04-16,Kim Monroe,North,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+100959,2025-09-02,Gary Weber,North,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+101561,2025-12-01,Jeremiah Robinson,East,Furniture,Ergonomic Desk,2,299.99,599.98,179.99,359.98,240.0,0.4
+100797,2026-05-19,Eric Holt,West,Electronics,Wireless Headphones,15,149.99,2249.85,107.99,1619.85,630.0,0.28
+101592,2026-04-13,Cory Wallace,North,Electronics,Smart Phone,11,699.99,7699.89,503.99,5543.89,2156.0,0.28
+100026,2025-08-15,Hunter Padilla,South,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+101471,2025-09-05,Unknown Customer,East,Electronics,Smart Watch,1,249.99,249.99,179.99,179.99,70.0,0.28
+100437,2025-07-29,Louis Lam,North,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+100229,2025-11-11,Michael Price DDS,North,Furniture,Office Chair,10,189.99,1899.9,113.99,1139.9,760.0,0.4
+100037,2026-03-14,Bonnie Jones,West,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+101045,2026-01-11,Anne Thomas,East,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+100687,2026-05-26,Jessica Moore,South,Electronics,Wireless Headphones,5,149.99,749.95,107.99,539.95,210.0,0.28
+101527,2026-03-04,Unknown Customer,West,Electronics,Laptop,5,1199.99,5999.95,863.99,4319.95,1680.0,0.28
+101429,2025-11-03,Adam Cooper,South,Office Supplies,Notebook,4,4.99,19.96,2.25,9.0,10.96,0.5491
+101218,2025-06-01,Unknown Customer,North,Furniture,Ergonomic Desk,15,299.99,4499.85,179.99,2699.85,1800.0,0.4
+101158,2025-08-24,Jeffrey Juarez,East,Electronics,Smart Phone,3,699.99,2099.97,503.99,1511.97,588.0,0.28
+101379,2025-10-13,Daniel Ellis,West,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+101300,2025-06-04,Lisa White,South,Furniture,Ergonomic Desk,3,299.99,899.97,179.99,539.97,360.0,0.4
+101511,2026-05-06,Unknown Customer,East,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+100800,2026-04-28,Unknown Customer,West,Office Supplies,Gel Pens (Pack of 10),12,12.5,150.0,5.62,67.44,82.56,0.5504
+100160,2025-10-05,Jennifer Austin,South,Office Supplies,Notebook,9,4.99,44.91,2.25,20.25,24.66,0.5491
+100956,2026-04-28,Lisa Foster,South,Electronics,Smart Watch,3,249.99,749.97,179.99,539.97,210.0,0.28
+101186,2025-10-04,George Mitchell,West,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+100821,2026-03-14,Duane King,South,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+101402,2026-02-26,David Hayes MD,West,Electronics,Smart Watch,9,249.99,2249.91,179.99,1619.91,630.0,0.28
+100877,2025-09-21,Stephen Parker,North,Office Supplies,Gel Pens (Pack of 10),5,12.5,62.5,5.62,28.1,34.4,0.5504
+100913,2025-12-12,Nancy Meyer,South,Office Supplies,Paper Shredder,3,89.99,269.97,40.5,121.5,148.47,0.5499
+100152,2025-07-22,Laura Page,West,Office Supplies,Gel Pens (Pack of 10),1,12.5,12.5,5.62,5.62,6.88,0.5504
+101542,2025-09-09,Samuel Chambers,North,Office Supplies,Gel Pens (Pack of 10),9,12.5,112.5,5.62,50.58,61.92,0.5504
+101135,2025-12-10,Timothy Rivera,East,Office Supplies,File Organizer,1,24.99,24.99,11.25,11.25,13.74,0.5498
+101387,2026-01-29,Julie Ross,East,Office Supplies,Paper Shredder,9,89.99,809.91,40.5,364.5,445.41,0.5499
+100103,2025-11-27,Justin George,North,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+101469,2025-08-30,Robert Adams,South,Furniture,Sofa,5,799.99,3999.95,479.99,2399.95,1600.0,0.4
+101143,2026-04-04,Stephen Allen,East,Office Supplies,File Organizer,3,24.99,74.97,11.25,33.75,41.22,0.5498
+100053,2026-05-20,Jennifer Walker,North,Electronics,Laptop,4,1199.99,4799.96,863.99,3455.96,1344.0,0.28
+100151,2025-10-18,Daniel Taylor,South,Electronics,Smart Phone,10,699.99,6999.9,503.99,5039.9,1960.0,0.28
+100403,2025-12-29,Derrick Cook,South,Furniture,Ergonomic Desk,8,299.99,2399.92,179.99,1439.92,960.0,0.4
+101570,2025-09-01,Anita Christensen,East,Office Supplies,Paper Shredder,3,89.99,269.97,40.5,121.5,148.47,0.5499
+101456,2026-01-09,Diana Patterson,East,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100008,2026-05-15,Alison Phillips,North,Furniture,Office Chair,7,189.99,1329.93,113.99,797.93,532.0,0.4
+101014,2026-04-25,Tanya Williams,West,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+101489,2025-08-09,Sheila Porter,West,Office Supplies,Notebook,3,4.99,14.97,2.25,6.75,8.22,0.5491
+101060,2025-11-01,Dr. Anna Murphy,East,Office Supplies,File Organizer,15,24.99,374.85,11.25,168.75,206.1,0.5498
+100452,2026-01-30,David Jones,East,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+100253,2025-07-09,Unknown Customer,South,Office Supplies,Notebook,6,4.99,29.94,2.25,13.5,16.44,0.5491
+101327,2026-01-20,Taylor Williams,North,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+100896,2026-05-17,Jason Gardner,South,Electronics,Wireless Headphones,9,149.99,1349.91,107.99,971.91,378.0,0.28
+101444,2025-09-30,Joseph Brown,South,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+100880,2025-09-21,Jacob Leach,East,Electronics,Wireless Headphones,7,149.99,1049.93,107.99,755.93,294.0,0.28
+101565,2026-01-10,Robert Daugherty,North,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+100623,2025-09-05,Brian Stuart,East,Office Supplies,File Organizer,12,24.99,299.88,11.25,135.0,164.88,0.5498
+100345,2025-12-24,Michael Patel,North,Office Supplies,Notebook,5,4.99,24.95,2.25,11.25,13.7,0.5491
+101421,2025-11-19,Christopher Moore,East,Electronics,Smart Watch,14,249.99,3499.86,179.99,2519.86,980.0,0.28
+100262,2026-03-02,Unknown Customer,South,Furniture,Sofa,5,799.99,3999.95,479.99,2399.95,1600.0,0.4
+101321,2025-06-21,Amy Holder,East,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100472,2025-06-03,John Martinez,South,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+100640,2025-08-11,Robyn Holmes,South,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100550,2025-12-20,Aaron Montgomery,East,Office Supplies,Paper Shredder,3,89.99,269.97,40.5,121.5,148.47,0.5499
+100928,2025-06-06,Laura Jackson,West,Furniture,Sofa,7,799.99,5599.93,479.99,3359.93,2240.0,0.4
+100488,2025-12-18,Ryan Mcdonald,North,Electronics,Wireless Headphones,2,149.99,299.98,107.99,215.98,84.0,0.28
+101503,2026-03-20,Unknown Customer,East,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+101171,2025-11-06,Unknown Customer,South,Furniture,Office Chair,1,189.99,189.99,113.99,113.99,76.0,0.4
+101599,2026-03-22,Joseph Duran,North,Electronics,Smart Watch,8,249.99,1999.92,179.99,1439.92,560.0,0.28
+100402,2026-05-02,Elizabeth Wilson,South,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100659,2025-06-11,Adrian Henry,West,Office Supplies,Notebook,5,4.99,24.95,2.25,11.25,13.7,0.5491
+101372,2026-01-10,Amy Holmes,West,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+100463,2025-09-06,Susan Petty,South,Furniture,Sofa,15,799.99,11999.85,479.99,7199.85,4800.0,0.4
+101349,2026-05-04,Chris Johnston,East,Electronics,Wireless Headphones,2,149.99,299.98,107.99,215.98,84.0,0.28
+100186,2026-01-17,Jackie Knapp,East,Furniture,Dining Table,6,450.0,2700.0,270.0,1620.0,1080.0,0.4
+101147,2025-08-16,Debbie Curry,North,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+100608,2026-04-04,Erica Freeman,South,Furniture,Sofa,3,799.99,2399.97,479.99,1439.97,960.0,0.4
+100143,2025-06-24,Virginia Russell,East,Electronics,Laptop,12,1199.99,14399.88,863.99,10367.88,4032.0,0.28
+100751,2025-12-20,Megan Clark,South,Furniture,Sofa,9,799.99,7199.91,479.99,4319.91,2880.0,0.4
+100981,2025-09-28,Teresa Bradford,West,Electronics,Wireless Headphones,1,149.99,149.99,107.99,107.99,42.0,0.28
+100197,2026-02-12,Laura Kent,South,Electronics,Wireless Headphones,1,149.99,149.99,107.99,107.99,42.0,0.28
+100293,2025-10-21,Jennifer Davenport,West,Electronics,Laptop,9,1199.99,10799.91,863.99,7775.91,3024.0,0.28
+101512,2025-12-05,Courtney Johnson,East,Electronics,Laptop,3,1199.99,3599.97,863.99,2591.97,1008.0,0.28
+100400,2025-08-10,Ryan Davis,South,Electronics,Smart Watch,9,249.99,2249.91,179.99,1619.91,630.0,0.28
+101207,2025-10-08,Emily Osborn,South,Electronics,Smart Watch,8,249.99,1999.92,179.99,1439.92,560.0,0.28
+100202,2026-01-21,Joseph Morgan,East,Office Supplies,Gel Pens (Pack of 10),14,12.5,175.0,5.62,78.68,96.32,0.5504
+100835,2025-09-24,Brittney Ortiz,North,Electronics,Laptop,7,1199.99,8399.93,863.99,6047.93,2352.0,0.28
+100246,2025-11-22,Justin Stone,South,Office Supplies,Gel Pens (Pack of 10),15,12.5,187.5,5.62,84.3,103.2,0.5504
+101575,2026-03-13,Robert Ross,South,Electronics,Wireless Headphones,13,149.99,1949.87,107.99,1403.87,546.0,0.28
+101153,2025-12-25,Mr. Joshua Holland DDS,East,Furniture,Sofa,3,799.99,2399.97,479.99,1439.97,960.0,0.4
+101426,2025-12-31,Dean Tanner,East,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+100384,2026-03-07,John Moore,North,Electronics,Smart Watch,13,249.99,3249.87,179.99,2339.87,910.0,0.28
+101461,2026-05-12,Jonathan Green,East,Furniture,Sofa,6,799.99,4799.94,479.99,2879.94,1920.0,0.4
+100854,2025-10-16,Jason White,East,Office Supplies,Paper Shredder,13,89.99,1169.87,40.5,526.5,643.37,0.5499
+100219,2026-03-29,Mike Petty,East,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+100641,2026-01-30,Carl Castro,South,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100001,2025-09-28,David Garcia,North,Office Supplies,Notebook,9,4.99,44.91,2.25,20.25,24.66,0.5491
+100112,2026-02-25,Valerie Walker,South,Electronics,Wireless Headphones,15,149.99,2249.85,107.99,1619.85,630.0,0.28
+100698,2025-08-22,Nicholas Davis,South,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+100951,2025-07-28,Kayla Taylor,North,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+101455,2026-05-17,Debra Davis,West,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+101410,2025-11-23,Jane Matthews,South,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+101409,2026-03-23,Danielle Mooney,North,Electronics,Laptop,14,1199.99,16799.86,863.99,12095.86,4704.0,0.28
+101291,2026-04-10,Jeffrey Adams,West,Furniture,Dining Table,11,450.0,4950.0,270.0,2970.0,1980.0,0.4
+101578,2025-07-04,Trevor Johnson,West,Furniture,Dining Table,4,450.0,1800.0,270.0,1080.0,720.0,0.4
+100441,2026-01-08,Allison Schneider,West,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+101136,2026-01-05,Nicholas Lam,North,Office Supplies,File Organizer,10,24.99,249.9,11.25,112.5,137.4,0.5498
+101256,2025-06-25,Matthew Dunn,West,Office Supplies,Paper Shredder,10,89.99,899.9,40.5,405.0,494.9,0.5499
+101397,2026-04-25,David Fuller,North,Electronics,Laptop,6,1199.99,7199.94,863.99,5183.94,2016.0,0.28
+100663,2025-09-13,Joshua Ferguson,South,Electronics,Smart Phone,7,699.99,4899.93,503.99,3527.93,1372.0,0.28
+101257,2026-04-03,Cody Jackson,West,Office Supplies,File Organizer,13,24.99,324.87,11.25,146.25,178.62,0.5498
+100317,2026-04-28,Jason Mccullough,North,Furniture,Office Chair,9,189.99,1709.91,113.99,1025.91,684.0,0.4
+100648,2025-09-20,Angela Price,East,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+101434,2025-08-20,Mary Craig,West,Furniture,Ergonomic Desk,1,299.99,299.99,179.99,179.99,120.0,0.4
+100709,2026-03-11,Justin Garza,North,Furniture,Office Chair,7,189.99,1329.93,113.99,797.93,532.0,0.4
+101382,2026-01-26,Susan Kelley,West,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+101282,2025-10-14,Brandon Morris,East,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100972,2025-08-17,Joshua Orozco,East,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100627,2025-07-22,George Potter,East,Electronics,Laptop,7,1199.99,8399.93,863.99,6047.93,2352.0,0.28
+100632,2025-09-29,Peter Townsend,North,Furniture,Dining Table,5,450.0,2250.0,270.0,1350.0,900.0,0.4
+101306,2025-11-03,David Boone,South,Furniture,Sofa,7,799.99,5599.93,479.99,3359.93,2240.0,0.4
+101400,2025-09-24,William Mcdaniel,East,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+101408,2025-10-14,Heidi Nunez,North,Office Supplies,Paper Shredder,5,89.99,449.95,40.5,202.5,247.45,0.5499
+101254,2025-10-27,Kevin Barnett,South,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+101371,2025-10-07,Jennifer Harvey,West,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+101354,2025-10-17,Mary Wong,West,Electronics,Smart Watch,9,249.99,2249.91,179.99,1619.91,630.0,0.28
+101596,2025-07-24,Brandon Wilson,West,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+101532,2026-05-07,Jennifer Reynolds,East,Office Supplies,File Organizer,4,24.99,99.96,11.25,45.0,54.96,0.5498
+100795,2025-11-08,Alyssa Thompson,East,Furniture,Office Chair,7,189.99,1329.93,113.99,797.93,532.0,0.4
+101012,2026-04-12,Lori Abbott,West,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100681,2026-03-08,Joe Bishop,North,Furniture,Dining Table,15,450.0,6750.0,270.0,4050.0,2700.0,0.4
+100577,2025-07-25,Jason Sweeney,East,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+101109,2025-11-14,Jeffery Nelson,West,Office Supplies,Paper Shredder,9,89.99,809.91,40.5,364.5,445.41,0.5499
+101266,2025-09-23,John Villegas,North,Electronics,Smart Phone,11,699.99,7699.89,503.99,5543.89,2156.0,0.28
+100524,2026-03-26,Alexander Williams,South,Electronics,Wireless Headphones,7,149.99,1049.93,107.99,755.93,294.0,0.28
+101059,2025-12-03,Heather Solis MD,North,Furniture,Dining Table,8,450.0,3600.0,270.0,2160.0,1440.0,0.4
+100540,2026-01-28,Laura Torres,East,Office Supplies,File Organizer,15,24.99,374.85,11.25,168.75,206.1,0.5498
+100748,2026-05-23,Jennifer Chapman DVM,North,Office Supplies,Gel Pens (Pack of 10),7,12.5,87.5,5.62,39.34,48.16,0.5504
+101535,2025-08-28,Jennifer Santiago,West,Electronics,Wireless Headphones,12,149.99,1799.88,107.99,1295.88,504.0,0.28
+101430,2025-10-24,Matthew Foster,South,Electronics,Smart Phone,9,699.99,6299.91,503.99,4535.91,1764.0,0.28
+100484,2026-04-10,Miss Angela Summers,East,Office Supplies,Gel Pens (Pack of 10),13,12.5,162.5,5.62,73.06,89.44,0.5504
+100095,2026-04-15,Dustin Rowe,East,Office Supplies,Notebook,10,4.99,49.9,2.25,22.5,27.4,0.5491
+101020,2025-09-25,Jennifer Arnold,North,Office Supplies,Paper Shredder,12,89.99,1079.88,40.5,486.0,593.88,0.5499
+100563,2025-12-29,Joseph Williamson,North,Electronics,Smart Watch,11,249.99,2749.89,179.99,1979.89,770.0,0.28
+101264,2025-09-19,Beth Parker,East,Electronics,Smart Watch,13,249.99,3249.87,179.99,2339.87,910.0,0.28
+100742,2026-05-14,James Burns,West,Furniture,Dining Table,15,450.0,6750.0,270.0,4050.0,2700.0,0.4
+100863,2025-09-27,Carla Turner,North,Furniture,Ergonomic Desk,12,299.99,3599.88,179.99,2159.88,1440.0,0.4
+101484,2026-05-09,David Coleman,North,Furniture,Dining Table,14,450.0,6300.0,270.0,3780.0,2520.0,0.4
+100891,2025-08-26,Jonathan Walker,South,Electronics,Smart Watch,10,249.99,2499.9,179.99,1799.9,700.0,0.28
+101038,2025-08-12,Michael Jackson DDS,East,Office Supplies,Gel Pens (Pack of 10),10,12.5,125.0,5.62,56.2,68.8,0.5504
+100206,2026-02-09,Deborah Kemp,North,Office Supplies,Notebook,10,4.99,49.9,2.25,22.5,27.4,0.5491
+100392,2026-05-17,Lee Jackson,North,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+100870,2025-07-20,Mr. William Robinson MD,West,Electronics,Wireless Headphones,8,149.99,1199.92,107.99,863.92,336.0,0.28
+100397,2026-04-29,Kevin Jones,North,Furniture,Dining Table,7,450.0,3150.0,270.0,1890.0,1260.0,0.4
+100766,2025-07-02,Stephen Wilcox,East,Furniture,Sofa,8,799.99,6399.92,479.99,3839.92,2560.0,0.4
+101241,2026-05-23,Kathryn Gardner,South,Electronics,Wireless Headphones,1,149.99,149.99,107.99,107.99,42.0,0.28
+101028,2026-03-16,Javier Rosales,South,Furniture,Office Chair,3,189.99,569.97,113.99,341.97,228.0,0.4
+100612,2026-05-21,Erik Hunter,North,Office Supplies,Paper Shredder,11,89.99,989.89,40.5,445.5,544.39,0.5499
+100960,2025-08-07,Jackson Singh,North,Office Supplies,Paper Shredder,1,89.99,89.99,40.5,40.5,49.49,0.5499
+100725,2025-09-30,Benjamin Curtis,North,Office Supplies,Paper Shredder,4,89.99,359.96,40.5,162.0,197.96,0.5499
+100683,2026-03-22,William Nguyen,West,Office Supplies,Notebook,11,4.99,54.89,2.25,24.75,30.14,0.5491
+100098,2026-02-18,Chelsea Ramirez,South,Electronics,Wireless Headphones,7,149.99,1049.93,107.99,755.93,294.0,0.28
+100804,2026-01-07,Cassandra Wells,South,Office Supplies,Paper Shredder,1,89.99,89.99,40.5,40.5,49.49,0.5499
+100406,2026-05-10,Dawn Vargas,West,Electronics,Laptop,2,1199.99,2399.98,863.99,1727.98,672.0,0.28
+100502,2025-08-31,Kyle Romero Jr.,West,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+101071,2026-02-27,George Gonzalez,West,Electronics,Wireless Headphones,5,149.99,749.95,107.99,539.95,210.0,0.28
+101056,2025-09-12,Alexis Boyd,West,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+100929,2026-03-01,John White,North,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+100779,2026-02-20,Alan Johnson,East,Electronics,Smart Watch,4,249.99,999.96,179.99,719.96,280.0,0.28
+100200,2025-12-20,Dr. Amber Johnson MD,North,Electronics,Laptop,8,1199.99,9599.92,863.99,6911.92,2688.0,0.28
+100134,2026-03-10,Dustin Anderson,South,Furniture,Dining Table,11,450.0,4950.0,270.0,2970.0,1980.0,0.4
+101051,2025-11-14,Brian Higgins,East,Office Supplies,File Organizer,3,24.99,74.97,11.25,33.75,41.22,0.5498
+100040,2026-03-27,Mary Hamilton,West,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+101017,2025-10-30,Stephen Todd,West,Electronics,Smart Phone,14,699.99,9799.86,503.99,7055.86,2744.0,0.28
+101513,2025-09-10,Maria Campbell,West,Electronics,Laptop,9,1199.99,10799.91,863.99,7775.91,3024.0,0.28
+100378,2025-12-27,Sara Tran,North,Office Supplies,Paper Shredder,2,89.99,179.98,40.5,81.0,98.98,0.5499
+100288,2025-07-18,Jeffrey Mata,West,Furniture,Ergonomic Desk,3,299.99,899.97,179.99,539.97,360.0,0.4
+100418,2025-09-16,Terry Quinn,East,Office Supplies,Notebook,2,4.99,9.98,2.25,4.5,5.48,0.5491
+100391,2026-01-09,Victoria Benson,South,Office Supplies,Gel Pens (Pack of 10),13,12.5,162.5,5.62,73.06,89.44,0.5504
+100592,2025-08-12,Kimberly Arnold,North,Office Supplies,File Organizer,1,24.99,24.99,11.25,11.25,13.74,0.5498
+101522,2026-01-18,Unknown Customer,North,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+101162,2026-03-08,Unknown Customer,North,Office Supplies,Paper Shredder,15,89.99,1349.85,40.5,607.5,742.35,0.5499
+101495,2025-11-06,Monica Johnson,East,Electronics,Smart Watch,14,249.99,3499.86,179.99,2519.86,980.0,0.28
+100647,2026-03-19,Joel Patrick,East,Electronics,Smart Watch,12,249.99,2999.88,179.99,2159.88,840.0,0.28
+101152,2026-02-26,William Crawford,East,Furniture,Sofa,9,799.99,7199.91,479.99,4319.91,2880.0,0.4
+101367,2026-02-15,Roberto Dawson,North,Furniture,Ergonomic Desk,12,299.99,3599.88,179.99,2159.88,1440.0,0.4
+100520,2026-02-08,Jennifer Wilkerson,North,Furniture,Dining Table,5,450.0,2250.0,270.0,1350.0,900.0,0.4
+100064,2025-12-24,Tommy Garcia,West,Office Supplies,Notebook,11,4.99,54.89,2.25,24.75,30.14,0.5491
+100014,2026-02-19,Sydney Moore,South,Electronics,Wireless Headphones,11,149.99,1649.89,107.99,1187.89,462.0,0.28
+101180,2026-02-03,Mitchell Smith,West,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+101064,2026-01-04,Geoffrey Smith,West,Furniture,Ergonomic Desk,3,299.99,899.97,179.99,539.97,360.0,0.4
+100492,2026-05-29,Jason Lewis,South,Office Supplies,Gel Pens (Pack of 10),3,12.5,37.5,5.62,16.86,20.64,0.5504
+100379,2026-03-20,Unknown Customer,North,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100187,2025-08-18,Casey Duran,East,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100763,2025-06-05,Susan Fuentes,North,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100791,2026-03-18,Anna Reeves,North,Furniture,Dining Table,9,450.0,4050.0,270.0,2430.0,1620.0,0.4
+101076,2025-10-17,Rickey Mann,South,Furniture,Dining Table,1,450.0,450.0,270.0,270.0,180.0,0.4
+100878,2025-06-02,Patricia Leach,West,Furniture,Office Chair,8,189.99,1519.92,113.99,911.92,608.0,0.4
+100719,2025-06-05,Molly Myers,South,Furniture,Sofa,5,799.99,3999.95,479.99,2399.95,1600.0,0.4
+101275,2025-06-25,Deborah Henderson,South,Electronics,Smart Watch,5,249.99,1249.95,179.99,899.95,350.0,0.28
+101485,2025-06-30,Mark Adams,East,Office Supplies,Paper Shredder,11,89.99,989.89,40.5,445.5,544.39,0.5499
+100455,2025-06-06,Allison Miller,East,Office Supplies,Notebook,14,4.99,69.86,2.25,31.5,38.36,0.5491
+100815,2025-08-15,Stephanie Dean,East,Furniture,Dining Table,9,450.0,4050.0,270.0,2430.0,1620.0,0.4
+100269,2025-06-05,Kimberly King,West,Electronics,Wireless Headphones,10,149.99,1499.9,107.99,1079.9,420.0,0.28
+100995,2026-02-05,Kathy Craig,West,Office Supplies,File Organizer,11,24.99,274.89,11.25,123.75,151.14,0.5498
+100201,2025-12-05,Joshua Burgess,West,Furniture,Dining Table,8,450.0,3600.0,270.0,2160.0,1440.0,0.4
+100161,2026-02-22,Billy Cooper,West,Furniture,Office Chair,11,189.99,2089.89,113.99,1253.89,836.0,0.4
+100729,2026-02-18,Alan Anderson,South,Electronics,Laptop,8,1199.99,9599.92,863.99,6911.92,2688.0,0.28
+100401,2026-01-16,Erin Murray,South,Office Supplies,Gel Pens (Pack of 10),4,12.5,50.0,5.62,22.48,27.52,0.5504
+100702,2026-04-19,Emma Dunlap,South,Office Supplies,Paper Shredder,11,89.99,989.89,40.5,445.5,544.39,0.5499
+101500,2025-11-04,Joseph Casey,East,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+101129,2026-04-25,Maria Smith,East,Electronics,Wireless Headphones,5,149.99,749.95,107.99,539.95,210.0,0.28
+101021,2025-07-04,Caitlyn Brown,North,Electronics,Smart Phone,9,699.99,6299.91,503.99,4535.91,1764.0,0.28
+101025,2025-08-01,John Key,West,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+101411,2025-10-22,Shannon Galvan,East,Electronics,Smart Phone,2,699.99,1399.98,503.99,1007.98,392.0,0.28
+101104,2026-03-16,Steven Berry,West,Furniture,Sofa,13,799.99,10399.87,479.99,6239.87,4160.0,0.4
+100205,2026-01-14,Unknown Customer,East,Furniture,Dining Table,2,450.0,900.0,270.0,540.0,360.0,0.4
+100034,2026-01-29,Justin Gross,South,Office Supplies,Gel Pens (Pack of 10),11,12.5,137.5,5.62,61.82,75.68,0.5504
+100775,2026-04-21,Elizabeth Mccoy,South,Furniture,Office Chair,11,189.99,2089.89,113.99,1253.89,836.0,0.4
+101451,2026-05-16,Joanne Martinez,South,Office Supplies,Notebook,8,4.99,39.92,2.25,18.0,21.92,0.5491
+101478,2026-02-17,Courtney Reyes,South,Electronics,Smart Watch,10,249.99,2499.9,179.99,1799.9,700.0,0.28
+101390,2026-03-28,Beth Combs,South,Office Supplies,Gel Pens (Pack of 10),15,12.5,187.5,5.62,84.3,103.2,0.5504
+100091,2026-05-26,Jose Murray,North,Electronics,Laptop,7,1199.99,8399.93,863.99,6047.93,2352.0,0.28
+101363,2026-04-12,Andrew Huffman,West,Electronics,Smart Watch,6,249.99,1499.94,179.99,1079.94,420.0,0.28
+100897,2025-11-10,Emily Young,North,Furniture,Dining Table,3,450.0,1350.0,270.0,810.0,540.0,0.4
+100564,2025-09-02,Mark Fisher,West,Furniture,Office Chair,2,189.99,379.98,113.99,227.98,152.0,0.4
+101369,2026-05-16,Desiree Mcdaniel,East,Office Supplies,Notebook,4,4.99,19.96,2.25,9.0,10.96,0.5491
+100776,2026-01-24,Jacob Davis,East,Furniture,Sofa,1,799.99,799.99,479.99,479.99,320.0,0.4
+100241,2026-02-01,Allison Wilson,North,Electronics,Smart Phone,5,699.99,3499.95,503.99,2519.95,980.0,0.28
+100013,2025-09-24,Aaron Steele,South,Electronics,Wireless Headphones,1,149.99,149.99,107.99,107.99,42.0,0.28
+100315,2026-03-27,Laura Thompson,West,Electronics,Smart Phone,6,699.99,4199.94,503.99,3023.94,1176.0,0.28
+100600,2025-06-27,Christian Allen,East,Electronics,Laptop,13,1199.99,15599.87,863.99,11231.87,4368.0,0.28
+100387,2025-09-20,Patrick Wolf,North,Office Supplies,Notebook,12,4.99,59.88,2.25,27.0,32.88,0.5491
+101297,2026-01-19,Lori Carter,West,Electronics,Wireless Headphones,14,149.99,2099.86,107.99,1511.86,588.0,0.28
+100166,2025-07-28,Andrew Parker,North,Electronics,Smart Watch,10,249.99,2499.9,179.99,1799.9,700.0,0.28
+100840,2025-09-11,Ryan Rivera,North,Furniture,Office Chair,3,189.99,569.97,113.99,341.97,228.0,0.4
+100020,2025-09-29,Lawrence Hubbard,East,Furniture,Office Chair,15,189.99,2849.85,113.99,1709.85,1140.0,0.4
+100646,2026-05-25,Daryl Delacruz,West,Office Supplies,Paper Shredder,7,89.99,629.93,40.5,283.5,346.43,0.5499
+101508,2025-06-25,John Hunt,South,Electronics,Wireless Headphones,15,149.99,2249.85,107.99,1619.85,630.0,0.28
+101528,2025-10-17,Anthony Kelly,East,Furniture,Office Chair,13,189.99,2469.87,113.99,1481.87,988.0,0.4
+100831,2026-02-03,Kylie King,South,Furniture,Sofa,10,799.99,7999.9,479.99,4799.9,3200.0,0.4
+101590,2026-02-27,Kyle Perry,South,Furniture,Office Chair,14,189.99,2659.86,113.99,1595.86,1064.0,0.4
+100562,2026-01-31,Mary Hardy,North,Furniture,Dining Table,3,450.0,1350.0,270.0,810.0,540.0,0.4
+100686,2025-12-20,Grace Lester,East,Electronics,Smart Watch,6,249.99,1499.94,179.99,1079.94,420.0,0.28
+100957,2025-08-01,Unknown Customer,South,Office Supplies,Gel Pens (Pack of 10),6,12.5,75.0,5.62,33.72,41.28,0.5504
+100189,2026-03-14,Cheryl Harrington,West,Electronics,Laptop,11,1199.99,13199.89,863.99,9503.89,3696.0,0.28
+100699,2025-11-01,Anthony Boyle,East,Electronics,Wireless Headphones,11,149.99,1649.89,107.99,1187.89,462.0,0.28
+101499,2026-05-03,William White,South,Furniture,Dining Table,5,450.0,2250.0,270.0,1350.0,900.0,0.4
+100510,2025-11-02,Lori Little,East,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+101082,2025-10-15,Brittany Jones,North,Electronics,Smart Watch,7,249.99,1749.93,179.99,1259.93,490.0,0.28
+101584,2026-02-26,Tracey Martin,South,Furniture,Ergonomic Desk,15,299.99,4499.85,179.99,2699.85,1800.0,0.4
+100856,2026-01-12,Travis Hunter,North,Electronics,Wireless Headphones,13,149.99,1949.87,107.99,1403.87,546.0,0.28
+100747,2025-11-26,Duane Cardenas,South,Furniture,Dining Table,5,450.0,2250.0,270.0,1350.0,900.0,0.4
+100252,2026-04-30,Unknown Customer,North,Office Supplies,Gel Pens (Pack of 10),3,12.5,37.5,5.62,16.86,20.64,0.5504
+100021,2025-10-01,April Orr,West,Furniture,Sofa,3,799.99,2399.97,479.99,1439.97,960.0,0.4
+101337,2025-06-07,Jesus Humphrey Jr.,North,Office Supplies,Notebook,13,4.99,64.87,2.25,29.25,35.62,0.5491
+101184,2025-07-09,Nancy Ray,North,Furniture,Sofa,1,799.99,799.99,479.99,479.99,320.0,0.4
+100955,2026-02-16,Andrew Brown,East,Office Supplies,File Organizer,8,24.99,199.92,11.25,90.0,109.92,0.5498
+101215,2026-05-15,Jeffrey Hudson,West,Office Supplies,File Organizer,12,24.99,299.88,11.25,135.0,164.88,0.5498
+100385,2026-02-21,Unknown Customer,East,Electronics,Wireless Headphones,1,149.99,149.99,107.99,107.99,42.0,0.28
+100805,2026-02-27,Sandra Rice,North,Office Supplies,File Organizer,9,24.99,224.91,11.25,101.25,123.66,0.5498
+101515,2026-01-11,Mark Berry,North,Furniture,Dining Table,13,450.0,5850.0,270.0,3510.0,2340.0,0.4
+100769,2025-06-06,Katie White,East,Office Supplies,Gel Pens (Pack of 10),2,12.5,25.0,5.62,11.24,13.76,0.5504
+101332,2026-01-13,Nancy Miller,North,Office Supplies,Notebook,7,4.99,34.93,2.25,15.75,19.18,0.5491
+100130,2025-10-27,Ricardo Rivera,South,Furniture,Dining Table,12,450.0,5400.0,270.0,3240.0,2160.0,0.4
+100871,2025-08-13,Denise Payne,North,Electronics,Laptop,7,1199.99,8399.93,863.99,6047.93,2352.0,0.28
+101123,2026-05-03,Anne Wright,North,Electronics,Smart Watch,2,249.99,499.98,179.99,359.98,140.0,0.28
+101396,2026-03-11,John Allen,East,Furniture,Ergonomic Desk,11,299.99,3299.89,179.99,1979.89,1320.0,0.4
+100087,2025-06-02,Wendy Thomas,East,Furniture,Dining Table,3,450.0,1350.0,270.0,810.0,540.0,0.4
+101482,2026-03-17,Emily Mcneil,East,Electronics,Laptop,3,1199.99,3599.97,863.99,2591.97,1008.0,0.28
+101238,2025-07-13,Danielle Johnson,East,Furniture,Office Chair,14,189.99,2659.86,113.99,1595.86,1064.0,0.4
+101044,2025-08-29,Jason Smith,South,Furniture,Sofa,4,799.99,3199.96,479.99,1919.96,1280.0,0.4
+101130,2026-02-05,Michael Jensen,North,Furniture,Dining Table,8,450.0,3600.0,270.0,2160.0,1440.0,0.4
+101294,2025-07-25,Joseph Poole,East,Office Supplies,File Organizer,6,24.99,149.94,11.25,67.5,82.44,0.5498
+100860,2025-12-06,Sean Johnson,East,Electronics,Wireless Headphones,15,149.99,2249.85,107.99,1619.85,630.0,0.28
+101459,2025-10-23,Kelli Mckinney,South,Furniture,Dining Table,15,450.0,6750.0,270.0,4050.0,2700.0,0.4
+101126,2026-01-31,Phillip Marshall,East,Office Supplies,Notebook,10,4.99,49.9,2.25,22.5,27.4,0.5491

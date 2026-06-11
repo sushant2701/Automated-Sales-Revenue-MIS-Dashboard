@@ -1,0 +1,1665 @@
+Transaction_ID,Date,Customer_Name,Product_Category,Product_Name,Units_Sold,Unit_Price,Revenue,Region
+101448,2025-10-20,Phillip Wall, Office Supplies ,Gel Pens (Pack of 10),4.0,12.5,50.0,NORTH
+100168,23/03/2026,Lauren Anderson,Office Supplies,Paper Shredder,4.0,89.99,359.96,North
+100220,"may 04, 2026",Zachary Evans,Furniture,Dining Table,9.0,450.0,4050.0,South
+101523,2025-12-30,Teresa Grant,Office Supplies,Notebook,11.0,4.99,54.89,WEST
+100344,21/02/2026,Debra Cummings,Electronics,Smart Phone,15.0,699.99,10499.85,EAST
+100271,20/10/2025,Trevor Donaldson,Office Supplies,Paper Shredder,14.0,89.99,1259.86,South
+101597,03/08/2025,Joshua Contreras,Electronics,Laptop,11.0,,,West
+101252,08/04/2026,Wanda Short,Electronics,Smart Phone,7.0,699.99,4899.93,South
+100650,"August 09, 2025",Roger Kennedy,furniture,Sofa,8.0,799.99,6399.92,West
+100532,04/10/2025,,furniture,Sofa,8.0,799.99,6399.92,S
+101399,"June 24, 2025",, Furniture ,Sofa,15.0,799.99,11999.85,EAST
+100767,25/12/2025,Carl Turner,Electronics,Wireless Headphones,14.0,149.99,2099.86,N
+100865,2025-08-10,Derek Mitchell,Office Supplies,Paper Shredder,13.0,89.99,1169.87,West
+100560,"September 11, 2025",Joe Carpenter,Furniture,Sofa,15.0,799.99,11999.85,East
+101502,2026-01-31,Justin Trevino,Office Supplies,Gel Pens (Pack of 10),10.0,12.5,125.0,E
+101208,22/10/2025,John Joseph,electronics,Smart Watch,,249.99,,South
+100203,"May 22, 2026",Steven Bowen, Electronics ,Smart Watch,7.0,249.99,1749.93,South
+100210,"jul 01, 2025",William Nelson,furniture,Dining Table,12.0,450.0,5400.0,West
+100135,20/11/2025,John Miller,Office Supplies,Notebook,14.0,4.99,69.86,South
+101113,14/04/2026,,Office Supplies,File Organizer,11.0,24.99,274.89,NORTH
+100650,"August 09, 2025",Roger Kennedy,furniture,Sofa,8.0,799.99,6399.92,West
+100070,"August 17, 2025",Martha Romero,Furniture,Office Chair,3.0,189.99,569.97,W
+101173,"February 10, 2026",Justin Garcia,office supplies,Gel Pens (Pack of 10),12.0,12.5,150.0,West
+100471,"February 23, 2026",Vincent Holland,Furniture,Sofa,4.0,799.99,,North
+100987,"May 09, 2026",Trevor Zavala,Electronics,Wireless Headphones,15.0,149.99,,East
+101531,08/08/2025,Geoffrey Espinoza,Electronics,Wireless Headphones,10.0,149.99,1499.9,WEST
+100239,14/01/2026,Ryan Everett, Electronics ,Smart Phone,15.0,699.99,10499.85,West
+100049,"November 13, 2025",Jeffrey Smith,Electronics,Smart Phone,5.0,699.99,3499.95,North
+100802,2026-04-14,Dr. Kevin Miller Jr.,Office Supplies,Gel Pens (Pack of 10),13.0,12.5,162.5,north
+101258,,Stacy Webb,Office Supplies,File Organizer,11.0,24.99,274.89,East
+100873,2026-03-04,Nathan Green,Office Supplies,Gel Pens (Pack of 10),1.0,12.5,12.5,West
+100331,"August 15, 2025",Paul Vaughn,Electronics,Laptop,5.0,1199.99,5999.95,East
+101055,2026-04-10,Sandra Stone,Office Supplies,Mutated Product,11.0,4.99,999.99,East
+100065,"mar 09, 2026",Mark Heath,Electronics,Wireless Headphones,8.0,149.99,,
+101480,"apr 19, 2026",Shannon Roberts,Furniture,Ergonomic Desk,9.0,299.99,2699.91,south
+100554,"jul 28, 2025",Renee Singh,office supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,East
+101159,"jan 22, 2026",Lisa Fitzgerald,Furniture,Ergonomic Desk,5.0,299.99,1499.95,West
+100023,05/06/2025,Jason Cox,Office Supplies,Paper Shredder,15.0,89.99,1349.85,SOUTH
+101124,24/02/2026,Katherine Castro,Office Supplies,Paper Shredder,10.0,89.99,899.9,West
+101449,"aug 06, 2025",Kimberly Bailey,office supplies,Notebook,7.0,4.99,34.93,North
+100185,19/05/2026,Jamie Rowe,Office Supplies,Notebook,9.0,4.99,44.910000000000004,West
+100450,25/05/2026,Micheal Lee,Electronics,Smart Watch,3.0,249.99,749.97,South
+100451,"December 14, 2025",Spencer Nelson,Electronics,Smart Watch,12.0,249.99,2999.88,N
+101073,01/12/2025,Elijah Keller,Office Supplies,File Organizer,6.0,24.99,149.94,S
+100923,17/09/2025,Elizabeth Fields,furniture,Sofa,14.0,799.99,11199.86,South
+100634,28/09/2025,Joshua Joyce, Furniture ,Office Chair,6.0,189.99,1139.94,East
+100963,"feb 28, 2026",Stephanie Thomas,Electronics,Wireless Headphones,5.0,149.99,749.95,South
+100598,26/02/2026,Maria Walker,Furniture,Sofa,5.0,799.99,3999.95,north
+100513,25/07/2025,Hector Williams,Electronics,Wireless Headphones,7.0,149.99,1049.93,west
+101569,24/01/2026,Jacob Reid,Furniture,Dining Table,7.0,450.0,3150.0,East
+100361,"January 29, 2026",Holly Perez PhD,Office Supplies,Notebook,1.0,4.99,4.99,North
+100030,15/06/2025,Christopher Huffman, Electronics ,Wireless Headphones,3.0,149.99,,East
+100426,20/06/2025,Chad Scott,Electronics,Smart Phone,8.0,699.99,5599.92,West
+100135,20/11/2025,John Miller,Office Supplies,Notebook,14.0,4.99,69.86,South
+101415,08/11/2025,Craig Costa,office supplies,Notebook,1.0,4.99,4.99,East
+100901,19/09/2025,Stephanie Kirby,Electronics,Laptop,3.0,1199.99,3599.9700000000003,West
+100383,"apr 04, 2026",Jamie Mitchell,furniture,Ergonomic Desk,15.0,299.99,4499.85,West
+100029,25/09/2025,Kathleen Harrison,Electronics,Smart Phone,11.0,699.99,7699.89,West
+100374,2025-07-25,Michele Johnson DVM,Electronics,Smart Watch,4.0,249.99,999.96,S
+100874,30/10/2025,Nicole Thornton,Electronics,Smart Phone,8.0,699.99,5599.92,North
+100518,"November 30, 2025",Bradley Ortega, Furniture ,Sofa,8.0,799.99,6399.92,South
+100922,"September 13, 2025",Angela Johnson,Furniture,Office Chair,12.0,189.99,2279.88,E
+101091,13/06/2025,Holly Adams,Electronics,Laptop,-2.0,1199.99,-2399.98,East
+100585,"nov 22, 2025",Maria Matthews, Office Supplies ,Gel Pens (Pack of 10),,12.5,,West
+100030,15/06/2025,Christopher Huffman, Electronics ,Wireless Headphones,3.0,149.99,,East
+100371,,Donna Mccarthy,electronics,Smart Watch,7.0,249.99,1749.93,NORTH
+100950,"dec 21, 2025",Michelle Smith,Office Supplies,Notebook,6.0,4.99,29.94,north
+100506,07/06/2025,Jeffrey Stevenson,Electronics,Wireless Headphones,6.0,149.99,899.94,South
+100591,"December 07, 2025",Kimberly Smith,Electronics,Smart Watch,2.0,249.99,,East
+101177,08/10/2025,Anthony Castro,Furniture,Dining Table,14.0,450.0,6300.0,South
+101280,,Casey West,electronics,Smart Watch,9.0,249.99,2249.91,S
+101165,"nov 16, 2025",Michael Berry,office supplies,Paper Shredder,8.0,89.99,827.9079999999999,east
+100162,14/03/2026,Tyler Merritt,Furniture,Ergonomic Desk,,299.99,,West
+100756,06/08/2025,Erin Goodman, Office Supplies ,Notebook,6.0,4.99,29.94,West
+100408,22/06/2025,Joel Lopez,Electronics,Smart Watch,,249.99,,West
+101197,18/11/2025,,Furniture,Office Chair,3.0,189.99,569.97,North
+100930,10/09/2025,Lauren Aguilar,office supplies,File Organizer,-3.0,,,EAST
+100367,"dec 29, 2025",Cameron Flores, Electronics ,Smart Phone,3.0,699.99,2099.9700000000003,
+101172,"October 15, 2025",Alyssa Garner,Office Supplies,Paper Shredder,10.0,89.99,899.9,east
+100244,"December 16, 2025",Paul King,Furniture,Dining Table,3.0,450.0,1350.0,East
+100759,2025-08-18,Kristina Tyler,office supplies,File Organizer,2.0,24.99,49.98,North
+100433,25/01/2026,Suzanne Wright,Furniture,Dining Table,4.0,450.0,1800.0,East
+100429,"November 11, 2025",Christopher Pineda,furniture,Office Chair,5.0,189.99,,South
+100065,"mar 09, 2026",Mark Heath,Electronics,Wireless Headphones,8.0,149.99,,
+101229,2025-06-30,Christopher Bailey, Office Supplies ,Notebook,12.0,4.99,59.88,East
+100032,"November 17, 2025",John Barnes,office supplies,Paper Shredder,11.0,89.99,989.89,West
+100859,"jan 05, 2026",Dr. Carol Chavez, Furniture ,Dining Table,1.0,450.0,450.0,West
+100438,"nov 15, 2025",Donna Carrillo,furniture,Office Chair,2.0,189.99,379.98,South
+101392,13/09/2025,Kevin Morales DVM,Office Supplies,Gel Pens (Pack of 10),10.0,12.5,125.0,North
+100810,"August 15, 2025",Gary Weiss,Electronics,Smart Phone,5.0,699.99,3499.95,WEST
+100889,2025-12-26,Justin Garcia,Office Supplies,Paper Shredder,8.0,89.99,719.92,West
+101058,"October 06, 2025",Colleen Weber,Electronics,Laptop,15.0,1199.99,17999.85,South
+101272,2025-09-27,Kathleen Davis,Electronics,Laptop,15.0,1199.99,17999.85,North
+101005,03/04/2026,David West,Furniture,Dining Table,14.0,450.0,6300.0,North
+100940,"February 27, 2026",Nathan Long,Furniture,Ergonomic Desk,5.0,299.99,1499.95,East
+101544,23/08/2025,Marissa Lopez,furniture,Sofa,15.0,799.99,11999.85,West
+100099,02/11/2025,Benjamin Thompson,Electronics,Laptop,13.0,1199.99,,West
+100660,,William Henderson, Electronics ,Smart Watch,12.0,249.99,2999.88,West
+101043,13/08/2025,Aaron Miller,Furniture,Office Chair,11.0,189.99,2089.8900000000003,North
+100727,2026-01-01,Sydney Adams,Office Supplies,Paper Shredder,15.0,89.99,1349.85,West
+100674,11/10/2025,Mary Munoz,Furniture,Sofa,11.0,799.99,8799.89,NORTH
+100059,14/10/2025,Erika Rodriguez,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,north
+100251,"June 01, 2025",Austin Bowers,Electronics,Smart Watch,8.0,249.99,1999.92,west
+100069,"November 12, 2025",Matthew Knight,Electronics,Laptop,10.0,1199.99,11999.9,West
+101442,03/08/2025,Erica Jones,Office Supplies,File Organizer,,24.99,,WEST
+101406,"aug 10, 2025",Jessica White,Furniture,Ergonomic Desk,7.0,299.99,2099.9300000000003,SOUTH
+101548,"June 11, 2025",Brandon Turner,Furniture,Sofa,8.0,799.99,6399.92,S
+100115,08/12/2025,Jennifer Moore,Office Supplies,Notebook,12.0,4.99,59.88,South
+101063,"apr 16, 2026",,Electronics,Smart Phone,5.0,699.99,3499.95,West
+101341,"January 12, 2026",Robin Nelson, Furniture ,Sofa,15.0,799.99,11999.85,South
+101285,2026-04-09,Briana Clarke,Office Supplies,Notebook,11.0,4.99,54.89,North
+100173,06/09/2025,Nicholas Casey,Office Supplies,Notebook,12.0,4.99,59.88,South
+101067,"apr 10, 2026",Christine Reed,electronics,Smart Phone,12.0,699.99,8399.880000000001,N
+101078,07/02/2026,Donna Winters,Electronics,Wireless Headphones,11.0,149.99,1649.89,South
+100494,2025-08-19,Theresa Delacruz,Electronics,Wireless Headphones,11.0,149.99,1649.89,South
+101052,2025-12-27,Lisa Martinez,Furniture,Ergonomic Desk,4.0,299.99,1199.96,W
+100619,"April 14, 2026",Aaron Brooks, Office Supplies ,Notebook,6.0,4.99,,north
+101534,"jun 21, 2025",Travis Moore,Electronics,Wireless Headphones,10.0,149.99,1499.9,north
+100078,,Taylor Mcintosh,office supplies,Gel Pens (Pack of 10),11.0,12.5,,East
+100907,29/01/2026,Jessica Coleman, Office Supplies ,Notebook,1.0,4.99,4.99,S
+100300,"May 21, 2026",Matthew Brown,Electronics,Wireless Headphones,7.0,149.99,1049.93,East
+100582,"may 05, 2026",Heidi Wright,Office Supplies,Paper Shredder,7.0,89.99,629.93,E
+101181,"April 10, 2026",Christine Kelly,Electronics,Smart Watch,13.0,249.99,3249.87,W
+100745,01/05/2026,Katherine Brown,Electronics,Smart Watch,7.0,249.99,1749.93,North
+100023,05/06/2025,Jason Cox,Office Supplies,Paper Shredder,15.0,89.99,1349.85,SOUTH
+101361,"dec 01, 2025",Brenda Hoffman, Office Supplies ,Gel Pens (Pack of 10),14.0,12.5,175.0,North
+100669,03/12/2025,Courtney Callahan,Office Supplies,Notebook,12.0,4.99,59.88,South
+100485,13/04/2026,Juan Santiago,Electronics,Wireless Headphones,6.0,149.99,1034.931,EAST
+101510,"March 10, 2026",Joshua Ballard DDS, Office Supplies ,Paper Shredder,12.0,89.99,1079.8799999999999,north
+100985,17/12/2025,Robert Callahan,Furniture,Office Chair,5.0,189.99,,north
+100982,2025-06-26,Robert Malone,Furniture,Sofa,7.0,799.99,5599.93,north
+101131,2025-10-26,David Larson,Office Supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,South
+101228,16/06/2025,Isaac Pierce,Electronics,Wireless Headphones,3.0,149.99,449.97,North
+100289,"jul 28, 2025",Lindsay Parks,Electronics,Smart Phone,14.0,699.99,9799.86,South
+100588,26/03/2026,Andrea Hanna,Electronics,Wireless Headphones,8.0,149.99,1199.92,South
+100439,"apr 12, 2026",Thomas Smith,Office Supplies,File Organizer,4.0,24.99,99.96,West
+100275,2025-11-05,James Rodriguez, Furniture ,Ergonomic Desk,6.0,299.99,1799.94,North
+100124,06/12/2025,Stephanie Davis,Office Supplies,Paper Shredder,13.0,89.99,1169.87,East
+101290,03/08/2025,John Zamora, Electronics ,Wireless Headphones,15.0,149.99,2249.8500000000004,West
+100411,29/04/2026,Kim Adams,Office Supplies,Gel Pens (Pack of 10),12.0,12.5,150.0,West
+100846,2026-05-03,Elizabeth Fowler,Electronics,Smart Phone,5.0,699.99,3499.95,South
+101427,"October 11, 2025",Megan Hardy,Furniture,Ergonomic Desk,1.0,299.99,299.99,South
+100259,18/06/2025,Teresa Smith,Office Supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,south
+100303,25/07/2025,Jennifer Costa,Electronics,Smart Watch,-1.0,249.99,-249.99,east
+101033,,Ian Sims,Furniture,Dining Table,5.0,450.0,2250.0,North
+100544,"September 23, 2025",Richard Rivera,Electronics,Smart Phone,15.0,699.99,10499.85,East
+100415,"mar 13, 2026",Debra Adams, Electronics ,Smart Phone,3.0,699.99,,East
+101423,"sep 28, 2025",Laura Coleman,Electronics,Smart Phone,2.0,699.99,1399.98,South
+100730,"jun 05, 2025",Molly Christensen,office supplies,File Organizer,9.0,24.99,224.91,north
+100270,"November 02, 2025",Jose Bruce, Office Supplies ,File Organizer,10.0,24.99,249.89999999999998,EAST
+100482,"May 09, 2026",Caitlyn Maldonado,Furniture,Dining Table,12.0,450.0,5400.0,South
+100855,2025-06-05,Kevin Flores,Furniture,Office Chair,6.0,189.99,1139.94,East
+100694,16/07/2025,Brandy Myers,Furniture,Sofa,5.0,799.99,,S
+100722,25/05/2026,Jill Herring,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,East
+100983,06/04/2026,Alejandro Johnson,Furniture,Ergonomic Desk,7.0,299.99,2099.9300000000003,
+100297,"dec 27, 2025",Scott Ellis,Electronics,Wireless Headphones,10.0,149.99,1499.9,South
+101187,03/12/2025,Mr. Joshua Woodward,electronics,Wireless Headphones,5.0,149.99,749.95,
+100984,"jan 02, 2026",Michael Lewis,Furniture,Office Chair,6.0,189.99,1310.931,South
+100073,"July 22, 2025",Norman Moore,Furniture,Dining Table,12.0,,,west
+100109,"oct 24, 2025",Justin Santiago, Furniture ,Dining Table,6.0,450.0,2700.0,west
+101117,"jan 24, 2026",John Mason,Furniture,Sofa,13.0,799.99,,west
+100464,"mar 31, 2026",Zachary Hernandez,Electronics,Smart Watch,7.0,249.99,1749.93,
+100188,13/03/2026,Michael Williams,Office Supplies,File Organizer,,24.99,,W
+100350,"August 01, 2025",Juan Miller,Electronics,Smart Watch,,249.99,,East
+101460,10/07/2025,Dr. Andrea Perry,Electronics,Wireless Headphones,14.0,149.99,,West
+100944,"jun 02, 2025",Patrick Park,Office Supplies,Paper Shredder,13.0,89.99,1169.87,West
+100780,"July 18, 2025",Erik Cruz,Electronics,Smart Phone,,699.99,,
+100237,01/11/2025,Emma Jones, Furniture ,Dining Table,1.0,450.0,450.0,North
+100051,"October 02, 2025",Jacob Bowers,Office Supplies,File Organizer,11.0,24.99,,South
+100786,16/06/2025,Michael Mckinney,furniture,Dining Table,4.0,450.0,1800.0,North
+100076,,Rebecca Gardner,Furniture,Office Chair,4.0,189.99,759.96,WEST
+100772,2025-12-04,Kathryn Edwards,Electronics,Wireless Headphones,15.0,149.99,2249.8500000000004,West
+100332,28/01/2026,Diane Strickland,Furniture,Dining Table,4.0,450.0,1800.0,east
+100495,,Jacqueline Gardner, Office Supplies ,Notebook,12.0,4.99,59.88,South
+101125,01/02/2026,Joshua Farrell,Electronics,Smart Phone,3.0,699.99,2099.9700000000003,South
+101472,03/07/2025,,electronics,Wireless Headphones,6.0,149.99,,South
+100032,"November 17, 2025",John Barnes,office supplies,Paper Shredder,11.0,89.99,989.89,West
+100123,2025-11-30,Mark Munoz,Electronics,Wireless Headphones,5.0,149.99,749.95,West
+101182,18/04/2026,Brianna Wallace,electronics,Smart Watch,14.0,249.99,3499.86,East
+100754,04/07/2025,Michael Taylor,Electronics,Smart Phone,13.0,699.99,9099.87,North
+101304,04/06/2025,Jason Lee,Electronics,Smart Phone,3.0,699.99,2099.9700000000003,south
+100948,,Susan Robertson,Office Supplies,Paper Shredder,14.0,89.99,1259.86,North
+101493,2025-08-01,Anthony Hopkins, Office Supplies ,Notebook,6.0,4.99,29.94,West
+101378,,Bryan Diaz,Electronics,Laptop,10.0,1199.99,11999.9,East
+100700,"May 06, 2026",Amanda Perry,Electronics,Laptop,1.0,1199.99,1199.99,South
+101222,13/05/2026,Mr. Marc Cunningham DDS,Office Supplies,Paper Shredder,15.0,89.99,1349.85,West
+101418,2026-03-15,Sara Townsend,Office Supplies,File Organizer,4.0,24.99,99.96,East
+100339,"nov 05, 2025",Jeremy Ramirez, Office Supplies ,Paper Shredder,13.0,89.99,1169.87,West
+100261,2025-06-07,Monica Cain,office supplies,File Organizer,2.0,24.99,49.98,North
+101027,,Ashley Diaz,Office Supplies,Notebook,-3.0,4.99,,
+100247,2025-07-08,Susan Young,Furniture,Sofa,10.0,799.99,7999.9,West
+100212,18/07/2025,Bryan Park,Office Supplies,File Organizer,11.0,24.99,316.1235,West
+101506,,Pamela Riley,Furniture,Sofa,4.0,799.99,3199.96,West
+100067,10/03/2026,Suzanne Hill,electronics,Smart Watch,4.0,249.99,999.96,West
+101587,"dec 07, 2025",Bobby Moore,Furniture,Dining Table,9.0,450.0,4050.0,North
+101079,19/05/2026,Sharon Glass,Electronics,Wireless Headphones,10.0,149.99,1499.9,East
+100141,05/12/2025,Hayley Ball,Furniture,Ergonomic Desk,1.0,299.99,299.99,West
+100777,"oct 02, 2025",Collin Myers,Electronics,Smart Watch,,249.99,,East
+100936,19/05/2026,Deborah Wilcox,Electronics,Wireless Headphones,9.0,149.99,1349.91,WEST
+100943,"April 21, 2026",Russell Barnes,Office Supplies,Paper Shredder,9.0,89.99,809.91,west
+100999,2026-04-09,Timothy Foster,furniture,Dining Table,-4.0,450.0,-1800.0,West
+101416,27/04/2026,Jerry Harmon, Electronics ,Smart Watch,7.0,249.99,1749.93,EAST
+100530,26/01/2026,David Smith,Furniture,Sofa,15.0,799.99,11999.85,South
+101174,28/05/2026,Tammy Gray, Furniture ,Sofa,13.0,799.99,10399.87,west
+100382,23/04/2026,Eric Kim,Office Supplies,Paper Shredder,11.0,89.99,989.89,West
+101169,,Tyler Martinez,Office Supplies,Paper Shredder,10.0,89.99,899.9,West
+101347,19/02/2026,Megan Whitney,Office Supplies,Paper Shredder,10.0,89.99,899.9,east
+100829,"January 14, 2026",Lisa Thompson,Electronics,Wireless Headphones,3.0,149.99,449.97,South
+100888,07/04/2026,Karen Edwards,furniture,Ergonomic Desk,7.0,,,West
+100618,2025-06-29,Ashley Williams,Office Supplies,Notebook,5.0,4.99,24.950000000000003,North
+100184,"March 28, 2026",Ian Brown,Electronics,Smart Watch,15.0,249.99,3749.8500000000004,East
+101287,"July 03, 2025",Nicole Riley,office supplies,File Organizer,8.0,24.99,199.92,West
+100946,"apr 04, 2026",Julia Best,Office Supplies,File Organizer,9.0,24.99,224.91,south
+101360,2026-02-25,Sarah Wilson,Furniture,Office Chair,,189.99,,North
+101453,2025-12-25,Mary Williams,Office Supplies,Paper Shredder,14.0,89.99,1259.86,North
+100240,,John Jones,Furniture,Dining Table,6.0,450.0,2700.0,South
+101496,"May 24, 2026",Daniel Grant,Electronics,Smart Watch,,249.99,,West
+100453,2026-02-27,Nicole King, Office Supplies ,Notebook,2.0,4.99,9.98,East
+101407,10/08/2025,Darrell Henderson,Furniture,Ergonomic Desk,3.0,299.99,899.97,North
+101366,"apr 17, 2026",Robert Wood,Furniture,Ergonomic Desk,9.0,299.99,2699.91,West
+100420,"September 08, 2025",Carlos Flores,Electronics,Smart Phone,1.0,699.99,699.99,West
+101385,2025-10-05,Angela Allen, Electronics ,Mutated Product,6.0,149.99,999.99,East
+100705,,Kenneth May,Electronics,Wireless Headphones,12.0,149.99,1799.88,East
+100366,"aug 23, 2025",Jerry Buck,Office Supplies,File Organizer,14.0,24.99,349.85999999999996,EAST
+101340,15/01/2026,,Furniture,Sofa,10.0,,,South
+100575,29/08/2025,Leah Wise,Office Supplies,Notebook,13.0,4.99,64.87,East
+100714,"December 23, 2025",Jennifer Livingston,furniture,Office Chair,2.0,189.99,379.98,W
+100526,10/11/2025,Brandi Myers,Furniture,Sofa,6.0,799.99,4799.9400000000005,east
+101006,"oct 20, 2025",,Furniture,Ergonomic Desk,7.0,299.99,2099.9300000000003,WEST
+101089,"July 23, 2025",Kayla Kim,Office Supplies,Gel Pens (Pack of 10),12.0,12.5,150.0,North
+101232,"September 29, 2025",Barbara Case, Furniture ,Dining Table,13.0,450.0,5850.0,South
+100939,11/02/2026,Abigail Hamilton,electronics,Laptop,11.0,1199.99,13199.89,West
+100724,"November 19, 2025",Kimberly Gomez,Furniture,Office Chair,2.0,189.99,379.98,East
+100522,"November 07, 2025",Derek Richardson,Office Supplies,File Organizer,8.0,24.99,199.92,West
+100405,"April 29, 2026",Mary Gonzalez,furniture,Dining Table,14.0,450.0,6300.0,North
+101037,2025-07-30,Nancy Brown, Furniture ,Office Chair,15.0,189.99,2849.8500000000004,South
+100904,25/01/2026,Michele Smith, Office Supplies ,Paper Shredder,12.0,89.99,1079.8799999999999,east
+100381,10/07/2025,Daniel Mcknight,Electronics,Smart Phone,2.0,699.99,1399.98,South
+100887,"oct 17, 2025",,Electronics,Smart Phone,2.0,699.99,1399.98,S
+100601,"feb 03, 2026",Robert Love, Electronics ,Smart Watch,11.0,249.99,2749.8900000000003,South
+100298,2026-04-21,Deborah Mason,Office Supplies,Notebook,13.0,4.99,64.87,North
+101388,"September 16, 2025",Victoria Noble,Office Supplies,Paper Shredder,12.0,89.99,1079.8799999999999,North
+100414,"June 03, 2025",Ricky Oconnor,Office Supplies,File Organizer,4.0,24.99,99.96,NORTH
+101040,"may 23, 2026",Brian Perez,Furniture,Dining Table,11.0,450.0,4950.0,north
+100857,2026-02-15,Christian Carlson,Furniture,Ergonomic Desk,1.0,299.99,299.99,North
+100353,"October 11, 2025",William Woodward,Electronics,Wireless Headphones,4.0,149.99,599.96,West
+100170,2025-09-03,Joseph Kaiser, Office Supplies ,File Organizer,4.0,24.99,99.96,West
+101132,"oct 14, 2025",John Jones,Office Supplies,File Organizer,11.0,24.99,274.89,east
+100566,"jan 22, 2026",Eric Park,Office Supplies,File Organizer,14.0,24.99,349.85999999999996,East
+100324,04/03/2026,John Thomas,Furniture,Dining Table,6.0,450.0,2700.0,North
+100044,"nov 27, 2025",Alexandra James, Electronics ,Smart Phone,13.0,699.99,,SOUTH
+100737,11/12/2025,,Furniture,Mutated Product,2.0,189.99,999.99,NORTH
+100966,"aug 27, 2025",Diane Roberts,Electronics,Laptop,6.0,1199.99,7199.9400000000005,EAST
+101041,10/10/2025,Richard Rice,Office Supplies,File Organizer,5.0,24.99,124.94999999999999,South
+100721,"September 26, 2025",Debbie Perez,Electronics,Laptop,,1199.99,,North
+101377,"October 07, 2025",Nathan Williams,Office Supplies,File Organizer,,24.99,,West
+100710,2025-06-04,Summer Gray,Office Supplies,File Organizer,12.0,24.99,299.88,North
+100915,03/03/2026,Stephanie Davis,office supplies,Gel Pens (Pack of 10),12.0,12.5,150.0,E
+101368,"May 14, 2026",Matthew King, Electronics ,Smart Phone,14.0,699.99,9799.86,North
+100427,,Jacob Jacobs, Electronics ,Laptop,4.0,1199.99,4799.96,North
+101137,"mar 02, 2026",,Furniture,Dining Table,13.0,450.0,5850.0,N
+100175,"November 08, 2025",Christopher Wise,furniture,Office Chair,10.0,189.99,,WEST
+101504,,Linda Strickland,Furniture,Sofa,13.0,799.99,10399.87,East
+100614,2025-06-03,Richard Mcconnell,furniture,Dining Table,6.0,450.0,,West
+100529,2025-11-08,Brittany Bishop,Electronics,Smart Watch,7.0,249.99,1749.93,South
+100316,"August 20, 2025",Todd Cook,Office Supplies,Gel Pens (Pack of 10),3.0,12.5,37.5,East
+100994,"mar 23, 2026",Zachary Salas,furniture,Sofa,4.0,799.99,3199.96,East
+100198,,Krista Schwartz, Furniture ,Ergonomic Desk,8.0,299.99,2399.92,N
+100015,2025-07-20,Xavier Moore,Office Supplies,File Organizer,6.0,24.99,149.94,N
+100486,"mar 25, 2026",Hannah Lewis,Office Supplies,Gel Pens (Pack of 10),13.0,12.5,162.5,E
+101420,2025-10-07,Jon Wallace, Furniture ,Dining Table,9.0,450.0,4050.0,East
+101029,2026-05-28,Jason Wright,electronics,Laptop,14.0,,,North
+100736,"August 30, 2025",Theresa Blair,Furniture,Dining Table,2.0,450.0,900.0,South
+101230,"aug 15, 2025",Elizabeth Reed,Office Supplies,File Organizer,5.0,24.99,124.94999999999999,North
+100351,19/10/2025,Paul Fischer,Furniture,Dining Table,13.0,450.0,5850.0,West
+101488,03/09/2025,Ronald Cain,Electronics,Smart Watch,,249.99,,N
+100706,"may 14, 2026",Tammy Davis, Office Supplies ,File Organizer,8.0,24.99,199.92,South
+100199,24/08/2025,Paige Lee,Office Supplies,Gel Pens (Pack of 10),9.0,12.5,112.5,West
+100628,"April 16, 2026",Laura Burke,Furniture,Office Chair,2.0,189.99,379.98,East
+100744,"October 21, 2025",Jason Edwards, Electronics ,Smart Phone,6.0,699.99,4199.9400000000005,West
+100422,2025-12-20,Ryan Bond,Office Supplies,Notebook,14.0,4.99,69.86,North
+101175,28/03/2026,Joseph Shields,Electronics,Laptop,2.0,1199.99,2399.98,East
+101330,"January 19, 2026",Pamela Gonzales,Electronics,Laptop,5.0,1199.99,5999.95,
+100602,"March 18, 2026",Jennifer Carter,Furniture,Sofa,2.0,799.99,1599.98,South
+101053,"August 20, 2025",Matthew Griffin,Office Supplies,File Organizer,15.0,24.99,374.84999999999997,SOUTH
+101084,02/04/2026,Denise Murray, Office Supplies ,Notebook,5.0,4.99,24.950000000000003,West
+100056,"aug 16, 2025",Amy Simmons,Office Supplies,Paper Shredder,2.0,89.99,179.98,South
+101140,,Lisa Williams,Electronics,Laptop,8.0,1199.99,9599.92,East
+100043,"jan 19, 2026",Lisa Miller,Furniture,Ergonomic Desk,13.0,299.99,3899.87,W
+100100,2026-05-09,Kathryn Fisher,Furniture,Office Chair,7.0,189.99,,West
+100274,2026-03-13,Randall Benitez,electronics,Wireless Headphones,2.0,149.99,299.98,East
+101543,"February 27, 2026",Lauren Carter,Electronics,Smart Phone,15.0,699.99,10499.85,N
+100101,"July 29, 2025",Angela Wilson,Furniture,Office Chair,6.0,189.99,1139.94,West
+101593,"October 05, 2025",Christina Rowland,Electronics,Wireless Headphones,14.0,149.99,2099.86,north
+100107,02/07/2025,Mario Leblanc,Furniture,Office Chair,13.0,189.99,2469.87,South
+101105,"December 08, 2025",Robert Ortiz,Office Supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,East
+101405,20/03/2026,Marc Smith,Furniture,Dining Table,2.0,450.0,900.0,West
+101116,"nov 06, 2025",Kelly Lynch,Office Supplies,File Organizer,4.0,24.99,99.96,North
+100629,"jun 24, 2025",Linda Mitchell,Office Supplies,Gel Pens (Pack of 10),14.0,12.5,175.0,South
+101492,17/05/2026,Jessica Fowler, Office Supplies ,Paper Shredder,4.0,89.99,359.96,east
+100394,15/08/2025,,furniture,Office Chair,6.0,189.99,1139.94,SOUTH
+100785,,,Electronics,Laptop,9.0,1199.99,10799.91,SOUTH
+100712,"October 06, 2025",Connie Edwards,Office Supplies,Notebook,5.0,4.99,24.950000000000003,South
+100990,"August 05, 2025",Kim Flores,Furniture,Ergonomic Desk,10.0,299.99,2999.9,SOUTH
+100128,29/04/2026,Brett Mosley,Furniture,Dining Table,,450.0,,East
+100483,07/12/2025,Jordan Smith,Office Supplies,File Organizer,12.0,24.99,299.88,NORTH
+100668,"October 09, 2025",Laura Griffin, Office Supplies ,Paper Shredder,9.0,89.99,809.91,West
+100720,"May 25, 2026",Christopher Parker,Electronics,Smart Watch,4.0,249.99,999.96,South
+101265,"October 07, 2025",Julie Morris,electronics,Wireless Headphones,7.0,149.99,1049.93,North
+100432,2026-05-10,Corey Baker,Office Supplies,Notebook,15.0,4.99,74.85000000000001,W
+100893,"November 12, 2025",Paul Smith,furniture,Sofa,9.0,799.99,7199.91,North
+100551,"feb 27, 2026",Eric Floyd,Furniture,Dining Table,5.0,450.0,2250.0,East
+100478,"October 30, 2025",Lindsey Armstrong,Office Supplies,Gel Pens (Pack of 10),13.0,12.5,162.5,S
+100543,"August 08, 2025",David Wright,Furniture,Dining Table,11.0,450.0,4950.0,West
+100462,28/04/2026,Jamie Tucker,Electronics,Wireless Headphones,9.0,149.99,1349.91,south
+101034,"feb 10, 2026",Jenna Gardner,Furniture,Office Chair,9.0,189.99,1709.91,South
+100941,24/10/2025,Jasmine Nguyen,Office Supplies,File Organizer,4.0,24.99,99.96,WEST
+100611,2026-05-11,Kathleen Morris,Office Supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,east
+100798,"January 22, 2026",Todd Cook,electronics,Laptop,6.0,1199.99,7199.9400000000005,West
+100590,"feb 14, 2026",Kiara Jenkins,Electronics,Smart Watch,12.0,249.99,2999.88,West
+100425,"November 05, 2025",Annette Odonnell, Office Supplies ,Paper Shredder,,89.99,,EAST
+101375,"may 12, 2026",Kimberly Clark,Furniture,Dining Table,14.0,450.0,6300.0,West
+101569,24/01/2026,Jacob Reid,Furniture,Dining Table,7.0,450.0,3150.0,East
+100478,"October 30, 2025",Lindsey Armstrong,Office Supplies,Gel Pens (Pack of 10),13.0,12.5,162.5,S
+100352,,Maria Bailey,Office Supplies,Gel Pens (Pack of 10),8.0,12.5,100.0,South
+100342,"April 02, 2026",Sarah Bartlett,Electronics,Laptop,11.0,,,S
+100226,16/10/2025,Adam Alvarado, Office Supplies ,Notebook,13.0,4.99,64.87,North
+100231,"sep 09, 2025",Alyssa Jones,Office Supplies,Gel Pens (Pack of 10),,12.5,,
+101516,,Heather Estrada, Electronics ,Laptop,12.0,1199.99,14399.880000000001,East
+101417,"jul 16, 2025",Steven Jones,office supplies,Gel Pens (Pack of 10),8.0,12.5,100.0,N
+100538,"December 03, 2025",Kathy Carson,Office Supplies,Notebook,9.0,4.99,44.910000000000004,East
+100163,"July 06, 2025",Dawn Carlson,Furniture,Office Chair,5.0,189.99,949.95,West
+100811,"November 02, 2025",Joshua Chambers, Office Supplies ,Paper Shredder,15.0,89.99,1349.85,East
+100567,2025-11-02,Frank Singleton,electronics,Laptop,,1199.99,,South
+100266,"June 30, 2025",Brett Welch,Electronics,Smart Phone,-3.0,699.99,-2099.9700000000003,North
+100148,"February 28, 2026",Hannah Padilla,furniture,Ergonomic Desk,11.0,299.99,3299.8900000000003,South
+100481,18/01/2026,Ashley Diaz MD, Furniture ,Dining Table,2.0,,,EAST
+100792,"January 09, 2026",Alexander Allen,Furniture,Ergonomic Desk,4.0,299.99,1199.96,North
+101541,"February 19, 2026",Dennis Griffith,Office Supplies,Gel Pens (Pack of 10),2.0,,,South
+101310,2026-05-07,Shelly Cameron,Furniture,Dining Table,13.0,450.0,5850.0,East
+100306,13/01/2026,Todd Moore,electronics,Wireless Headphones,13.0,149.99,1949.8700000000001,west
+100192,"November 11, 2025",Maria Lewis,Furniture,Sofa,10.0,799.99,7999.9,South
+100309,03/09/2025,Brian Castro,office supplies,Notebook,13.0,4.99,64.87,South
+100680,"December 15, 2025",Laura Lewis,Furniture,Dining Table,12.0,450.0,5400.0,South
+100063,,Blake Carter,Furniture,Sofa,12.0,799.99,9599.880000000001,North
+100838,"March 04, 2026",Cory Lucas,Furniture,Office Chair,4.0,189.99,759.96,South
+101357,"January 02, 2026",Laura White,office supplies,Mutated Product,14.0,89.99,999.99,NORTH
+101553,14/01/2026,Cynthia Miller, Furniture ,Sofa,3.0,799.99,2399.9700000000003,West
+100707,"apr 24, 2026",Omar Hopkins,Furniture,Dining Table,11.0,450.0,4950.0,EAST
+101144,13/06/2025,Kendra Sullivan,Office Supplies,Gel Pens (Pack of 10),11.0,12.5,137.5,W
+100931,,Amy Morris,Office Supplies,Paper Shredder,3.0,89.99,269.96999999999997,North
+101101,"jul 28, 2025",Melissa Lopez,electronics,Laptop,8.0,1199.99,9599.92,W
+101581,"February 19, 2026",Devon Knox,Office Supplies,Paper Shredder,10.0,89.99,899.9,west
+100682,"nov 15, 2025",Jessica Lewis,Furniture,Ergonomic Desk,4.0,299.99,1199.96,W
+100218,"August 24, 2025",Sean Roberts,Furniture,Ergonomic Desk,12.0,299.99,3599.88,S
+101477,"September 22, 2025",Mrs. Amanda Thompson,Furniture,Dining Table,3.0,450.0,1350.0,North
+100286,22/07/2025,Thomas Nunez,Furniture,Dining Table,8.0,450.0,3600.0,North
+101047,2026-03-18,Nancy Haynes,Electronics,Laptop,13.0,1199.99,15599.87,WEST
+101336,"June 20, 2025",Alicia Turner, Electronics ,Smart Phone,13.0,699.99,9099.87,North
+101296,,William Little,Electronics,Smart Phone,4.0,699.99,2799.96,EAST
+100552,10/04/2026,Anne Owens,furniture,Ergonomic Desk,7.0,299.99,2099.9300000000003,W
+100479,19/09/2025,Joshua Santiago,Office Supplies,File Organizer,14.0,,,West
+101118,"June 21, 2025",Miranda Sharp,Furniture,Ergonomic Desk,7.0,299.99,2099.9300000000003,North
+101364,"February 03, 2026",Jason Griffin,Office Supplies,Notebook,13.0,4.99,64.87,North
+101277,"February 07, 2026",Katelyn Ferguson,Office Supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,East
+101322,2025-08-23,Michael Miller,electronics,Smart Phone,1.0,699.99,699.99,East
+101401,"jun 08, 2025",Patricia Barnes,Furniture,Dining Table,7.0,450.0,3150.0,west
+101030,2025-11-26,Andrew Norman,Office Supplies,Gel Pens (Pack of 10),10.0,12.5,125.0,East
+100576,2026-03-13,Crystal Cantu,Furniture,Dining Table,14.0,450.0,6300.0,West
+100514,27/05/2026,Frederick Lee,Furniture,Office Chair,2.0,189.99,379.98,WEST
+101189,2025-11-30,Crystal Moses,Electronics,Wireless Headphones,3.0,149.99,449.97,North
+101080,2026-04-21,Gregory Kelly,Furniture,Ergonomic Desk,9.0,299.99,2699.91,South
+100765,"September 17, 2025",Emily Galvan,Office Supplies,File Organizer,2.0,,,East
+100704,18/10/2025,Anna Adams,Electronics,Laptop,,1199.99,,north
+100664,"September 12, 2025",Tina Harris,Furniture,Sofa,2.0,799.99,1599.98,West
+100413,"November 06, 2025",Tanya Long,Office Supplies,File Organizer,5.0,24.99,124.94999999999999,E
+100398,,Jon Mayer,Electronics,Smart Phone,4.0,699.99,2799.96,East
+101547,"February 16, 2026",Erin Gilbert,Office Supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,East
+100925,"December 03, 2025",Diane Bradley,Furniture,Office Chair,10.0,189.99,1899.9,NORTH
+101381,,Katelyn Johnson,office supplies,Paper Shredder,15.0,89.99,1349.85,WEST
+100942,31/08/2025,Jackson Contreras,Electronics,Smart Watch,9.0,249.99,2249.91,East
+100813,"October 19, 2025",Kathy Hernandez,office supplies,File Organizer,15.0,24.99,374.84999999999997,West
+101097,18/11/2025,Amy Beasley,Electronics,Smart Watch,12.0,249.99,2999.88,West
+100277,12/07/2025,Ronald Vargas,Furniture,Ergonomic Desk,11.0,299.99,3794.8735,South
+101286,,Adam Lewis,Electronics,Smart Watch,8.0,249.99,1999.92,WEST
+101530,10/02/2026,,Furniture,Ergonomic Desk,13.0,299.99,3899.87,West
+101289,"December 06, 2025",Wesley Richardson, Electronics ,Wireless Headphones,,149.99,,East
+100973,11/08/2025,David Taylor,Electronics,Wireless Headphones,14.0,149.99,2099.86,South
+100236,17/07/2025,Katherine Ross, Electronics ,Wireless Headphones,14.0,149.99,2099.86,South
+101352,"January 12, 2026",, Office Supplies ,Paper Shredder,8.0,89.99,827.9079999999999,West
+101466,"mar 06, 2026",Emily Garcia,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,EAST
+100168,23/03/2026,Lauren Anderson,Office Supplies,Paper Shredder,4.0,89.99,359.96,North
+100416,2025-08-31,Kelsey Robles,electronics,Wireless Headphones,10.0,149.99,1499.9,East
+101221,"jan 02, 2026",Jeremy Hooper,Electronics,Smart Phone,13.0,699.99,9099.87,SOUTH
+101231,26/01/2026,Cynthia Robles,Electronics,Smart Phone,-3.0,699.99,-2099.9700000000003,East
+100208,29/03/2026,Maria Hall,Office Supplies,Paper Shredder,14.0,89.99,1259.86,South
+100997,"February 17, 2026",Megan Bishop, Electronics ,Laptop,14.0,1199.99,16799.86,South
+101298,30/09/2025,Gina Norman, Furniture ,Sofa,14.0,,,NORTH
+100607,"August 28, 2025",Tammy Walker,Furniture,Sofa,13.0,799.99,10399.87,West
+100058,10/03/2026,,Electronics,Laptop,1.0,1199.99,1199.99,East
+101331,19/08/2025,Billy Romero,Electronics,Laptop,8.0,1199.99,9599.92,WEST
+101319,"jun 28, 2025",Lauren Jackson,Office Supplies,Gel Pens (Pack of 10),,12.5,,West
+100555,03/06/2025,Diamond Rowe,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,East
+100892,20/11/2025,Zachary Murphy,Electronics,Smart Phone,6.0,699.99,4199.9400000000005,West
+101313,"June 15, 2025",Tammy Zimmerman,Furniture,Dining Table,3.0,450.0,1350.0,South
+100363,"October 18, 2025",David Owens,Office Supplies,File Organizer,3.0,24.99,74.97,West
+100527,"September 12, 2025",Nathaniel Rice,Furniture,Office Chair,14.0,189.99,2659.86,South
+100354,22/10/2025,Shelley Miller,furniture,Dining Table,10.0,450.0,4500.0,South
+100879,"feb 27, 2026",Sabrina Kelly,office supplies,Gel Pens (Pack of 10),15.0,12.5,187.5,West
+101335,05/10/2025,Shelly Manning,Furniture,Sofa,14.0,799.99,11199.86,North
+101103,30/05/2026,Matthew Robertson, Furniture ,Sofa,4.0,,,West
+101161,"April 12, 2026",Joseph Perez,furniture,Ergonomic Desk,7.0,299.99,,South
+101383,07/02/2026,Brent Mosley,Office Supplies,Notebook,8.0,4.99,39.92,South
+100292,2025-08-16,Jennifer Mayer,Office Supplies,Notebook,1.0,4.99,4.99,North
+100599,"July 01, 2025",Corey Hayes,Office Supplies,Paper Shredder,,89.99,,EAST
+101274,24/11/2025,Keith Mason,Furniture,Office Chair,4.0,189.99,759.96,North
+101457,"may 11, 2026",, Electronics ,Smart Phone,11.0,699.99,7699.89,North
+101251,2026-02-21,Susan Baker,Office Supplies,Notebook,2.0,4.99,9.98,North
+101431,"October 03, 2025",Deanna French,Furniture,Ergonomic Desk,-4.0,299.99,100.0,North
+100548,"jan 21, 2026",Christine Moore, Electronics ,Smart Phone,8.0,699.99,5599.92,West
+100233,"feb 22, 2026",Michael Maldonado,Furniture,Ergonomic Desk,8.0,299.99,2399.92,North
+100589,2026-02-25,Jennifer Smith,furniture,Sofa,14.0,799.99,11199.86,West
+101376,07/11/2025,Paula Brady,Furniture,Dining Table,13.0,450.0,,N
+100196,25/07/2025,Laura Walsh,Electronics,Smart Phone,5.0,699.99,3499.95,East
+100834,"December 09, 2025",Hannah White,Office Supplies,Notebook,15.0,4.99,74.85000000000001,south
+100493,"November 24, 2025",James Holmes,Electronics,Wireless Headphones,8.0,149.99,1199.92,West
+101594,"May 14, 2026",April Wilson,Office Supplies,Notebook,11.0,4.99,54.89,South
+100081,"December 20, 2025",Christopher Wallace, Electronics ,Wireless Headphones,9.0,149.99,1349.91,east
+101556,"July 25, 2025",,furniture,Ergonomic Desk,13.0,,,West
+100752,"August 04, 2025",Thomas Klein,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,North
+101276,21/12/2025,William Hernandez,Furniture,Office Chair,15.0,189.99,2849.8500000000004,S
+100989,"July 18, 2025",Miranda Wilson,Furniture,Office Chair,2.0,189.99,379.98,North
+100380,"jul 11, 2025",Rachel Ellis,Furniture,Office Chair,6.0,189.99,1139.94,East
+100111,03/12/2025,Terry Moreno,Furniture,Dining Table,4.0,450.0,1800.0,East
+101473,"jan 24, 2026",Robert Cook,Office Supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,South
+101452,05/03/2026,Kristina Welch, Furniture ,Office Chair,10.0,189.99,1899.9,
+101398,"January 21, 2026",Stephen Morrison,Furniture,Dining Table,1.0,450.0,450.0,West
+101467,"December 29, 2025",,Electronics,Smart Watch,4.0,249.99,999.96,North
+101497,"April 29, 2026",Paula Castaneda,furniture,Mutated Product,10.0,450.0,999.99,north
+100886,"oct 23, 2025",Matthew Wyatt,Furniture,Office Chair,4.0,189.99,,West
+100906,,Catherine Owens,Furniture,Office Chair,12.0,189.99,2621.862,West
+101190,"February 23, 2026",John Rogers,Office Supplies,Gel Pens (Pack of 10),8.0,12.5,100.0,west
+100310,"April 13, 2026",Jacob Black,Office Supplies,File Organizer,9.0,24.99,,South
+100723,05/10/2025,Larry Martin,Furniture,Office Chair,-1.0,189.99,-189.99,North
+101100,01/08/2025,Kimberly Moore,furniture,Dining Table,5.0,450.0,2250.0,North
+101211,"July 25, 2025",Tamara Wilson, Electronics ,Wireless Headphones,5.0,149.99,749.95,South
+100654,,Megan Burnett,Electronics,Laptop,15.0,1199.99,17999.85,North
+101271,,Christina Kelley,furniture,Office Chair,3.0,189.99,655.4655,E
+100583,"August 15, 2025",Daniel Gillespie,Office Supplies,File Organizer,8.0,24.99,199.92,East
+101227,"mar 07, 2026",,Electronics,Wireless Headphones,8.0,149.99,1199.92,North
+100514,27/05/2026,Frederick Lee,Furniture,Office Chair,2.0,189.99,379.98,WEST
+101176,"August 02, 2025",Kimberly Williams,Office Supplies,Paper Shredder,15.0,89.99,1349.85,E
+100890,18/01/2026,Kristi Brown MD, Electronics ,Mutated Product,7.0,699.99,999.99,South
+101134,"September 02, 2025",Jeffrey Ball, Office Supplies ,File Organizer,6.0,24.99,149.94,SOUTH
+101108,28/07/2025,Jeremy French,Office Supplies,Notebook,9.0,,,South
+100844,06/12/2025,Tyler Jones,Furniture,Dining Table,6.0,450.0,2700.0,
+101554,2025-06-02,Tina Morgan,Office Supplies,File Organizer,5.0,24.99,124.94999999999999,East
+101595,11/12/2025,Matthew Chen, Furniture ,Office Chair,6.0,189.99,1139.94,North
+100613,"dec 26, 2025",,Furniture,Office Chair,11.0,189.99,2089.8900000000003,NORTH
+100570,"apr 02, 2026",Benjamin Hughes, Office Supplies ,Paper Shredder,1.0,89.99,89.99,WEST
+101552,"August 23, 2025",,Furniture,Ergonomic Desk,4.0,299.99,1199.96,East
+101096,03/11/2025,Ann Haley,furniture,Sofa,1.0,799.99,799.99,North
+101278,2026-04-07,Mary Lyons,Furniture,Dining Table,13.0,450.0,5850.0,South
+100584,"September 10, 2025",Ryan Hall,Furniture,Office Chair,1.0,189.99,189.99,EAST
+101314,03/05/2026,Michael Davis,Office Supplies,Notebook,11.0,4.99,54.89,East
+100327,"April 29, 2026",Jessica Johnson,Furniture,Office Chair,12.0,189.99,2279.88,South
+100254,17/11/2025,Patrick Wood,Electronics,Laptop,7.0,1199.99,8399.93,S
+100757,"aug 22, 2025",Carrie Harris,Electronics,Smart Watch,2.0,249.99,499.98,South
+100322,2026-01-15,Jonathan Mills,Furniture,Ergonomic Desk,8.0,299.99,2399.92,South
+101206,04/05/2026,Derek Smith,Office Supplies,Paper Shredder,8.0,89.99,719.92,South
+100816,31/03/2026,,Electronics,Smart Phone,8.0,699.99,5599.92,East
+100679,"November 14, 2025",Nichole Mcbride,Office Supplies,File Organizer,4.0,24.99,99.96,West
+100817,15/03/2026,Heather Buchanan,electronics,Smart Phone,12.0,699.99,8399.880000000001,S
+101326,26/02/2026,Lindsay Carter,Furniture,Dining Table,4.0,450.0,1800.0,West
+100626,02/12/2025,Cameron Torres,Electronics,Smart Phone,4.0,699.99,2799.96,
+100177,,Kevin Walker,Office Supplies,File Organizer,3.0,24.99,74.97,North
+100949,"jan 27, 2026",Dawn Woods, Furniture ,Office Chair,13.0,189.99,2469.87,North
+101470,"May 13, 2026",Ryan Garza,Electronics,Smart Watch,13.0,249.99,3249.87,South
+100490,24/03/2026,Luke Carroll,Furniture,Ergonomic Desk,8.0,299.99,2399.92,South
+100086,18/11/2025,Ashley Dorsey,Electronics,Laptop,13.0,1199.99,15599.87,South
+100898,2026-01-26,Amanda Mayer,Office Supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,EAST
+101168,"November 05, 2025",Lisa Arnold,electronics,Smart Watch,15.0,249.99,3749.8500000000004,SOUTH
+101574,2025-07-13,Robert Lewis,Electronics,Laptop,4.0,1199.99,4799.96,West
+100365,"February 07, 2026",Kevin Griffin,Furniture,Ergonomic Desk,1.0,299.99,299.99,South
+100517,"April 01, 2026",Connie Lyons,Furniture,Mutated Product,4.0,189.99,999.99,East
+100964,"January 27, 2026",Kristen Liu,furniture,Dining Table,3.0,450.0,1350.0,south
+100265,"feb 04, 2026",Pamela Kramer,office supplies,Paper Shredder,-2.0,89.99,-179.98,north
+100287,"January 05, 2026",Catherine Adams,Office Supplies,Notebook,2.0,4.99,,East
+100566,"jan 22, 2026",Eric Park,Office Supplies,File Organizer,14.0,24.99,349.85999999999996,East
+100358,2026-02-17,Todd Hood,Furniture,Sofa,15.0,799.99,11999.85,East
+100054,2025-11-02,Cynthia Aguilar,electronics,Laptop,-1.0,1199.99,-1199.99,
+101146,"sep 09, 2025",Nancy Martin,electronics,Smart Watch,-2.0,249.99,-499.98,NORTH
+101247,14/04/2026,Ashley Harmon,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,North
+100979,2025-11-15,Joseph Meyers,Office Supplies,File Organizer,11.0,24.99,274.89,south
+101463,"aug 30, 2025",Nathan Rowe,furniture,Ergonomic Desk,,299.99,,East
+100678,25/05/2026,Katie Coleman, Electronics ,Wireless Headphones,8.0,149.99,1199.92,E
+101549,"July 22, 2025",Kiara Rodriguez,Office Supplies,Paper Shredder,4.0,89.99,359.96,West
+100899,04/11/2025,David Davis, Furniture ,Sofa,15.0,799.99,11999.85,SOUTH
+100221,"April 01, 2026",Caleb Gonzalez,Electronics,Smart Phone,6.0,699.99,4199.9400000000005,South
+100113,"sep 30, 2025",Madeline Davis,Furniture,Ergonomic Desk,13.0,299.99,3899.87,West
+101307,"oct 28, 2025",Keith Nixon, Office Supplies ,File Organizer,3.0,24.99,74.97,EAST
+100526,10/11/2025,Brandi Myers,Furniture,Sofa,6.0,799.99,4799.9400000000005,east
+101521,"mar 27, 2026",Joseph Quinn,Office Supplies,Paper Shredder,7.0,89.99,629.93,South
+100711,"February 24, 2026",Madison Steele,Electronics,Laptop,2.0,1199.99,2399.98,South
+100497,"April 05, 2026",Nicholas Beck,Office Supplies,Notebook,15.0,4.99,74.85000000000001,NORTH
+100174,2026-03-01,Alice Grant,office supplies,Paper Shredder,5.0,89.99,449.95,West
+101260,2025-12-26,Bryan Nguyen,office supplies,Notebook,9.0,4.99,44.910000000000004,North
+100651,"jun 10, 2025",Emily Wilson,office supplies,Notebook,3.0,4.99,14.97,east
+100818,"May 14, 2026",Michele Hunt,Office Supplies,File Organizer,7.0,24.99,174.92999999999998,South
+101253,"June 27, 2025",Theresa Moore,Furniture,Dining Table,7.0,450.0,3150.0,South
+100018,"dec 17, 2025",Timothy Brown, Furniture ,Sofa,5.0,799.99,3999.95,south
+100423,"March 02, 2026",Lisa Jones,Furniture,Sofa,13.0,799.99,11959.8505,
+101112,,Alexander Friedman,Electronics,Smart Phone,5.0,699.99,3499.95,East
+100285,2026-03-08,Ronald Vaughan,Furniture,Dining Table,12.0,450.0,,west
+101318,18/09/2025,Howard Landry,Furniture,Ergonomic Desk,3.0,299.99,899.97,north
+100428,"January 26, 2026",Victoria Bautista,electronics,Smart Phone,9.0,699.99,,South
+101255,09/03/2026,Kayla Walker,Office Supplies,Gel Pens (Pack of 10),-2.0,12.5,-25.0,East
+100535,08/11/2025,Joshua Perez,Furniture,Sofa,13.0,799.99,10399.87,East
+100031,"mar 23, 2026",Mark Turner,Electronics,Wireless Headphones,1.0,,,South
+100670,07/06/2025,Andrew Dean,Electronics,Smart Phone,11.0,699.99,7699.89,South
+100974,"May 27, 2026",Russell Martinez, Furniture ,Ergonomic Desk,10.0,,,West
+100214,2026-01-20,Jordan Williams, Electronics ,Smart Watch,4.0,249.99,999.96,E
+100937,"oct 19, 2025",Matthew Lee,Furniture,Sofa,10.0,799.99,7999.9,S
+100326,"sep 21, 2025",Debbie Nichols, Furniture ,Dining Table,2.0,450.0,900.0,West
+100864,2026-05-01,Anne Black,Furniture,Dining Table,8.0,450.0,3600.0,South
+100534,2026-05-03,Gary Horn,Electronics,Smart Watch,14.0,249.99,3499.86,East
+101548,"June 11, 2025",Brandon Turner,Furniture,Sofa,8.0,799.99,6399.92,S
+100341,2026-04-04,Natalie Bennett,Furniture,Office Chair,2.0,189.99,379.98,West
+100147,"February 12, 2026",Heidi Frye,office supplies,File Organizer,14.0,24.99,349.85999999999996,West
+100360,28/03/2026,Kimberly Leblanc, Office Supplies ,File Organizer,7.0,24.99,174.92999999999998,NORTH
+100083,"jul 30, 2025",Shaun Perez,Electronics,Laptop,15.0,1199.99,17999.85,West
+100048,2026-01-22,Matthew Brown,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,West
+100468,"may 14, 2026",Jackie Benson, Furniture ,Ergonomic Desk,2.0,299.99,599.98,North
+100155,"November 19, 2025",Jenna Escobar,Furniture,Sofa,11.0,799.99,8799.89,South
+101239,"dec 24, 2025",Lisa Russell,Electronics,Wireless Headphones,6.0,149.99,899.94,North
+101164,17/11/2025,David Perez,Office Supplies,Paper Shredder,9.0,89.99,809.91,
+101572,18/09/2025,Peter Harvey,Furniture,Dining Table,5.0,450.0,2250.0,west
+101357,"January 02, 2026",Laura White,office supplies,Paper Shredder,14.0,89.99,1259.86,NORTH
+100500,30/12/2025,William Hurst,Electronics,Smart Watch,12.0,249.99,2999.88,W
+100179,"dec 28, 2025",Stephen French, Electronics ,Smart Phone,9.0,699.99,6299.91,West
+101110,2026-04-26,Christopher Aguirre,Furniture,Dining Table,14.0,450.0,6300.0,North
+100561,"June 21, 2025",Brooke Jackson,Office Supplies,Paper Shredder,8.0,89.99,719.92,NORTH
+101293,23/11/2025,Michelle Lam,Furniture,Dining Table,10.0,450.0,4500.0,east
+100528,"mar 24, 2026",Mr. Steven Silva III,Electronics,Wireless Headphones,5.0,149.99,749.95,East
+100346,"March 22, 2026",Lisa Rivers,Furniture,Sofa,7.0,799.99,5599.93,West
+101151,"oct 21, 2025",Jacqueline Lam,furniture,Dining Table,8.0,450.0,3600.0,North
+101466,"mar 06, 2026",Emily Garcia,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,EAST
+101414,23/06/2025,John Spears,Office Supplies,Paper Shredder,4.0,89.99,359.96,N
+100819,"March 24, 2026",Amanda Evans,Electronics,Laptop,5.0,1199.99,5999.95,West
+101563,"May 19, 2026",Keith Richmond,Electronics,Smart Phone,4.0,699.99,2799.96,North
+101155,"August 11, 2025",Robert Wagner,office supplies,Paper Shredder,7.0,,,West
+100243,28/01/2026,Dana Anderson MD,Office Supplies,Paper Shredder,13.0,89.99,1169.87,North
+101223,"October 21, 2025",, Furniture ,Ergonomic Desk,10.0,299.99,2999.9,West
+100312,12/11/2025,, Office Supplies ,Notebook,2.0,4.99,9.98,South
+100435,25/07/2025,William Hunter,Furniture,Office Chair,13.0,189.99,2469.87,South
+101573,"March 20, 2026",Scott Johnston,furniture,Dining Table,5.0,450.0,2250.0,NORTH
+101384,"mar 12, 2026",Stephanie Edwards,Office Supplies,File Organizer,11.0,24.99,274.89,North
+100308,"November 13, 2025",Dawn Ortiz,Office Supplies,Notebook,13.0,4.99,64.87,E
+100430,27/05/2026,Dawn Prince,Furniture,Dining Table,3.0,450.0,1350.0,West
+100370,07/10/2025,Lisa Davis, Furniture ,Office Chair,2.0,189.99,379.98,north
+101201,"may 16, 2026",Jerry Bowen,Office Supplies,Gel Pens (Pack of 10),,12.5,,South
+100181,,Ms. Nicole Rodriguez MD, Electronics ,Wireless Headphones,11.0,149.99,1649.89,West
+100617,"June 18, 2025",Carol Anderson, Furniture ,Ergonomic Desk,15.0,299.99,4499.85,East
+100584,"September 10, 2025",Ryan Hall,Furniture,Office Chair,1.0,189.99,189.99,EAST
+100845,2025-06-30,Kimberly Weber,Electronics,Smart Phone,3.0,699.99,2099.9700000000003,east
+101524,24/09/2025,Jorge Schultz DVM, Office Supplies ,Gel Pens (Pack of 10),6.0,12.5,75.0,East
+100296,"sep 22, 2025",Chad Davis,Electronics,Wireless Headphones,6.0,149.99,899.94,North
+100643,2025-12-28,Judy Flores,Furniture,Dining Table,2.0,450.0,900.0,south
+100461,10/01/2026,Carly Adams, Furniture ,Office Chair,9.0,189.99,1709.91,East
+101085,"October 12, 2025",Steven Schmidt,electronics,Laptop,,1199.99,,South
+101441,"September 24, 2025",Jessica Garcia,Office Supplies,Notebook,3.0,4.99,14.97,S
+100377,"December 04, 2025",Elizabeth Jackson,office supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,West
+101068,2025-06-26,Douglas Richardson,Office Supplies,Notebook,7.0,4.99,34.93,South
+100126,"jul 09, 2025",,Office Supplies,File Organizer,6.0,24.99,149.94,W
+101505,03/07/2025,Suzanne Hill,Electronics,Laptop,-1.0,1199.99,-1199.99,NORTH
+100596,"sep 07, 2025",,office supplies,Notebook,10.0,4.99,49.900000000000006,South
+100355,"August 16, 2025",Cole Peterson,Furniture,Office Chair,3.0,189.99,569.97,East
+101346,"aug 16, 2025",Samuel Chapman,Electronics,Smart Watch,5.0,249.99,1249.95,East
+100209,"April 02, 2026",Diane Hernandez,Office Supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,north
+100140,02/10/2025,Raymond Clark,Electronics,Wireless Headphones,-4.0,149.99,-599.96,North
+101192,,Michelle Adkins,Furniture,Sofa,6.0,799.99,,E
+101202,"April 10, 2026",Lauren Rodriguez,Office Supplies,File Organizer,4.0,24.99,99.96,EAST
+100832,"mar 27, 2026",Jacob Garcia,Office Supplies,File Organizer,-2.0,24.99,-49.98,East
+101311,"June 17, 2025",Jacob Johnson,Furniture,Dining Table,10.0,450.0,4500.0,South
+100839,2026-02-21,Brooke Smith,Office Supplies,Paper Shredder,7.0,89.99,629.93,East
+100637,"August 16, 2025",Carl Rose,Furniture,Dining Table,4.0,450.0,1800.0,West
+101491,"June 15, 2025",Megan Ortega,Furniture,Ergonomic Desk,12.0,299.99,3599.88,South
+100631,"dec 09, 2025",Alexis Torres,Office Supplies,File Organizer,12.0,24.99,299.88,NORTH
+100610,"May 27, 2026",Jesse Fletcher,Office Supplies,Gel Pens (Pack of 10),1.0,12.5,12.5,west
+100010,2026-04-24,Kyle Williamson,Office Supplies,Gel Pens (Pack of 10),3.0,12.5,37.5,East
+101179,"April 06, 2026",, Furniture ,Ergonomic Desk,15.0,299.99,,East
+100282,"apr 24, 2026",,furniture,Office Chair,10.0,189.99,1899.9,West
+100291,"March 23, 2026",Elizabeth Turner,Office Supplies,Gel Pens (Pack of 10),11.0,12.5,137.5,South
+100986,"June 20, 2025",Steven Beltran,Electronics,Laptop,14.0,1199.99,16799.86,South
+100677,"December 11, 2025",Cynthia Medina,Office Supplies,Notebook,6.0,4.99,,S
+100129,2026-05-22,Maria Moss,Furniture,Dining Table,2.0,450.0,900.0,East
+100323,"April 17, 2026",Heather Howe,Electronics,Smart Phone,,699.99,,South
+101226,"August 31, 2025",Kathryn Bell,Electronics,Smart Watch,8.0,249.99,1999.92,South
+101546,10/03/2026,Sara Wilson,Furniture,Office Chair,1.0,189.99,189.99,South
+101134,"September 02, 2025",Jeffrey Ball, Office Supplies ,File Organizer,6.0,24.99,149.94,SOUTH
+101149,2025-10-16,Kimberly Johnson,electronics,Smart Phone,13.0,699.99,9099.87,South
+100621,"January 10, 2026",Timothy Knox,Office Supplies,Paper Shredder,5.0,89.99,449.95,
+101523,2025-12-30,Teresa Grant,Office Supplies,Notebook,11.0,4.99,54.89,WEST
+101090,2026-04-25,Jessica Cook,Furniture,Dining Table,9.0,450.0,4050.0,EAST
+100158,"jun 06, 2025",Joshua Thompson,Furniture,Ergonomic Desk,12.0,299.99,3599.88,East
+101577,"January 04, 2026",Yvette Campbell,Office Supplies,File Organizer,4.0,24.99,99.96,West
+100516,2026-05-13,Kevin Francis,Electronics,Smart Phone,3.0,699.99,2099.9700000000003,S
+101185,"March 10, 2026",Joseph Mcbride,Furniture,Office Chair,14.0,189.99,2659.86,S
+100597,2026-05-28,, Office Supplies ,File Organizer,2.0,24.99,49.98,North
+100195,,Anna Callahan,Office Supplies,Notebook,2.0,4.99,9.98,West
+101591,"nov 23, 2025",Michael West,office supplies,File Organizer,4.0,24.99,99.96,West
+100620,08/09/2025,James Kelley,Office Supplies,Gel Pens (Pack of 10),11.0,12.5,137.5,South
+100410,"mar 27, 2026",Brandon Russell,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,South
+100096,13/08/2025,Troy Mitchell,Office Supplies,File Organizer,2.0,24.99,,West
+100712,"October 06, 2025",Connie Edwards,Office Supplies,Notebook,5.0,4.99,24.950000000000003,South
+101036,18/09/2025,John Smith,Electronics,Smart Watch,3.0,249.99,749.97,N
+100156,28/04/2026,Victoria Shannon, Furniture ,Dining Table,1.0,450.0,450.0,West
+100419,"March 22, 2026",Bridget Lynch,office supplies,Paper Shredder,15.0,89.99,1349.85,South
+101529,16/05/2026,Michael Robinson,Furniture,Sofa,5.0,799.99,3999.95,East
+100477,2025-12-01,Julie Keller,furniture,Dining Table,6.0,450.0,3104.9999999999995,West
+100743,"May 31, 2026",Joshua Jones,Electronics,Smart Phone,14.0,699.99,9799.86,West
+100787,09/02/2026,Jessica Hawkins,Furniture,Sofa,15.0,799.99,11999.85,west
+101083,"November 30, 2025",Kurt Erickson,Office Supplies,File Organizer,9.0,24.99,224.91,South
+100447,2025-06-06,Sarah Dunn,Furniture,Sofa,9.0,799.99,7199.91,EAST
+100755,2026-02-03,Peter Garcia,Electronics,Smart Phone,6.0,699.99,4199.9400000000005,South
+100178,"December 29, 2025",Nathan Smith,Electronics,Laptop,2.0,,,
+100390,"January 15, 2026",Donna Wolf,Office Supplies,Notebook,4.0,4.99,19.96,North
+100578,"February 15, 2026",Melanie Ross,Furniture,Office Chair,3.0,189.99,569.97,
+101424,"May 16, 2026",Mark Smith,furniture,Office Chair,11.0,189.99,,South
+100781,19/01/2026,Steven Wilson,office supplies,Paper Shredder,3.0,89.99,269.96999999999997,West
+101370,"July 22, 2025",,Office Supplies,Paper Shredder,6.0,89.99,539.9399999999999,East
+101157,"jul 10, 2025",Tyler Hoover,Office Supplies,Paper Shredder,6.0,89.99,,North
+101494,"jun 26, 2025",Erin Johnson,Electronics,Laptop,7.0,1199.99,8399.93,West
+100701,03/01/2026,Luis Molina,electronics,Wireless Headphones,5.0,149.99,749.95,West
+100774,"April 21, 2026",Paul Walter,Furniture,Office Chair,2.0,189.99,379.98,West
+100142,2026-05-15,Joshua Dalton,Office Supplies,Notebook,3.0,4.99,14.97,south
+101261,"mar 15, 2026",Victor Taylor, Office Supplies ,Gel Pens (Pack of 10),9.0,12.5,112.5,South
+100968,"jun 29, 2025",,Furniture,Ergonomic Desk,11.0,299.99,3299.8900000000003,South
+100914,"October 14, 2025",Mackenzie Lee,Electronics,Smart Watch,6.0,249.99,1499.94,S
+100636,"March 06, 2026",Cynthia Pruitt,Furniture,Office Chair,13.0,189.99,2469.87,North
+101001,03/10/2025,Abigail Mccoy,Furniture,Dining Table,11.0,450.0,4950.0,east
+100615,"nov 16, 2025",,Furniture,Office Chair,11.0,,,East
+100294,"feb 10, 2026",Patrick Strong,Office Supplies,Notebook,2.0,,,East
+100741,,Robert Sharp,Furniture,Office Chair,10.0,189.99,1899.9,south
+101576,"January 14, 2026",Amber Lewis, Office Supplies ,Paper Shredder,7.0,89.99,629.93,north
+100088,"aug 29, 2025",Jessica Adams,Furniture,Office Chair,3.0,189.99,569.97,North
+100041,"mar 07, 2026",Marilyn Wilson,Office Supplies,Gel Pens (Pack of 10),8.0,12.5,,West
+100937,"oct 19, 2025",Matthew Lee,Furniture,Sofa,10.0,799.99,7999.9,S
+100131,02/12/2025,Anthony Kelly,Office Supplies,Paper Shredder,8.0,89.99,719.92,West
+100782,13/08/2025,Zachary Rios, Office Supplies ,Notebook,11.0,4.99,54.89,SOUTH
+101479,2025-08-19,Cody Alexander,Furniture,Office Chair,6.0,189.99,1139.94,South
+100910,"jul 13, 2025",Courtney Baker, Electronics ,Smart Watch,1.0,249.99,249.99,North
+101537,"June 22, 2025",Michelle Hodge,Furniture,Dining Table,10.0,450.0,4500.0,East
+100501,"nov 03, 2025",Richard Cruz,furniture,Mutated Product,,,999.99,west
+100164,11/12/2025,Kimberly Sampson,furniture,Office Chair,11.0,189.99,2089.8900000000003,West
+100290,17/05/2026,,Office Supplies,Gel Pens (Pack of 10),8.0,12.5,100.0,E
+101571,"June 29, 2025",Christopher Adams,Furniture,Office Chair,9.0,189.99,1709.91,EAST
+100809,"jan 29, 2026",,office supplies,Notebook,8.0,4.99,,East
+100348,"October 06, 2025",Christine Fuentes,furniture,Office Chair,7.0,189.99,1329.93,EAST
+100571,2026-03-23,Derrick Kelly,furniture,Office Chair,5.0,189.99,949.95,East
+100693,"dec 24, 2025",Teresa Flores,Electronics,Smart Phone,2.0,699.99,1399.98,West
+101564,"jan 03, 2026",David Esparza,Office Supplies,File Organizer,14.0,24.99,349.85999999999996,south
+100843,"apr 08, 2026",Veronica Snow,Furniture,Office Chair,9.0,189.99,1709.91,south
+101328,11/08/2025,Victoria Hernandez,Furniture,Office Chair,10.0,189.99,1899.9,South
+101094,"September 12, 2025",Nicole Williams,Office Supplies,Paper Shredder,6.0,89.99,539.9399999999999,West
+101433,2025-09-20,Jordan Clark,Office Supplies,Gel Pens (Pack of 10),10.0,12.5,125.0,N
+100458,02/07/2025,Shannon Park,Furniture,Sofa,6.0,799.99,4799.9400000000005,South
+100375,07/10/2025,Jill Smith,Electronics,Smart Watch,12.0,249.99,2999.88,East
+100333,2026-04-02,Connor Smith,office supplies,Notebook,4.0,4.99,,West
+100932,06/10/2025,Laurie Turner,Electronics,Smart Phone,9.0,699.99,6299.91,West
+101462,"December 07, 2025",Jill Hunt, Office Supplies ,File Organizer,14.0,24.99,349.85999999999996,North
+101209,"January 31, 2026",Jason Mosley,Furniture,Ergonomic Desk,3.0,299.99,899.97,WEST
+100867,08/07/2025,Sheena Schmidt,Electronics,Smart Watch,15.0,249.99,3749.8500000000004,East
+100715,2026-01-27,Kyle Carroll,Furniture,Ergonomic Desk,5.0,299.99,1499.95,west
+101539,10/01/2026,, Electronics ,Laptop,2.0,,,East
+100692,2026-01-05,Christine Robinson,Office Supplies,Gel Pens (Pack of 10),-3.0,12.5,-37.5,East
+100328,10/07/2025,Mr. Bryan Salas DDS,Office Supplies,Paper Shredder,7.0,89.99,629.93,
+101323,"October 20, 2025",Wesley Ramsey,Office Supplies,Gel Pens (Pack of 10),1.0,12.5,,South
+100318,"nov 24, 2025",Amber Tyler,Electronics,Smart Watch,15.0,249.99,3749.8500000000004,south
+101273,13/09/2025,Randy Harding,Electronics,Smart Phone,2.0,,,east
+101320,26/11/2025,Ryan Petty,Office Supplies,Gel Pens (Pack of 10),12.0,12.5,150.0,West
+101443,12/07/2025,Kristin King,Office Supplies,Paper Shredder,10.0,89.99,899.9,North
+100167,04/10/2025,Melissa Robinson,Office Supplies,Notebook,7.0,4.99,34.93,EAST
+100012,"October 14, 2025",Lacey Christian, Office Supplies ,File Organizer,4.0,24.99,99.96,East
+100171,"oct 03, 2025",Alison Gomez,Furniture,Dining Table,6.0,450.0,2700.0,S
+100649,"June 23, 2025",Victor Porter, Furniture ,Office Chair,2.0,189.99,379.98,
+100260,09/01/2026,Antonio Salazar,Electronics,Laptop,14.0,1199.99,16799.86,West
+101009,,Alyssa Ferguson, Furniture ,Office Chair,7.0,189.99,1329.93,S
+100672,"dec 21, 2025",Craig Zimmerman,office supplies,Paper Shredder,1.0,89.99,,West
+100258,2026-03-29,Daniel Perez,Electronics,Smart Phone,14.0,699.99,9799.86,South
+101302,"November 20, 2025",Sarah Smith,Office Supplies,Paper Shredder,12.0,89.99,1079.8799999999999,East
+100138,"November 11, 2025",Rebecca Becker,electronics,Smart Watch,2.0,249.99,499.98,WEST
+100549,2025-07-01,Julia Peterson,Electronics,Wireless Headphones,15.0,149.99,2249.8500000000004,N
+100987,"May 09, 2026",Trevor Zavala,Electronics,Wireless Headphones,15.0,149.99,,East
+101270,"August 11, 2025",Susan Morrow,Office Supplies,File Organizer,13.0,24.99,324.87,North
+101343,"August 03, 2025",Laura Stevens,Furniture,Office Chair,1.0,189.99,189.99,East
+101196,2025-11-01,Anthony Wood,furniture,Office Chair,1.0,189.99,189.99,North
+100558,07/07/2025,Kelli Munoz,office supplies,File Organizer,2.0,24.99,49.98,south
+100139,15/11/2025,Amy Franco,Office Supplies,Paper Shredder,4.0,89.99,359.96,N
+101445,07/11/2025,,Electronics,Smart Phone,9.0,699.99,6299.91,South
+100531,28/12/2025,Terry Campbell,furniture,Office Chair,11.0,189.99,2089.8900000000003,South
+100224,15/05/2026,Darryl Reyes, Office Supplies ,Notebook,5.0,4.99,24.950000000000003,west
+101345,"February 08, 2026",Julia Bradley,Office Supplies,Gel Pens (Pack of 10),11.0,12.5,137.5,east
+100409,"jan 23, 2026",Robin Johnston,electronics,Smart Watch,5.0,249.99,1249.95,W
+100325,"apr 11, 2026",John Shields,Office Supplies,Gel Pens (Pack of 10),13.0,12.5,162.5,South
+100842,19/06/2025,Anthony Wright,furniture,Dining Table,11.0,450.0,4950.0,N
+100299,"March 27, 2026",Paul Price,Furniture,Dining Table,12.0,450.0,5400.0,East
+101055,2026-04-10,Sandra Stone,Office Supplies,Notebook,11.0,4.99,,East
+100903,21/04/2026,Christine Wagner,Furniture,Dining Table,14.0,450.0,6300.0,West
+100820,"January 10, 2026",Emily Delgado,Electronics,Laptop,9.0,1199.99,10799.91,West
+101540,"February 04, 2026",Denise White,Office Supplies,Notebook,2.0,4.99,9.98,East
+100193,"mar 09, 2026",Laura Mueller,Electronics,Smart Watch,12.0,249.99,2999.88,West
+100440,26/03/2026,Bobby Lang, Electronics ,Smart Watch,14.0,249.99,3499.86,east
+100573,"dec 31, 2025",Veronica Solomon,office supplies,Paper Shredder,13.0,89.99,1169.87,North
+100503,30/01/2026,Robert Odonnell,Office Supplies,Notebook,6.0,4.99,29.94,East
+100605,"aug 11, 2025",Carol Gilbert,Office Supplies,Paper Shredder,15.0,89.99,1349.85,East
+100938,22/01/2026,Carol Young,Office Supplies,File Organizer,11.0,24.99,274.89,East
+100332,28/01/2026,Diane Strickland,Furniture,Mutated Product,4.0,450.0,999.99,east
+100003,11/12/2025,Patricia Daniels,Electronics,Wireless Headphones,14.0,149.99,2099.86,South
+100917,13/11/2025,David Stanley,office supplies,Notebook,11.0,4.99,54.89,north
+100467,09/04/2026,Christopher Taylor,Electronics,Smart Phone,14.0,699.99,9799.86,South
+100321,"jan 06, 2026",Kenneth Barnett,Electronics,Smart Phone,6.0,699.99,4199.9400000000005,South
+100005,"aug 23, 2025",Stephen Nelson,Furniture,Sofa,5.0,799.99,3999.95,NORTH
+100222,"June 09, 2025",Samuel Brown III,Office Supplies,Notebook,1.0,,100.0,West
+100547,23/10/2025,Robert Solis,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,,West
+100921,17/07/2025,Mark Green,furniture,Dining Table,13.0,450.0,5850.0,South
+100039,"August 10, 2025",Tiffany Day,Electronics,Laptop,7.0,1199.99,9659.9195,W
+100542,22/03/2026,Ryan Bishop,Electronics,Smart Phone,3.0,699.99,2099.9700000000003,West
+100242,"March 06, 2026",, Furniture ,Ergonomic Desk,15.0,299.99,4499.85,North
+100136,10/02/2026,Brian Pruitt,Office Supplies,Paper Shredder,11.0,89.99,989.89,North
+101458,01/10/2025,Michael Kelley,Office Supplies,Paper Shredder,15.0,89.99,1349.85,South
+101309,,Jonathan Li,Electronics,Laptop,7.0,1199.99,8399.93,South
+101114,2026-03-03,Kendra Lee,Electronics,Smart Watch,12.0,249.99,2999.88,W
+100952,"may 30, 2026",Mr. John Smith, Furniture ,Dining Table,13.0,450.0,5850.0,East
+101259,"aug 29, 2025",Michelle Rosales,Electronics,Smart Phone,3.0,699.99,2099.9700000000003,West
+101178,2026-05-04,Rodney Mcdonald,furniture,Dining Table,1.0,450.0,450.0,east
+100926,2026-05-01,,Electronics,Smart Watch,3.0,249.99,749.97,west
+101536,"October 31, 2025",Christie Green,Electronics,Smart Phone,13.0,699.99,9099.87,East
+100581,"feb 20, 2026",Jacob Garcia,Electronics,Smart Phone,6.0,699.99,4199.9400000000005,South
+101465,20/10/2025,Jason Potts,electronics,Laptop,6.0,1199.99,7199.9400000000005,E
+100324,04/03/2026,John Thomas,Furniture,Dining Table,6.0,450.0,2700.0,North
+100661,"nov 17, 2025",Sara Schmidt,Furniture,Dining Table,4.0,450.0,1800.0,South
+100701,03/01/2026,Luis Molina,electronics,Wireless Headphones,5.0,149.99,749.95,West
+101538,"apr 23, 2026",Darlene Gray,Furniture,Ergonomic Desk,14.0,299.99,4199.860000000001,SOUTH
+100376,"April 03, 2026",Dean Gardner,Office Supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,West
+101419,,Melissa Miller,furniture,Dining Table,7.0,450.0,3150.0,West
+100314,,Chad Russell,Electronics,Laptop,15.0,1199.99,17999.85,North
+100442,,Lisa Payne, Furniture ,Dining Table,5.0,450.0,2250.0,West
+101193,"November 21, 2025",Jason Roberts,Furniture,Office Chair,6.0,189.99,1139.94,North
+100319,"jun 28, 2025",Peter David,Office Supplies,File Organizer,11.0,24.99,316.1235,West
+101440,07/12/2025,Tony Mcdonald,Furniture,Dining Table,2.0,450.0,900.0,west
+101220,"September 13, 2025",Katherine Clark,furniture,Ergonomic Desk,14.0,299.99,4829.839,north
+100976,09/07/2025,Jeffery Hayden,Office Supplies,Notebook,9.0,4.99,44.910000000000004,West
+101249,20/08/2025,Alan Dixon,electronics,Laptop,2.0,1199.99,2399.98,North
+100424,"nov 17, 2025",Amy Suarez,Furniture,Office Chair,3.0,,,west
+100553,,Richard Robles,Furniture,Ergonomic Desk,3.0,299.99,899.97,East
+100594,"January 17, 2026",Kimberly Lawrence, Office Supplies ,File Organizer,3.0,24.99,74.97,South
+100070,"August 17, 2025",Martha Romero,Furniture,Office Chair,3.0,189.99,569.97,W
+100368,01/03/2026,,Electronics,Laptop,2.0,1199.99,2399.98,North
+101481,20/05/2026,Scott Green,Electronics,Laptop,3.0,1199.99,3599.9700000000003,South
+101107,"June 22, 2025",James Morris,Furniture,Dining Table,10.0,450.0,4500.0,South
+101344,"May 29, 2026",,Electronics,Wireless Headphones,13.0,149.99,1949.8700000000001,West
+100764,25/01/2026,Natalie Johnson,Electronics,Smart Phone,3.0,699.99,2099.9700000000003,E
+100227,18/03/2026,Ashley Rodriguez,electronics,Wireless Headphones,3.0,149.99,449.97,N
+101128,,Kimberly Porter,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,North
+100998,28/02/2026,Jason Christensen,furniture,Dining Table,12.0,450.0,5400.0,South
+101103,30/05/2026,Matthew Robertson, Furniture ,Sofa,4.0,,,West
+100841,09/04/2026,Christine Cox, Office Supplies ,Notebook,6.0,4.99,29.94,West
+100066,"sep 24, 2025",Brian Garcia,electronics,Smart Watch,2.0,249.99,499.98,West
+100393,2026-01-13,Blake Brown,Office Supplies,Gel Pens (Pack of 10),-2.0,12.5,-25.0,North
+100579,"January 29, 2026",Susan Higgins,Furniture,Ergonomic Desk,9.0,299.99,2699.91,south
+100024,"September 13, 2025",Rebecca Garcia, Office Supplies ,Paper Shredder,9.0,89.99,809.91,E
+100211,30/12/2025,Kristen Thomas,Furniture,Sofa,2.0,799.99,1599.98,East
+101299,"November 29, 2025",Kyle Cochran,Electronics,Smart Watch,7.0,249.99,1749.93,North
+100962,26/04/2026,Brian Morris,electronics,Smart Watch,1.0,249.99,249.99,West
+100536,2026-02-07,Monica Sanchez,Office Supplies,Paper Shredder,12.0,89.99,1079.8799999999999,South
+101004,"oct 09, 2025",Haley Jones,Electronics,Smart Watch,7.0,249.99,1749.93,South
+100807,"apr 23, 2026",Timothy Jenkins,furniture,Ergonomic Desk,,299.99,,south
+100085,"March 06, 2026",Kenneth Baker, Office Supplies ,Paper Shredder,1.0,89.99,89.99,South
+101545,"feb 03, 2026",Yvonne Brown,furniture,Office Chair,9.0,189.99,1709.91,west
+100272,2026-04-04,Tammy Mcclain,Furniture,Ergonomic Desk,11.0,,,West
+101075,"April 20, 2026",Rachel Scott,Electronics,Smart Watch,,249.99,,
+100965,05/11/2025,Shannon Torres,Office Supplies,Paper Shredder,6.0,89.99,539.9399999999999,South
+100806,28/02/2026,Erin Hendrix,electronics,Wireless Headphones,4.0,149.99,599.96,East
+101497,"April 29, 2026",Paula Castaneda,furniture,Dining Table,10.0,450.0,4500.0,north
+100630,"sep 16, 2025",Debra Harris,Office Supplies,Notebook,13.0,4.99,74.6005,East
+101305,"July 30, 2025",Anthony Hardy, Furniture ,Ergonomic Desk,2.0,299.99,599.98,West
+101551,22/12/2025,Devin Mooney,Office Supplies,File Organizer,13.0,24.99,324.87,South
+101138,"October 20, 2025",Thomas Moss,Furniture,Sofa,4.0,799.99,3199.96,south
+100505,19/07/2025,Karen Gibson,Office Supplies,Gel Pens (Pack of 10),9.0,12.5,112.5,E
+100273,2026-03-20,Jesus Jones,Electronics,Wireless Headphones,12.0,149.99,1799.88,East
+101111,,Mario Ortiz,Electronics,Smart Watch,5.0,249.99,1249.95,NORTH
+100228,2026-01-28,Stephanie Reynolds,Furniture,Mutated Product,15.0,799.99,999.99,WEST
+100362,"oct 05, 2025",,Office Supplies,Paper Shredder,8.0,89.99,719.92,East
+101342,15/10/2025,,Furniture,Sofa,7.0,799.99,5599.93,N
+100622,14/05/2026,Martha Ross, Electronics ,Smart Phone,4.0,699.99,2799.96,South
+100002,"October 21, 2025",Meghan Ross,Electronics,Laptop,13.0,1199.99,15599.87,North
+100006,"October 16, 2025",Jeffrey Mcclain,Electronics,Laptop,15.0,1199.99,17999.85,west
+100311,"July 29, 2025",Dr. Darlene Shannon,Furniture,Ergonomic Desk,9.0,,,West
+101334,"apr 24, 2026",Brian Davis,furniture,Ergonomic Desk,7.0,299.99,2414.9195,East
+100808,2025-11-18,Marissa Wade,Furniture,Dining Table,1.0,450.0,,South
+100665,"June 11, 2025",Gregory Villarreal,Furniture,Sofa,14.0,799.99,11199.86,SOUTH
+100364,,Crystal Lamb, Furniture ,Dining Table,13.0,450.0,5850.0,South
+100173,06/09/2025,Nicholas Casey,Office Supplies,Notebook,12.0,4.99,59.88,South
+100215,"may 07, 2026",Dana Smith, Office Supplies ,Gel Pens (Pack of 10),1.0,12.5,12.5,N
+100836,"December 02, 2025",Richard Lewis,Furniture,Office Chair,6.0,189.99,1139.94,South
+100027,2026-03-14,Justin Shaw,Furniture,Dining Table,15.0,450.0,6750.0,north
+101191,2025-09-17,April Johnson,Electronics,Laptop,10.0,1199.99,11999.9,South
+100525,2026-05-19,Julia Pierce,Electronics,Wireless Headphones,2.0,,,WEST
+101520,2026-03-05,Shelley Reid,Electronics,Smart Watch,3.0,249.99,749.97,south
+100988,"June 14, 2025",Jeffrey Gill,Furniture,Office Chair,15.0,189.99,2849.8500000000004,
+100638,,Timothy Henry,Electronics,Smart Watch,13.0,249.99,3249.87,South
+101022,"March 19, 2026",Pamela Cooley,Furniture,Office Chair,12.0,189.99,2279.88,West
+100718,"dec 17, 2025",,Electronics,Smart Phone,2.0,699.99,1399.98,North
+100691,,Cynthia Baird, Furniture ,Ergonomic Desk,15.0,299.99,4499.85,North
+101018,"March 22, 2026",Dr. Jennifer Woodard,Furniture,Ergonomic Desk,12.0,299.99,3599.88,South
+100624,19/01/2026,Francisco Clark,Electronics,Smart Watch,4.0,249.99,999.96,West
+100007,"March 03, 2026",Daniel Nixon,furniture,Sofa,15.0,799.99,11999.85,North
+100256,"July 12, 2025",William Zhang,Furniture,Office Chair,5.0,189.99,949.95,west
+100803,02/10/2025,Ashley Jones,Electronics,Smart Watch,3.0,249.99,749.97,North
+100025,"oct 13, 2025",Philip Stone,Electronics,Smart Watch,9.0,249.99,2249.91,South
+100336,23/05/2026,Karen Arnold,Office Supplies,Notebook,7.0,4.99,34.93,
+100572,"September 07, 2025",Sara Beltran,Furniture,Ergonomic Desk,8.0,299.99,2399.92,west
+100047,"mar 17, 2026",Michael Anderson,Electronics,Wireless Headphones,9.0,149.99,1349.91,west
+100106,2026-04-01,,office supplies,File Organizer,8.0,24.99,199.92,South
+100349,16/05/2026,Roberto Dougherty,Electronics,Smart Watch,12.0,249.99,2999.88,South
+100055,01/02/2026,Mary Hammond, Furniture ,Ergonomic Desk,3.0,299.99,899.97,W
+101203,"may 28, 2026",Carlos Long,Furniture,Ergonomic Desk,11.0,,,South
+100213,,Daisy Harris,furniture,Dining Table,10.0,450.0,4500.0,W
+100120,"mar 06, 2026",Jessica Flynn,Office Supplies,Notebook,7.0,4.99,34.93,East
+101049,"apr 23, 2026",,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,S
+100900,"feb 23, 2026",Patricia Clark,office supplies,File Organizer,6.0,24.99,149.94,
+100793,"September 30, 2025",,Office Supplies,Notebook,,4.99,,South
+100072,"feb 05, 2026",Joshua Pruitt,Office Supplies,Notebook,10.0,4.99,49.900000000000006,West
+100812,"December 28, 2025",Nicole Jones,Electronics,Laptop,6.0,1199.99,7199.9400000000005,north
+101435,"October 25, 2025",Michael Jones,Electronics,Smart Watch,9.0,249.99,2249.91,SOUTH
+101519,2025-07-23,David Bowen,Furniture,Sofa,6.0,799.99,4799.9400000000005,South
+100881,2025-08-05,Taylor Edwards,furniture,Sofa,10.0,799.99,7999.9,W
+100045,"sep 20, 2025",Nancy Luna, Furniture ,Ergonomic Desk,13.0,299.99,3899.87,South
+101394,"September 03, 2025",Kristy Matthews,Electronics,Laptop,,1199.99,,North
+100523,18/12/2025,Corey Lee,Furniture,Sofa,10.0,799.99,7999.9,North
+100232,05/11/2025,Michele Hamilton,Electronics,Laptop,9.0,1199.99,10799.91,E
+101468,25/08/2025,Donna Porter,Electronics,Smart Phone,2.0,699.99,1399.98,SOUTH
+101217,03/05/2026,Frank Atkinson,Office Supplies,Notebook,15.0,4.99,74.85000000000001,North
+101253,"June 27, 2025",Theresa Moore,Furniture,Dining Table,7.0,450.0,3150.0,South
+100978,08/01/2026,,Electronics,Smart Watch,10.0,249.99,2499.9,SOUTH
+100533,"March 09, 2026",Makayla Miller,Electronics,Smart Phone,12.0,,,North
+101317,"mar 26, 2026",Ashley Mcgee,Furniture,Office Chair,3.0,189.99,569.97,West
+101476,21/05/2026,Katherine Dalton,Furniture,Dining Table,12.0,450.0,5400.0,West
+100603,12/03/2026,Rhonda Day,Furniture,Office Chair,1.0,189.99,189.99,North
+100465,"nov 20, 2025",Robert Thomas, Office Supplies ,Notebook,7.0,4.99,34.93,South
+101245,"March 10, 2026",Matthew Waters, Office Supplies ,Notebook,1.0,4.99,,East
+100788,"August 24, 2025",Amy Watson,Electronics,Smart Watch,7.0,249.99,1749.93,West
+101450,"jan 12, 2026",Rebecca Turner, Furniture ,Sofa,6.0,799.99,4799.9400000000005,North
+101167,16/04/2026,Erin Manning,Furniture,Office Chair,13.0,189.99,2469.87,West
+101544,23/08/2025,Marissa Lopez,furniture,Sofa,15.0,799.99,11999.85,West
+100060,"March 19, 2026",Victoria Rivera,Furniture,Sofa,2.0,799.99,1599.98,W
+101348,05/05/2026,Lisa Ponce,Electronics,Smart Phone,4.0,699.99,2799.96,North
+100092,"August 18, 2025",Donna Calhoun,Office Supplies,File Organizer,2.0,24.99,49.98,South
+100666,,Angela Baker,Office Supplies,File Organizer,2.0,24.99,49.98,East
+100861,2026-05-03,Zachary Morgan MD,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,West
+100194,"October 08, 2025",Samuel Murphy,Office Supplies,Gel Pens (Pack of 10),12.0,12.5,150.0,West
+100280,2025-06-24,George Johnson,Furniture,Ergonomic Desk,8.0,299.99,2399.92,East
+100695,19/10/2025,Stephanie Schultz,Office Supplies,Notebook,13.0,4.99,64.87,S
+100359,"July 07, 2025",Janet Lopez,Electronics,Laptop,6.0,1199.99,7199.9400000000005,East
+100519,28/06/2025,William Adams,Electronics,Smart Watch,,249.99,,North
+101000,"July 09, 2025",Madeline Roberts,Furniture,Ergonomic Desk,4.0,299.99,1199.96,South
+101088,"jun 18, 2025",Manuel Taylor, Office Supplies ,Paper Shredder,6.0,89.99,539.9399999999999,South
+100847,10/03/2026,David Moore,furniture,Dining Table,9.0,450.0,4050.0,West
+100182,2025-06-05,Alexa Rodriguez,office supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,North
+101133,11/03/2026,Brent Gutierrez,Furniture,Dining Table,13.0,450.0,5850.0,SOUTH
+101373,2025-11-05,Zoe Cole,Furniture,Dining Table,4.0,450.0,,EAST
+100110,2026-03-14,Samuel Delgado,Furniture,Ergonomic Desk,14.0,299.99,4199.860000000001,North
+101023,2025-09-28,Geoffrey Paul, Office Supplies ,File Organizer,3.0,24.99,74.97,North
+100042,15/04/2026,Antonio Williams,Office Supplies,Notebook,15.0,4.99,,west
+100746,"May 22, 2026",Timothy White, Office Supplies ,Gel Pens (Pack of 10),12.0,12.5,150.0,West
+100125,"November 04, 2025",Marc Larson,Furniture,Sofa,3.0,799.99,,WEST
+100204,2025-11-09,Kayla Randall,Furniture,Office Chair,14.0,,,West
+101010,2025-12-29,Dennis Rodriguez,Electronics,Smart Watch,14.0,249.99,3499.86,East
+100052,27/02/2026,Brittney Peterson,Furniture,Sofa,12.0,799.99,9599.880000000001,South
+101514,06/06/2025,Amy Callahan,Electronics,Smart Phone,4.0,699.99,2799.96,West
+100545,"jan 06, 2026",Jeanette Duarte,Office Supplies,Paper Shredder,3.0,89.99,269.96999999999997,West
+100068,"June 02, 2025",Marc Davis,Furniture,Ergonomic Desk,14.0,299.99,4199.860000000001,East
+101170,"May 24, 2026",Gary Brock,office supplies,Gel Pens (Pack of 10),,12.5,,East
+100507,"May 20, 2026",Amy Young,Office Supplies,Notebook,7.0,4.99,34.93,East
+101288,"August 06, 2025",Jamie Faulkner,Furniture,Dining Table,8.0,,,West
+100329,"January 12, 2026",Jacob Jackson,Electronics,Laptop,2.0,1199.99,2399.98,North
+101301,"January 06, 2026",Megan Sellers,Furniture,Office Chair,6.0,189.99,1139.94,EAST
+100183,"may 21, 2026",Ann Ross,Office Supplies,File Organizer,-1.0,24.99,-24.99,South
+100137,24/01/2026,Steven Gordon,Electronics,Wireless Headphones,10.0,149.99,1499.9,west
+100796,"jun 06, 2025",Robert Garcia, Electronics ,Smart Phone,6.0,699.99,4199.9400000000005,East
+100132,"jul 08, 2025",Michael Sanchez,Electronics,Wireless Headphones,11.0,149.99,1649.89,South
+100080,2025-10-30,Christopher Ewing,Office Supplies,Paper Shredder,13.0,89.99,1169.87,West
+101339,"October 20, 2025",,Furniture,Ergonomic Desk,4.0,299.99,1199.96,South
+100105,"nov 03, 2025",Jonathan Cameron, Furniture ,Office Chair,6.0,189.99,1139.94,North
+101283,,Adam Griffin,Office Supplies,Paper Shredder,4.0,89.99,359.96,south
+100541,"March 08, 2026",Alejandro Rowe,Office Supplies,Paper Shredder,8.0,89.99,719.92,S
+100905,"January 13, 2026",Laura Cook,furniture,Dining Table,1.0,450.0,450.0,North
+100480,,Ryan Brandt,Office Supplies,Notebook,7.0,4.99,34.93,West
+100165,02/06/2025,Mark Lee,Electronics,Wireless Headphones,8.0,149.99,1199.92,east
+100248,22/05/2026,Andrea Gomez,Office Supplies,Paper Shredder,4.0,89.99,359.96,South
+100307,28/08/2025,Matthew Shea, Office Supplies ,Notebook,-3.0,4.99,-14.97,East
+100446,"jul 16, 2025",Joy Peterson,Electronics,Smart Watch,11.0,249.99,2749.8900000000003,East
+100916,"January 26, 2026",Elizabeth Lowe,Furniture,Office Chair,15.0,189.99,2849.8500000000004,East
+100858,23/06/2025,Dr. Kelly Fisher, Office Supplies ,Gel Pens (Pack of 10),6.0,12.5,75.0,East
+100334,11/04/2026,Rebekah Barrett,Office Supplies,Notebook,15.0,4.99,74.85000000000001,North
+101007,"May 07, 2026",Amy Duncan,Furniture,Office Chair,13.0,189.99,2469.87,W
+100849,29/07/2025,Angela Pearson, Electronics ,Smart Watch,,249.99,,East
+100097,"November 14, 2025",Brittany Wilson,office supplies,Notebook,-2.0,4.99,,West
+101234,"April 22, 2026",Emily Campbell,Office Supplies,Gel Pens (Pack of 10),3.0,12.5,,North
+100634,28/09/2025,Joshua Joyce, Furniture ,Office Chair,6.0,189.99,1139.94,East
+100737,11/12/2025,,Furniture,Office Chair,2.0,189.99,379.98,NORTH
+101050,"September 25, 2025",Kayla Fletcher,Furniture,Dining Table,14.0,450.0,6300.0,West
+101210,"August 14, 2025",John Carr,Electronics,Wireless Headphones,12.0,149.99,1799.88,
+100421,"April 23, 2026",Robert Duran,Electronics,Smart Phone,11.0,699.99,7699.89,East
+100102,"February 24, 2026",Lee Clayton,Electronics,Smart Watch,14.0,249.99,3499.86,North
+100434,"June 16, 2025",Taylor Rose,Electronics,Smart Watch,2.0,249.99,499.98,South
+100074,"September 01, 2025",Kathy Smith,electronics,Laptop,2.0,1199.99,2399.98,South
+101486,2025-11-11,Alexandra Sanchez,Furniture,Office Chair,13.0,189.99,2840.3504999999996,E
+100909,30/05/2026,Natalie Hall,Electronics,Wireless Headphones,,149.99,,South
+100993,,Karen Haynes,Electronics,Smart Phone,3.0,699.99,2099.9700000000003,West
+100228,2026-01-28,Stephanie Reynolds,Furniture,Sofa,15.0,799.99,11999.85,WEST
+101507,"September 20, 2025",Courtney Sanchez,Electronics,Wireless Headphones,12.0,149.99,1799.88,N
+100918,"March 07, 2026",Robert Castro,Electronics,Smart Phone,8.0,699.99,5599.92,SOUTH
+100302,"jul 30, 2025",Gregory Wright, Furniture ,Sofa,10.0,799.99,7999.9,East
+101428,,William Oconnor,office supplies,Paper Shredder,,89.99,,WEST
+101393,2025-12-18,James Donovan, Electronics ,Laptop,3.0,1199.99,,south
+101350,"apr 01, 2026",Robert Sandoval,Office Supplies,File Organizer,15.0,24.99,374.84999999999997,East
+100824,2026-02-09,Angela Martin,electronics,Laptop,15.0,1199.99,17999.85,North
+100762,2025-12-09,,Electronics,Smart Watch,9.0,249.99,2249.91,North
+100733,2025-11-30,Sarah Grimes,Electronics,Wireless Headphones,3.0,,,North
+100388,2026-03-23,Rebecca Pruitt,Furniture,Office Chair,-3.0,189.99,-569.97,South
+100235,2026-03-27,Travis Chan,Electronics,Laptop,2.0,1199.99,2399.98,South
+101374,06/08/2025,Chelsea Byrd,Office Supplies,Gel Pens (Pack of 10),13.0,12.5,186.87499999999997,EAST
+100267,"jan 15, 2026",Aaron Green,electronics,Smart Watch,10.0,249.99,2499.9,NORTH
+100305,2025-10-26,Felicia Pope,Office Supplies,Notebook,15.0,4.99,74.85000000000001,N
+101106,2026-02-09,Laura Bishop,Office Supplies,File Organizer,6.0,24.99,149.94,West
+101046,01/03/2026,Kristina Mann,Electronics,Laptop,12.0,1199.99,14399.880000000001,W
+100117,"August 14, 2025",James Salazar,electronics,Smart Phone,5.0,699.99,3499.95,
+101338,09/09/2025,Ashley Wilson,Office Supplies,Notebook,7.0,4.99,34.93,North
+100673,09/12/2025,Jaime West,Electronics,Laptop,4.0,1199.99,4799.96,S
+100249,"December 18, 2025",Christian Gonzalez,office supplies,Notebook,3.0,4.99,14.97,west
+101204,10/05/2026,Franklin Mitchell, Electronics ,Laptop,-2.0,1199.99,-2399.98,SOUTH
+101188,"October 17, 2025",Melissa Jefferson,Electronics,Smart Phone,13.0,699.99,9099.87,North
+100071,2025-08-19,Kelly Walsh,Electronics,Smart Watch,13.0,249.99,3249.87,West
+100094,17/09/2025,Mrs. Brittany Montgomery,Electronics,Smart Watch,4.0,249.99,999.96,South
+101102,,Jason Simmons,Office Supplies,File Organizer,,24.99,,North
+100033,07/05/2026,Timothy Morris,furniture,Dining Table,10.0,450.0,4500.0,East
+100799,31/01/2026,Karen Ortega,office supplies,File Organizer,5.0,24.99,124.94999999999999,North
+101212,"jun 11, 2025",Lauren Stanley,Furniture,Sofa,10.0,799.99,7999.9,WEST
+101391,"May 15, 2026",Timothy Yang, Electronics ,Wireless Headphones,7.0,149.99,1049.93,West
+100448,03/11/2025,Kimberly Peterson,Office Supplies,Paper Shredder,1.0,89.99,89.99,NORTH
+100445,"dec 06, 2025",Eileen Long,Electronics,Smart Watch,12.0,249.99,2999.88,East
+100771,19/06/2025,Walter Davies, Electronics ,Laptop,7.0,1199.99,8399.93,South
+100716,2025-12-01,Kenneth Parker,Office Supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,South
+101057,"July 22, 2025",Nathaniel Casey,Office Supplies,Gel Pens (Pack of 10),15.0,12.5,187.5,West
+101262,"October 24, 2025",Dawn Black,Electronics,Wireless Headphones,7.0,149.99,1049.93,E
+100000,2026-04-24,John Hernandez, Electronics ,Smart Phone,12.0,699.99,8399.880000000001,North
+101362,2025-10-09,Kevin Harris,furniture,Office Chair,7.0,189.99,,East
+101214,,Jesse Miller, Furniture ,Office Chair,12.0,189.99,2279.88,West
+100077,"June 26, 2025",Amanda Galloway,Office Supplies,File Organizer,14.0,24.99,349.85999999999996,South
+100084,"May 02, 2026",Christopher Gutierrez,Electronics,Smart Watch,10.0,249.99,,South
+100144,12/04/2026,Kathleen Munoz,Office Supplies,Paper Shredder,10.0,89.99,899.9,North
+100082,"March 15, 2026",John Stark,Furniture,Dining Table,11.0,450.0,4950.0,S
+100457,"jan 26, 2026",Anthony Stanley,office supplies,Notebook,11.0,4.99,54.89,EAST
+101246,"apr 02, 2026",Ronald Wright,Office Supplies,Notebook,4.0,4.99,19.96,North
+100676,22/02/2026,Matthew Anderson,Furniture,Sofa,8.0,799.99,6399.92,East
+101598,16/02/2026,Charles Faulkner,Electronics,Wireless Headphones,11.0,149.99,1649.89,East
+101359,2025-08-04,Jerry Ford,electronics,Laptop,5.0,1199.99,5999.95,South
+100436,22/05/2026,Dr. Jason Walls,Office Supplies,File Organizer,13.0,24.99,324.87,North
+100770,"February 11, 2026",,Furniture,Office Chair,13.0,189.99,2469.87,South
+100869,"September 02, 2025",Joshua Brown,office supplies,Notebook,3.0,4.99,14.97,west
+100644,"may 30, 2026",Samantha Garcia,Office Supplies,File Organizer,3.0,24.99,74.97,EAST
+100862,27/06/2025,Shawn Fox,Office Supplies,File Organizer,11.0,24.99,274.89,South
+101013,29/05/2026,Anthony Hebert,Furniture,Ergonomic Desk,6.0,299.99,1799.94,north
+101526,"August 13, 2025",Jacqueline Garcia, Electronics ,Smart Watch,3.0,249.99,749.97,South
+101316,"jun 11, 2025",Sarah Vazquez,Office Supplies,Paper Shredder,5.0,89.99,449.95,north
+101235,12/10/2025,Micheal Cohen,Office Supplies,Paper Shredder,14.0,89.99,1259.86,South
+100404,"April 10, 2026",James King,Office Supplies,Paper Shredder,10.0,89.99,899.9,west
+101439,"aug 27, 2025",Catherine Joseph, Office Supplies ,File Organizer,5.0,24.99,124.94999999999999,South
+100958,2026-04-17,James Hall,electronics,Wireless Headphones,9.0,149.99,1349.91,North
+101315,"March 04, 2026",Michael Cunningham,electronics,Wireless Headphones,9.0,149.99,1349.91,WEST
+100104,2026-03-16,Melissa Baker,Office Supplies,File Organizer,11.0,24.99,274.89,east
+100609,22/10/2025,Samantha Huff,Office Supplies,Paper Shredder,4.0,89.99,359.96,West
+101026,"November 29, 2025",Joseph Delgado,Electronics,Smart Watch,15.0,249.99,3749.8500000000004,North
+101583,2026-03-03,Laura Lewis,Office Supplies,Notebook,14.0,4.99,69.86,North
+100688,2025-11-18,Robert Frazier,electronics,Laptop,14.0,1199.99,16799.86,South
+101087,"November 15, 2025",,Office Supplies,File Organizer,6.0,24.99,149.94,East
+100826,"feb 03, 2026",Shannon Lopez,electronics,Laptop,14.0,1199.99,16799.86,North
+101263,"December 25, 2025",Christopher Rocha,Office Supplies,Paper Shredder,9.0,89.99,809.91,West
+101242,25/02/2026,Cassandra Stone,Furniture,Ergonomic Desk,15.0,299.99,4499.85,North
+100062,2026-02-21,Tanya Meadows,Office Supplies,File Organizer,15.0,24.99,374.84999999999997,West
+100281,"August 24, 2025",, Furniture ,Office Chair,4.0,189.99,759.96,North
+100852,"July 26, 2025",Savannah Payne,Office Supplies,File Organizer,12.0,24.99,299.88,east
+100778,"October 02, 2025",William Ortega,Office Supplies,File Organizer,4.0,24.99,114.95399999999998,West
+101121,22/04/2026,Bobby Johnson,Office Supplies,Notebook,7.0,4.99,34.93,East
+100238,"September 22, 2025",Monica Sutton,Electronics,Laptop,14.0,1199.99,16799.86,N
+100223,03/03/2026,Kristin Moore,Office Supplies,Gel Pens (Pack of 10),5.0,12.5,62.5,East
+100145,"March 26, 2026",Natalie Jones,Furniture,Office Chair,10.0,189.99,1899.9,North
+101550,,Jean Jarvis,Furniture,Dining Table,9.0,450.0,4050.0,South
+100373,20/05/2026,Alexis Hurst,Furniture,Dining Table,6.0,450.0,2700.0,N
+101356,"oct 24, 2025",Brandon Rosales,Office Supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,west
+100118,"August 16, 2025",Kyle Montes,Office Supplies,File Organizer,2.0,24.99,49.98,W
+101244,26/12/2025,Nicole Lynch,Electronics,Smart Phone,2.0,699.99,1399.98,W
+101240,"October 27, 2025",John Ferguson,Office Supplies,Notebook,13.0,4.99,64.87,East
+100250,11/11/2025,Lucas Raymond,Electronics,Smart Phone,14.0,699.99,9799.86,South
+100354,22/10/2025,Shelley Miller,furniture,Dining Table,10.0,450.0,4500.0,South
+101333,,Mario Perkins,Office Supplies,Notebook,4.0,4.99,,East
+101447,"July 04, 2025",Sharon Simmons,Furniture,Ergonomic Desk,10.0,299.99,,north
+100009,"oct 15, 2025",Tonya Garcia,Office Supplies,Paper Shredder,2.0,89.99,,South
+100449,21/10/2025,Jeremy Allen,furniture,Dining Table,10.0,450.0,,South
+101281,,Karen Evans, Furniture ,Ergonomic Desk,11.0,299.99,3299.8900000000003,East
+101054,2025-08-19,Noah Oliver,Office Supplies,File Organizer,10.0,24.99,249.89999999999998,South
+100708,"sep 26, 2025",Karen Jackson,Furniture,Office Chair,5.0,189.99,949.95,north
+100255,"February 07, 2026",Monique Shields,electronics,Smart Phone,,699.99,,N
+100882,"nov 10, 2025",Victor Moore,Furniture,Sofa,13.0,799.99,10399.87,East
+100593,"dec 31, 2025",Cheryl White,Furniture,Ergonomic Desk,10.0,299.99,2999.9,South
+100389,"April 21, 2026",Tammy Warren,Office Supplies,File Organizer,1.0,24.99,24.99,south
+101303,"apr 11, 2026",James Lewis,Furniture,Dining Table,9.0,450.0,4050.0,
+101325,29/07/2025,Diana Miller,Office Supplies,Notebook,2.0,4.99,9.98,North
+100557,02/05/2026,Michael Carr,Office Supplies,File Organizer,6.0,24.99,149.94,North
+100908,"January 14, 2026",Samantha Palmer,Office Supplies,Notebook,6.0,4.99,29.94,North
+100924,"May 12, 2026",Steven Gonzalez,office supplies,File Organizer,10.0,24.99,249.89999999999998,South
+101422,,Anthony Gonzales,Electronics,Smart Phone,,699.99,,East
+101093,2026-05-26,Willie Woods,Electronics,Wireless Headphones,9.0,149.99,1349.91,EAST
+100460,"February 10, 2026",Danny King,Electronics,Smart Phone,,699.99,,North
+101061,29/11/2025,Valerie Anderson, Office Supplies ,File Organizer,1.0,24.99,24.99,East
+100958,2026-04-17,James Hall,electronics,Wireless Headphones,9.0,149.99,1349.91,North
+100501,"nov 03, 2025",Richard Cruz,furniture,Sofa,,,,west
+100739,06/03/2026,Christopher Thomas, Office Supplies ,Paper Shredder,11.0,,,west
+101533,11/12/2025,Kristen Smith,Electronics,Wireless Headphones,11.0,149.99,1649.89,South
+100868,"April 12, 2026",Christopher Wilson, Electronics ,Smart Phone,2.0,699.99,1399.98,WEST
+100731,2025-06-21,Christopher Matthews,Office Supplies,Gel Pens (Pack of 10),15.0,12.5,187.5,
+100539,"oct 31, 2025",Mr. Timothy Faulkner,Electronics,Laptop,15.0,1199.99,17999.85,East
+100697,"April 30, 2026",Tyler Molina,electronics,Laptop,11.0,1199.99,13199.89,east
+101156,06/08/2025,Samuel Hoffman,Furniture,Office Chair,4.0,189.99,759.96,West
+101142,"May 11, 2026",Charles Martinez,Furniture,Sofa,13.0,799.99,,West
+101031,"dec 17, 2025",Sylvia Smith, Furniture ,Office Chair,11.0,189.99,2089.8900000000003,South
+100372,"June 27, 2025",Christian Padilla, Office Supplies ,Gel Pens (Pack of 10),2.0,12.5,,
+100667,2025-12-09,,Furniture,Sofa,5.0,799.99,3999.95,West
+101269,"April 18, 2026",Brian Martinez,Electronics,Smart Phone,12.0,699.99,8399.880000000001,East
+100357,"March 13, 2026",Christina Wall,Furniture,Ergonomic Desk,1.0,299.99,299.99,South
+100967,"November 03, 2025",Sara Lewis,Furniture,Dining Table,5.0,450.0,2250.0,
+100783,"February 09, 2026",Heather Campbell,Furniture,Dining Table,7.0,450.0,3150.0,South
+100735,"December 06, 2025",Cassandra Simmons,electronics,Smart Watch,2.0,249.99,499.98,
+101035,"June 25, 2025",Stephanie Day, Furniture ,Sofa,4.0,799.99,3199.96,South
+100970,"November 14, 2025",Rebecca Long,Office Supplies,File Organizer,12.0,24.99,299.88,WEST
+101268,"July 12, 2025",Matthew Odom,Furniture,Office Chair,14.0,189.99,2659.86,South
+101233,"June 21, 2025",Eric Kelley,Office Supplies,File Organizer,1.0,24.99,24.99,
+101237,"nov 05, 2025",Daniel Powell,Furniture,Ergonomic Desk,,299.99,,WEST
+101412,01/01/2026,,Electronics,Smart Watch,15.0,249.99,3749.8500000000004,East
+101432,2026-03-08,Anna Sweeney, Electronics ,Smart Phone,9.0,699.99,6299.91,West
+100885,"oct 27, 2025",, Electronics ,Wireless Headphones,6.0,149.99,899.94,North
+100079,30/12/2025,Shelby Sanchez,Electronics,Laptop,3.0,1199.99,3599.9700000000003,SOUTH
+100814,"mar 24, 2026",David Johnson,Office Supplies,Paper Shredder,14.0,89.99,1259.86,
+101074,"January 23, 2026",Andrew Andrews,Furniture,Sofa,8.0,799.99,6399.92,North
+100671,21/05/2026,Kristin Parsons,furniture,Sofa,10.0,799.99,7999.9,East
+101566,"May 04, 2026",Nathan Alvarado,Furniture,Sofa,,799.99,,East
+100057,"oct 31, 2025",Joshua Diaz,office supplies,File Organizer,5.0,24.99,124.94999999999999,SOUTH
+100133,2025-06-29,Vanessa Martin,Electronics,Laptop,5.0,1199.99,5999.95,East
+100933,"February 24, 2026",Jerry Kelley, Office Supplies ,File Organizer,1.0,24.99,24.99,North
+101404,"May 26, 2026",Stephanie Gill, Furniture ,Sofa,14.0,799.99,11199.86,East
+100823,"nov 18, 2025",Zachary Clayton,Office Supplies,Notebook,14.0,4.99,69.86,North
+100504,"June 28, 2025",Richard Russo,furniture,Ergonomic Desk,7.0,299.99,,North
+101475,"sep 04, 2025",Marvin Stewart,office supplies,File Organizer,13.0,24.99,324.87,South
+100347,"October 11, 2025",Timothy Conrad,Electronics,Smart Watch,11.0,249.99,2749.8900000000003,
+100386,20/03/2026,Juan Soto,Electronics,Smart Phone,1.0,699.99,699.99,East
+101024,"jul 07, 2025",Kelly Atkinson,Office Supplies,Notebook,9.0,4.99,44.910000000000004,
+100894,"August 02, 2025",Jennifer Collier,Electronics,Laptop,8.0,1199.99,9599.92,west
+100828,,Bryan Turner,Furniture,Sofa,14.0,,,E
+101568,2026-04-02,Danielle Ortega, Electronics ,Smart Phone,12.0,699.99,8399.880000000001,WEST
+100475,24/03/2026,James Miller,Furniture,Sofa,4.0,799.99,3199.96,South
+101160,"mar 17, 2026",Andrea Johnson,office supplies,Notebook,3.0,4.99,14.97,east
+100652,"jun 18, 2025",Scott Pittman, Office Supplies ,Gel Pens (Pack of 10),8.0,12.5,100.0,North
+100172,2025-06-21,Karla Shaffer,electronics,Laptop,13.0,1199.99,15599.87,East
+100038,"oct 11, 2025",Edward Smith,Electronics,Wireless Headphones,13.0,149.99,1949.8700000000001,SOUTH
+100713,19/02/2026,Robert Murphy,Electronics,Smart Watch,15.0,249.99,3749.8500000000004,east
+100090,"July 12, 2025",Kyle Edwards, Furniture ,Dining Table,2.0,450.0,900.0,East
+100237,01/11/2025,Emma Jones, Furniture ,Dining Table,1.0,450.0,450.0,North
+100875,"sep 22, 2025",Joseph Johnson DDS,Office Supplies,Notebook,6.0,4.99,29.94,North
+101324,2025-07-29,Sophia Adams, Electronics ,Smart Watch,1.0,249.99,249.99,West
+101093,2026-05-26,Willie Woods,Electronics,Mutated Product,9.0,149.99,999.99,EAST
+101142,"May 11, 2026",Charles Martinez,Furniture,Sofa,13.0,799.99,,West
+100499,2026-04-03,Daniel Cooper,Electronics,Laptop,4.0,1199.99,4799.96,W
+100338,"mar 02, 2026",Paul Landry,Furniture,Ergonomic Desk,10.0,299.99,2999.9,west
+100028,"December 28, 2025",,Office Supplies,Gel Pens (Pack of 10),5.0,12.5,62.5,South
+101205,16/09/2025,Matthew Ortiz,Office Supplies,Notebook,14.0,4.99,69.86,North
+101509,"dec 26, 2025",Cindy Juarez, Electronics ,Smart Phone,1.0,699.99,699.99,West
+100945,10/08/2025,Casey Brown, Office Supplies ,Notebook,10.0,4.99,,West
+100169,"aug 29, 2025",Jesus Valentine,office supplies,File Organizer,9.0,24.99,224.91,East
+100912,"June 06, 2025",Amy Edwards,Electronics,Wireless Headphones,8.0,149.99,1199.92,South
+100491,25/09/2025,Troy Clark,Furniture,Ergonomic Desk,5.0,299.99,1499.95,South
+100953,26/10/2025,Joseph Johnson,electronics,Laptop,15.0,1199.99,17999.85,East
+101032,"February 01, 2026",Anna Christensen,office supplies,Notebook,14.0,4.99,69.86,West
+100587,18/04/2026,Lee Smith,Office Supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,West
+100750,01/11/2025,Nancy Anderson,furniture,Sofa,12.0,799.99,9599.880000000001,North
+100657,2026-03-19,Matthew Shelton,Electronics,Wireless Headphones,2.0,149.99,299.98,South
+100234,06/08/2025,Kathryn Cooper,electronics,Wireless Headphones,5.0,149.99,749.95,WEST
+100732,2026-04-06,Mrs. Rachel Rivas,Furniture,Ergonomic Desk,2.0,299.99,599.98,East
+101351,2025-07-07,Daniel Ramirez,office supplies,File Organizer,15.0,24.99,374.84999999999997,East
+101355,"November 29, 2025",Kevin Fernandez,electronics,Smart Phone,5.0,699.99,3499.95,West
+100934,"apr 23, 2026",Jack Contreras, Office Supplies ,Paper Shredder,7.0,89.99,629.93,North
+101065,"November 11, 2025",Alison Black, Office Supplies ,Notebook,1.0,4.99,4.99,South
+100108,09/04/2026,Matthew Nguyen,Electronics,Wireless Headphones,6.0,149.99,899.94,E
+101284,18/06/2025,Joshua Andersen,Office Supplies,Gel Pens (Pack of 10),11.0,12.5,137.5,East
+100568,17/04/2026,,Office Supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,South
+100890,18/01/2026,Kristi Brown MD, Electronics ,Smart Phone,7.0,699.99,4899.93,South
+100947,"November 13, 2025",Danielle Jones,Electronics,Wireless Headphones,2.0,149.99,299.98,South
+101048,2025-09-30,Jeffrey Dodson, Office Supplies ,File Organizer,10.0,24.99,249.89999999999998,West
+101120,"aug 24, 2025",Jane Ferguson,Electronics,Laptop,12.0,1199.99,,W
+101200,"oct 05, 2025",John Johnson,electronics,Wireless Headphones,3.0,149.99,449.97,WEST
+100884,"May 27, 2026",Eric Jenkins,Furniture,Ergonomic Desk,13.0,299.99,,South
+101395,"May 10, 2026",Marcus James,office supplies,File Organizer,12.0,,,NORTH
+100850,"dec 13, 2025",Elizabeth Johnson, Furniture ,Sofa,1.0,799.99,799.99,North
+100734,2025-10-10,Ashley Lamb,Office Supplies,Gel Pens (Pack of 10),14.0,12.5,175.0,west
+100717,"oct 15, 2025",Michael Berry,Electronics,Smart Watch,8.0,249.99,1999.92,West
+100454,02/05/2026,Jessica Taylor,Office Supplies,File Organizer,8.0,24.99,199.92,East
+100264,"may 17, 2026",Roy Rosario,Electronics,Laptop,3.0,1199.99,3599.9700000000003,north
+100075,05/06/2025,Shane Mendoza,Furniture,Ergonomic Desk,11.0,299.99,3299.8900000000003,West
+100444,2025-09-04,Ashley Kelley,Furniture,Office Chair,10.0,189.99,1899.9,E
+100395,,Christina Martinez,Office Supplies,Gel Pens (Pack of 10),12.0,,,S
+100176,2026-03-19,Amanda Brown,Electronics,Smart Watch,9.0,249.99,2249.91,West
+101042,05/08/2025,Michelle Andrews,Office Supplies,Notebook,8.0,4.99,,NORTH
+101446,26/09/2025,Teresa Sanchez,Electronics,Laptop,1.0,1199.99,1199.99,South
+101163,"May 11, 2026",Bobby Rivers,Furniture,Office Chair,2.0,189.99,379.98,West
+101145,04/01/2026,Anna Sanchez,Electronics,Smart Watch,5.0,249.99,1249.95,South
+100595,"may 10, 2026",Megan Small,Furniture,Ergonomic Desk,11.0,299.99,,East
+100061,2025-11-13,Mrs. Natasha Williams,office supplies,Paper Shredder,1.0,89.99,89.99,East
+100872,26/08/2025,Shaun Frank,Furniture,Ergonomic Desk,10.0,299.99,2999.9,S
+101236,03/07/2025,Natalie Henderson,Furniture,Ergonomic Desk,4.0,299.99,1199.96,South
+101558,2025-10-08,Jessica Scott,Furniture,Office Chair,13.0,189.99,2469.87,North
+100278,"July 16, 2025",,Electronics,Smart Watch,11.0,249.99,2749.8900000000003,East
+100036,03/06/2025,Tyler Munoz,Electronics,Smart Watch,4.0,249.99,999.96,North
+100662,13/01/2026,Sean Rivas,Office Supplies,Notebook,2.0,4.99,9.98,south
+101498,"August 22, 2025",Mr. William Jarvis,furniture,Sofa,11.0,799.99,8799.89,East
+101198,,James Barnett,Office Supplies,Paper Shredder,15.0,89.99,1349.85,W
+100977,17/05/2026,Patricia Jacobs,Furniture,Ergonomic Desk,8.0,299.99,2399.92,East
+101308,2025-09-20,Jessica Taylor, Electronics ,Smart Phone,12.0,699.99,8399.880000000001,North
+100738,"June 05, 2025",Bruce Webb,electronics,Wireless Headphones,14.0,149.99,2099.86,South
+100191,16/11/2025,Amanda Barnett,Furniture,Ergonomic Desk,7.0,299.99,2099.9300000000003,South
+100919,"May 14, 2026",Scott Martin,Furniture,Ergonomic Desk,1.0,299.99,299.99,West
+100456,30/06/2025,Rebecca Turner,office supplies,Gel Pens (Pack of 10),10.0,12.5,125.0,South
+100675,2026-01-31,Christopher Mclean,Furniture,Office Chair,1.0,189.99,,NORTH
+100760,"October 30, 2025",Julie Mckenzie,Electronics,Smart Phone,5.0,699.99,3499.95,West
+100029,25/09/2025,Kathleen Harrison,Electronics,Smart Phone,11.0,699.99,7699.89,West
+100728,"February 03, 2026",,Furniture,Office Chair,3.0,189.99,569.97,South
+100412,21/08/2025,Tamara Roach,Furniture,Sofa,1.0,799.99,799.99,south
+101098,,Jonathan Howard,Electronics,Smart Phone,10.0,,,East
+100825,,Debbie Watkins,electronics,Laptop,10.0,1199.99,11999.9,West
+100616,"nov 22, 2025",James Lowe, Electronics ,Wireless Headphones,9.0,149.99,1349.91,West
+100114,"mar 20, 2026",Travis Welch,Furniture,Sofa,13.0,799.99,10399.87,South
+100417,"dec 06, 2025",Alan Robbins,furniture,Office Chair,13.0,189.99,2469.87,East
+101582,07/02/2026,Miranda Martinez,Furniture,Ergonomic Desk,13.0,299.99,3899.87,S
+100969,"June 13, 2025",Sara Sanchez,furniture,Sofa,13.0,799.99,10399.87,West
+100604,"may 15, 2026",, Furniture ,Ergonomic Desk,14.0,299.99,4199.860000000001,North
+101589,06/06/2025,Meredith Scott, Electronics ,Laptop,14.0,1199.99,16799.86,South
+100089,"May 04, 2026",Courtney Casey, Office Supplies ,Paper Shredder,8.0,,,North
+100848,13/09/2025,Samantha Chapman,Electronics,Laptop,5.0,1199.99,5999.95,South
+101501,17/10/2025,Richard Martinez, Furniture ,Ergonomic Desk,1.0,299.99,299.99,North
+101588,"March 03, 2026",Leah Nichols,Electronics,Smart Watch,,249.99,,north
+100753,25/04/2026,Stephanie Ayala,Furniture,Sofa,-3.0,799.99,-2399.9700000000003,E
+100498,15/03/2026,William Quinn,Electronics,Laptop,12.0,1199.99,14399.880000000001,West
+100011,05/11/2025,Mary Pennington,Electronics,Smart Phone,4.0,699.99,2799.96,south
+100396,2025-10-17,Christopher Frey,Electronics,Smart Watch,11.0,249.99,2749.8900000000003,
+100284,"apr 13, 2026",Tamara Ramirez,electronics,Wireless Headphones,2.0,149.99,299.98,South
+101066,"July 09, 2025",Dana Mills,Electronics,Smart Phone,12.0,699.99,8399.880000000001,West
+100690,"sep 08, 2025",Patrick House, Office Supplies ,File Organizer,2.0,24.99,49.98,East
+101358,"January 14, 2026",Rachel Browning,Electronics,Laptop,9.0,1199.99,10799.91,South
+101555,"April 08, 2026",Randy Roach,Office Supplies,Paper Shredder,2.0,89.99,179.98,South
+100689,"May 04, 2026",Charles Chung,Electronics,Smart Phone,9.0,699.99,6299.91,North
+100851,"April 08, 2026",Sara Solomon,Furniture,Ergonomic Desk,13.0,299.99,,West
+100159,"December 06, 2025",Jonathan Bradley,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,West
+100895,05/06/2025,Ashley Miles,furniture,Office Chair,7.0,189.99,1329.93,East
+101312,"September 02, 2025",Randy Warren,Office Supplies,File Organizer,2.0,24.99,49.98,South
+100257,"jan 15, 2026",Michael Henderson,Electronics,Wireless Headphones,8.0,149.99,1199.92,N
+100335,"feb 23, 2026",Matthew Murphy,Furniture,Ergonomic Desk,-5.0,299.99,-1499.95,East
+101559,2026-03-10,Gail Ball,Electronics,Smart Watch,5.0,249.99,1249.95,S
+101039,"oct 18, 2025",Mrs. Stephanie Mosley,Furniture,Office Chair,7.0,189.99,1329.93,East
+100515,2026-01-06,Jennifer Dunn,Electronics,Smart Phone,15.0,699.99,10499.85,West
+101015,"nov 29, 2025",Laura Hall,Furniture,Dining Table,15.0,450.0,6750.0,North
+100768,2025-10-31,Michael Hurst,Electronics,Laptop,6.0,1199.99,7199.9400000000005,West
+101454,14/07/2025,Mary Meyers,Office Supplies,File Organizer,6.0,24.99,149.94,North
+100761,"aug 11, 2025",Mary Hall,Electronics,Smart Watch,1.0,249.99,249.99,West
+101216,"January 17, 2026",David Brewer,Electronics,Smart Phone,6.0,699.99,4199.9400000000005,S
+101525,"July 23, 2025",Joann Young,electronics,Mutated Product,3.0,1199.99,999.99,south
+100521,"jul 31, 2025",Tammy Davis,Furniture,Sofa,6.0,799.99,,East
+100022,03/03/2026,Lauren Howe,Electronics,Wireless Headphones,3.0,149.99,449.97,East
+100356,"March 18, 2026",Joseph Figueroa,Electronics,Smart Watch,2.0,249.99,499.98,West
+101403,"mar 30, 2026",Margaret Chandler, Furniture ,Dining Table,6.0,450.0,2700.0,south
+100340,2026-02-16,Diana Hardin,Furniture,Ergonomic Desk,13.0,299.99,3899.87,North
+100431,"July 15, 2025",Carl Cunningham,Furniture,Sofa,3.0,799.99,2399.9700000000003,East
+100473,28/06/2025,Sarah Miller,electronics,Smart Phone,13.0,699.99,9099.87,N
+100217,23/07/2025,Tonya Clarke,Electronics,Wireless Headphones,6.0,149.99,899.94,S
+100911,25/01/2026,Edward Hill,Office Supplies,Notebook,10.0,4.99,49.900000000000006,East
+101329,"dec 12, 2025",Scott Cox,electronics,Smart Phone,13.0,699.99,9099.87,West
+101011,"apr 22, 2026",Brittney Mills,Furniture,Dining Table,4.0,450.0,1800.0,South
+100367,"dec 29, 2025",Cameron Flores, Electronics ,Smart Phone,3.0,699.99,2099.9700000000003,
+100093,"nov 16, 2025",Bryan Aguilar,Office Supplies,Notebook,7.0,4.99,34.93,East
+101008,"April 26, 2026",Jordan Harrington,Electronics,Smart Phone,2.0,699.99,1399.98,West
+101070,"September 04, 2025",Rachel Franklin,Furniture,Dining Table,3.0,450.0,1350.0,South
+101092,10/06/2025,Kaitlyn Fernandez, Office Supplies ,Paper Shredder,,89.99,,NORTH
+100696,"March 03, 2026",Angela Patterson,Electronics,Smart Watch,14.0,249.99,3499.86,North
+101487,"November 23, 2025",Travis West,Furniture,Sofa,,799.99,,South
+100996,"September 25, 2025",Ryan Rivera,furniture,Office Chair,2.0,189.99,379.98,North
+100153,2025-11-12,Charles Wood,Furniture,Office Chair,15.0,189.99,2849.8500000000004,North
+101099,"March 18, 2026",Anthony Thompson,Electronics,Smart Phone,1.0,699.99,699.99,
+101464,"December 22, 2025",Brooke Gill,Office Supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,North
+101268,"July 12, 2025",Matthew Odom,Furniture,Mutated Product,14.0,189.99,999.99,South
+100789,"April 20, 2026",Charles Moore,Electronics,Smart Watch,3.0,249.99,749.97,East
+100580,"sep 25, 2025",Melinda Jackson,Electronics,Smart Watch,7.0,249.99,1749.93,North
+100703,"January 09, 2026",James Carpenter,Furniture,Office Chair,10.0,189.99,1899.9,East
+101389,"may 09, 2026",Leslie Smith,Furniture,Dining Table,11.0,450.0,4950.0,West
+100487,"February 12, 2026",Eddie Herrera, Office Supplies ,Notebook,8.0,4.99,39.92,north
+100559,"may 01, 2026",Brian Mitchell,Electronics,Smart Phone,5.0,699.99,3499.95,South
+101141,2026-01-15,Elizabeth Olson,electronics,Laptop,2.0,1199.99,2399.98,W
+101119,30/08/2025,Mary Williams, Furniture ,Office Chair,5.0,189.99,949.95,West
+100801,30/03/2026,Anne Acevedo,Office Supplies,Paper Shredder,13.0,89.99,1169.87,SOUTH
+100512,2025-09-07,Matthew Spencer,Furniture,Dining Table,15.0,,,West
+100633,"November 28, 2025",Justin Cantu,electronics,Smart Phone,8.0,699.99,5599.92,West
+101225,04/08/2025,Lauren Jackson, Electronics ,Smart Phone,9.0,699.99,6299.91,NORTH
+101483,03/10/2025,Frank Davis, Office Supplies ,File Organizer,14.0,24.99,349.85999999999996,WEST
+101150,18/10/2025,,Office Supplies,Notebook,9.0,4.99,44.910000000000004,SOUTH
+100790,06/01/2026,Melanie Rosario,electronics,Wireless Headphones,4.0,149.99,599.96,East
+100116,17/01/2026,Lori Palmer,Furniture,Office Chair,-5.0,189.99,-949.95,East
+100740,2026-01-05,Jeremy Mills,furniture,Dining Table,6.0,450.0,2700.0,North
+101081,"October 06, 2025",Jonathan Morales,Furniture,Sofa,,799.99,,North
+100830,03/07/2025,William Gates,Electronics,Laptop,6.0,1199.99,7199.9400000000005,East
+100119,"March 02, 2026",Anthony Lee,Electronics,Laptop,12.0,1199.99,14399.880000000001,North
+100656,2026-05-03,Shannon Adams,Furniture,Ergonomic Desk,1.0,299.99,299.99,North
+101579,28/03/2026,Robin Watkins,Office Supplies,Notebook,,4.99,,North
+100635,"jun 20, 2025",Kathryn Jimenez, Office Supplies ,Gel Pens (Pack of 10),6.0,12.5,75.0,east
+100369,11/02/2026,Catherine Brown,furniture,Sofa,12.0,799.99,9599.880000000001,W
+100268,2026-03-20,Nicole Rose,electronics,Laptop,11.0,1199.99,13199.89,North
+100655,"April 16, 2026",Veronica Hancock,electronics,Smart Watch,7.0,249.99,1749.93,E
+100935,,Ryan Hammond,office supplies,Paper Shredder,5.0,89.99,449.95,WEST
+100822,"jun 28, 2025",Olivia Walls,Furniture,Dining Table,7.0,450.0,3150.0,N
+100866,19/01/2026,Linda Baker,electronics,Laptop,2.0,1199.99,2399.98,
+100046,07/11/2025,Seth Lane, Office Supplies ,File Organizer,7.0,24.99,174.92999999999998,East
+101425,"jul 13, 2025",Warren Morales,office supplies,Gel Pens (Pack of 10),1.0,12.5,12.5,East
+100991,24/09/2025,Jamie Henry,Office Supplies,Notebook,12.0,4.99,59.88,South
+100876,"January 08, 2026",,Electronics,Wireless Headphones,4.0,149.99,599.96,NORTH
+100773,"February 23, 2026",Deborah Shepard,Furniture,Office Chair,15.0,189.99,2849.8500000000004,WEST
+101219,28/09/2025,Alexis Navarro, Office Supplies ,Notebook,12.0,4.99,59.88,WEST
+100380,"jul 11, 2025",Rachel Ellis,Furniture,Mutated Product,6.0,189.99,999.99,East
+100004,22/07/2025,Clinton Burke,Furniture,Ergonomic Desk,8.0,299.99,2399.92,North
+101003,2025-09-27,Robert Barnes, Office Supplies ,File Organizer,5.0,24.99,124.94999999999999,East
+101436,"jul 19, 2025",Melanie Freeman,Electronics,Smart Phone,12.0,699.99,8399.880000000001,
+100263,"dec 20, 2025",,Furniture,Dining Table,1.0,450.0,450.0,East
+101526,"August 13, 2025",Jacqueline Garcia, Electronics ,Smart Watch,3.0,249.99,749.97,South
+101518,2026-05-05,Stephen Mcgee,Electronics,Wireless Headphones,1.0,149.99,149.99,East
+100443,10/08/2025,Kathryn Solomon,Office Supplies,File Organizer,14.0,24.99,349.85999999999996,West
+101002,27/03/2026,,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,East
+101077,21/08/2025,Stephen Moore,furniture,Office Chair,6.0,189.99,1139.94,South
+100837,13/04/2026,Marc Phillips, Office Supplies ,Gel Pens (Pack of 10),13.0,12.5,162.5,east
+101517,2025-08-05,Michael Perry,Office Supplies,Paper Shredder,8.0,89.99,719.92,N
+100304,2025-09-13,Dorothy White,Office Supplies,Notebook,6.0,4.99,29.94,WEST
+101295,2026-05-15,Jacob Kennedy,Furniture,Ergonomic Desk,,299.99,,North
+100313,"mar 03, 2026",,Office Supplies,File Organizer,11.0,24.99,274.89,N
+100149,"oct 31, 2025",Kelly Lewis,Furniture,Dining Table,12.0,450.0,5400.0,EAST
+101148,"may 02, 2026",Todd Kennedy,Office Supplies,Gel Pens (Pack of 10),5.0,12.5,62.5,South
+101213,2026-04-18,Connie Torres,Furniture,Ergonomic Desk,2.0,299.99,599.98,East
+100574,,Joanne Garcia,Furniture,Office Chair,13.0,189.99,2469.87,North
+100050,2025-11-29,,Furniture,Ergonomic Desk,5.0,299.99,1499.95,NORTH
+101292,07/03/2026,Andrea Pena,office supplies,Notebook,6.0,4.99,29.94,East
+100726,"September 06, 2025",Robin Hart, Electronics ,Smart Watch,15.0,249.99,3749.8500000000004,South
+100833,"September 30, 2025",Caitlin Jacobs,Electronics,Laptop,12.0,1199.99,14399.880000000001,N
+101115,"January 30, 2026",Gregory Fields, Furniture ,Office Chair,2.0,189.99,379.98,EAST
+101166,"sep 21, 2025",Lindsay Olson,electronics,Smart Watch,15.0,249.99,3749.8500000000004,West
+100470,"jun 04, 2025",Jennifer Booker,Electronics,Laptop,15.0,1199.99,17999.85,West
+100971,"July 01, 2025",Casey Peterson,Electronics,Smart Phone,11.0,699.99,7699.89,North
+100653,,Kathy Lopez,electronics,Smart Watch,13.0,249.99,3249.87,North
+100399,2026-02-12,Kyle Brown,Furniture,Office Chair,11.0,189.99,2089.8900000000003,EAST
+100511,"October 21, 2025",Terri Mcclure,Office Supplies,Paper Shredder,6.0,89.99,539.9399999999999,North
+100320,"sep 29, 2025",Dillon Herrera,Electronics,Wireless Headphones,10.0,149.99,1499.9,South
+100019,2026-03-05,Nathaniel Bowers, Electronics ,Wireless Headphones,-4.0,149.99,-599.96,North
+100684,"July 15, 2025",Madeline Lopez, Electronics ,Smart Phone,6.0,699.99,4199.9400000000005,East
+100035,"June 13, 2025",Jesse Lindsey,Electronics,Laptop,8.0,1199.99,9599.92,West
+100902,31/07/2025,Michelle Miller,Electronics,Smart Watch,7.0,249.99,1749.93,North
+100827,"may 03, 2026",Dr. Joanna George,Electronics,Laptop,9.0,1199.99,10799.91,West
+101490,"jun 19, 2025",Andre Townsend PhD,Office Supplies,File Organizer,4.0,24.99,99.96,south
+100407,"April 08, 2026",Tony Chen,Office Supplies,File Organizer,12.0,24.99,299.88,North
+100920,"March 31, 2026",Sarah Farley,Electronics,Laptop,9.0,1199.99,10799.91,south
+100537,"jun 11, 2025",Erik Joseph,Office Supplies,Notebook,14.0,4.99,80.339,East
+100758,"February 20, 2026",Sean Wolfe,Office Supplies,Paper Shredder,8.0,89.99,719.92,WEST
+101062,,Jacob Williams, Electronics ,Smart Phone,11.0,699.99,7699.89,West
+101199,"August 10, 2025",Rebecca Hernandez,Electronics,Smart Phone,,699.99,,NORTH
+100245,"September 05, 2025",Lauren Hughes,Furniture,Ergonomic Desk,3.0,299.99,899.97,North
+101127,2025-11-12,Eric Carter,Furniture,Office Chair,4.0,189.99,759.96,South
+100784,,Ronnie George,Electronics,Laptop,,1199.99,,East
+100489,2025-08-07,Eric Johnson,Furniture,Ergonomic Desk,7.0,299.99,2099.9300000000003,South
+100154,2025-08-30,Jonathan Bowen,Electronics,Smart Watch,13.0,249.99,3249.87,NORTH
+100961,"July 30, 2025",Matthew Brown,Furniture,Office Chair,8.0,189.99,1519.92,West
+100853,"September 30, 2025",Jacob Martin,electronics,Smart Phone,5.0,699.99,3499.95,East
+100625,"December 10, 2025",Zachary Cordova,Electronics,Smart Watch,3.0,,,SOUTH
+100685,2025-07-02,Caitlin Moreno,office supplies,Gel Pens (Pack of 10),14.0,12.5,175.0,South
+100569,11/06/2025,Susan Stevens,Furniture,Dining Table,4.0,450.0,1800.0,West
+101580,2026-05-29,Ashley Smith,Furniture,Dining Table,2.0,450.0,900.0,South
+100017,26/06/2025,Timothy Hayes, Office Supplies ,Notebook,2.0,4.99,9.98,West
+100127,"December 05, 2025",Emily Jones,Furniture,Sofa,,799.99,,North
+101279,"November 21, 2025",Shaun Gordon,Electronics,Smart Watch,,249.99,,North
+101087,"November 15, 2025",,Office Supplies,File Organizer,6.0,24.99,149.94,East
+100927,,Alexandria Barrett,Furniture,Office Chair,6.0,189.99,1139.94,east
+100980,2025-07-22,Joe Rivera,Electronics,Smart Phone,13.0,699.99,10464.8505,SOUTH
+100289,"jul 28, 2025",Lindsay Parks,Electronics,Smart Phone,14.0,699.99,9799.86,South
+100190,02/12/2025,Katie Hester,Furniture,Dining Table,12.0,450.0,5400.0,West
+101139,"September 21, 2025",Patricia Jones,electronics,Smart Watch,4.0,,,East
+100992,"jan 23, 2026",Mr. Thomas Sanchez,Office Supplies,Paper Shredder,13.0,89.99,1169.87,North
+100374,2025-07-25,Michele Johnson DVM,Electronics,Smart Watch,4.0,249.99,999.96,S
+101380,15/12/2025,Kelsey Jones,Office Supplies,Notebook,8.0,4.99,39.92,South
+100606,18/10/2025,Julie Chen, Electronics ,Wireless Headphones,6.0,149.99,899.94,
+100180,"July 20, 2025",Michele Morrison,office supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,East
+100301,11/03/2026,Alexander Parrish,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,South
+100496,"April 25, 2026",Matthew Hale,Electronics,Laptop,13.0,1199.99,,North
+101438,"oct 23, 2025",Johnathan Gonzalez,office supplies,Paper Shredder,15.0,89.99,1349.85,West
+101385,2025-10-05,Angela Allen, Electronics ,Wireless Headphones,6.0,149.99,899.94,East
+101365,23/12/2025,Joshua Rodgers,Furniture,Dining Table,2.0,450.0,900.0,South
+100517,"April 01, 2026",Connie Lyons,Furniture,Office Chair,4.0,189.99,759.96,East
+101069,"July 02, 2025",Mr. Daniel Maxwell, Furniture ,Dining Table,,450.0,,South
+100476,"September 21, 2025",Andrew House,electronics,Smart Watch,10.0,249.99,2499.9,West
+100157,"May 09, 2026",Lorraine Lindsey,Electronics,Laptop,3.0,1199.99,,East
+101243,"August 03, 2025",Peter Smith,office supplies,Notebook,10.0,4.99,49.900000000000006,South
+101195,"November 01, 2025",Michael Davis,Office Supplies,Gel Pens (Pack of 10),12.0,12.5,150.0,North
+100016,2025-07-26,Victoria Garcia,Electronics,Laptop,4.0,1199.99,4799.96,North
+101072,"jun 07, 2025",James Lopez,Office Supplies,Notebook,6.0,4.99,29.94,North
+101053,"August 20, 2025",Matthew Griffin,Office Supplies,Mutated Product,15.0,24.99,999.99,SOUTH
+100546,"feb 09, 2026",Kristi Erickson,Electronics,Laptop,12.0,1199.99,14399.880000000001,west
+100658,"November 10, 2025",Elizabeth Koch, Office Supplies ,File Organizer,2.0,24.99,49.98,South
+101353,01/09/2025,Terry Oneill,Electronics,Smart Watch,10.0,249.99,2499.9,South
+101019,"August 08, 2025",Joseph Lee,Furniture,Dining Table,13.0,450.0,5850.0,West
+101386,"apr 16, 2026",Kim Monroe,Electronics,Wireless Headphones,14.0,149.99,,North
+100959,"September 02, 2025",Gary Weber,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,,North
+101561,"December 01, 2025",Jeremiah Robinson,Furniture,Ergonomic Desk,2.0,299.99,599.98,East
+100283,"May 26, 2026",Alexis Carpenter,Electronics,Laptop,12.0,,,South
+100797,19/05/2026,Eric Holt, Electronics ,Wireless Headphones,15.0,149.99,2249.8500000000004,WEST
+101592,2026-04-13,Cory Wallace,Electronics,Smart Phone,11.0,699.99,7699.89,North
+100225,08/05/2026,Kimberly Harrison DDS,Office Supplies,Gel Pens (Pack of 10),,12.5,,east
+100026,2025-08-15,Hunter Padilla,Furniture,Dining Table,1.0,450.0,450.0,South
+101471,"sep 05, 2025",,Electronics,Smart Watch,1.0,249.99,249.99,East
+100437,29/07/2025,Louis Lam,Office Supplies,File Organizer,6.0,24.99,149.94,North
+100904,25/01/2026,Michele Smith, Office Supplies ,Paper Shredder,12.0,89.99,1079.8799999999999,east
+100229,"nov 11, 2025",Michael Price DDS,Furniture,Office Chair,10.0,189.99,1899.9,North
+100037,"mar 14, 2026",Bonnie Jones,Office Supplies,Paper Shredder,13.0,89.99,1169.87,West
+100749,"aug 15, 2025",Mallory Bowman,Furniture,Dining Table,2.0,,,West
+101045,"January 11, 2026",Anne Thomas,Electronics,Smart Watch,2.0,249.99,499.98,E
+100469,12/08/2025,Scott Sanders,Furniture,Dining Table,12.0,450.0,5400.0,
+100332,28/01/2026,Diane Strickland,Furniture,Dining Table,4.0,450.0,1800.0,east
+100416,2025-08-31,Kelsey Robles,electronics,Wireless Headphones,10.0,149.99,1499.9,East
+100687,"May 26, 2026",Jessica Moore,Electronics,Wireless Headphones,5.0,149.99,749.95,South
+101527,"March 04, 2026",,Electronics,Laptop,5.0,1199.99,5999.95,West
+100639,"jun 05, 2025",George Hancock,Furniture,Ergonomic Desk,6.0,299.99,1799.94,
+101429,2025-11-03,Adam Cooper,Office Supplies,Notebook,4.0,4.99,,South
+101218,01/06/2025,,Furniture,Ergonomic Desk,15.0,299.99,4499.85,North
+101158,"August 24, 2025",Jeffrey Juarez,Electronics,Smart Phone,3.0,699.99,2414.9655000000002,E
+101379,13/10/2025,Daniel Ellis,Electronics,Smart Watch,2.0,249.99,499.98,West
+101300,"June 04, 2025",Lisa White,Furniture,Ergonomic Desk,3.0,299.99,899.97,South
+101511,06/05/2026,,Furniture,Sofa,15.0,799.99,11999.85,E
+100800,28/04/2026,,office supplies,Gel Pens (Pack of 10),12.0,12.5,172.5,west
+100160,05/10/2025,Jennifer Austin,Office Supplies,Notebook,9.0,4.99,44.910000000000004,South
+100956,28/04/2026,Lisa Foster,Electronics,Smart Watch,3.0,249.99,749.97,SOUTH
+101186,"oct 04, 2025",George Mitchell,Furniture,Office Chair,2.0,189.99,379.98,west
+100821,"March 14, 2026",Duane King,Electronics,Smart Watch,2.0,249.99,499.98,South
+101402,2026-02-26,David Hayes MD, Electronics ,Smart Watch,9.0,249.99,2249.91,West
+100877,21/09/2025,Stephen Parker,Office Supplies,Gel Pens (Pack of 10),5.0,12.5,62.5,North
+100913,12/12/2025,Nancy Meyer,Office Supplies,Paper Shredder,3.0,89.99,269.96999999999997,south
+100152,2025-07-22,Laura Page,Office Supplies,Gel Pens (Pack of 10),1.0,12.5,12.5,West
+101542,09/09/2025,Samuel Chambers,office supplies,Gel Pens (Pack of 10),9.0,12.5,112.5,North
+100509,,Bruce Patton, Furniture ,Office Chair,,189.99,,North
+101135,2025-12-10,Timothy Rivera,office supplies,File Organizer,1.0,24.99,24.99,East
+101250,"February 22, 2026",James Brady,Office Supplies,File Organizer,-3.0,24.99,-74.97,West
+101387,29/01/2026,Julie Ross,Office Supplies,Paper Shredder,9.0,89.99,809.91,EAST
+100103,"nov 27, 2025",Justin George,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,north
+100586,08/12/2025,,Furniture,Ergonomic Desk,-1.0,299.99,-299.99,South
+101469,30/08/2025,Robert Adams,Furniture,Sofa,5.0,799.99,3999.95,South
+101143,04/04/2026,Stephen Allen,Office Supplies,File Organizer,3.0,24.99,74.97,East
+100053,"May 20, 2026",Jennifer Walker,Electronics,Laptop,4.0,1199.99,4799.96,North
+100151,18/10/2025,Daniel Taylor,Electronics,Smart Phone,10.0,699.99,8049.884999999999,S
+100403,29/12/2025,Derrick Cook,Furniture,Ergonomic Desk,8.0,299.99,2399.92,south
+100968,"jun 29, 2025",,Furniture,Ergonomic Desk,11.0,299.99,3299.8900000000003,South
+100207,04/01/2026,Tamara Wyatt,Electronics,Laptop,5.0,,,North
+101570,"September 01, 2025",Anita Christensen,Office Supplies,Paper Shredder,3.0,89.99,269.96999999999997,East
+101122,"feb 15, 2026",Timothy Gutierrez,Electronics,Laptop,,1199.99,,East
+101456,2026-01-09,Diana Patterson,Electronics,Smart Phone,5.0,699.99,3499.95,East
+100008,2026-05-15,Alison Phillips,Furniture,Office Chair,7.0,189.99,1329.93,North
+101014,25/04/2026,Tanya Williams,Office Supplies,Paper Shredder,13.0,89.99,1169.87,West
+101489,"August 09, 2025",Sheila Porter,Office Supplies,Notebook,3.0,4.99,14.97,West
+101060,2025-11-01,Dr. Anna Murphy,Office Supplies,File Organizer,15.0,24.99,374.84999999999997,EAST
+100452,"January 30, 2026",David Jones,Office Supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,East
+100253,2025-07-09,, Office Supplies ,Notebook,6.0,4.99,29.94,South
+101327,20/01/2026,Taylor Williams,Office Supplies,Paper Shredder,13.0,89.99,1169.87,North
+100896,"may 17, 2026",Jason Gardner,Electronics,Wireless Headphones,9.0,149.99,1349.91,south
+101444,"September 30, 2025",Joseph Brown,Furniture,Dining Table,2.0,450.0,900.0,South
+100880,"September 21, 2025",Jacob Leach,Electronics,Wireless Headphones,7.0,149.99,1049.93,East
+101565,10/01/2026,Robert Daugherty,Furniture,Dining Table,6.0,450.0,2700.0,North
+100623,"September 05, 2025",Brian Stuart,office supplies,File Organizer,12.0,24.99,299.88,East
+100345,24/12/2025,Michael Patel,Office Supplies,Notebook,5.0,4.99,24.950000000000003,North
+101421,"November 19, 2025",Christopher Moore,electronics,Smart Watch,14.0,249.99,4024.839,E
+100262,02/03/2026,,Furniture,Sofa,5.0,799.99,3999.95,South
+101321,"June 21, 2025",Amy Holder,Electronics,Smart Phone,5.0,699.99,3499.95,east
+100150,"December 20, 2025",Mark Glenn,Furniture,Dining Table,-1.0,450.0,-450.0,South
+100472,"jun 03, 2025",John Martinez,office supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,South
+100640,2025-08-11,Robyn Holmes,Electronics,Wireless Headphones,10.0,149.99,1499.9,South
+100099,02/11/2025,Benjamin Thompson,Electronics,Laptop,13.0,1199.99,,West
+101562,,Kenneth Anderson,Office Supplies,Notebook,11.0,4.99,54.89,North
+100550,"December 20, 2025",Aaron Montgomery,Office Supplies,Paper Shredder,3.0,89.99,269.96999999999997,East
+100928,"June 06, 2025",Laura Jackson,Furniture,Sofa,7.0,799.99,5599.93,West
+100488,2025-12-18,Ryan Mcdonald,Electronics,Wireless Headphones,2.0,149.99,299.98,NORTH
+101503,20/03/2026,,Furniture,Dining Table,1.0,450.0,450.0,east
+101171,2025-11-06,,Furniture,Office Chair,1.0,189.99,,South
+100146,,Anthony Petersen,furniture,Dining Table,14.0,,,East
+101599,"March 22, 2026",Joseph Duran,Electronics,Smart Watch,8.0,249.99,1999.92,North
+100402,"may 02, 2026",Elizabeth Wilson,Office Supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,South
+100954,22/05/2026,,Electronics,Laptop,10.0,1199.99,11999.9,
+101557,2025-06-17,Elizabeth Harrison,Electronics,Smart Watch,3.0,,,North
+100659,11/06/2025,Adrian Henry,office supplies,Notebook,5.0,4.99,24.950000000000003,WEST
+101372,"January 10, 2026",Amy Holmes,Furniture,Dining Table,1.0,450.0,450.0,West
+100463,"September 06, 2025",Susan Petty,Furniture,Sofa,15.0,799.99,11999.85,south
+101349,04/05/2026,Chris Johnston,Electronics,Wireless Headphones,2.0,149.99,299.98,East
+100186,"January 17, 2026",Jackie Knapp, Furniture ,Dining Table,6.0,450.0,2700.0,East
+101147,16/08/2025,Debbie Curry, Furniture ,Dining Table,14.0,450.0,6300.0,NORTH
+101224,2026-03-25,Nathan Lee,Electronics,Laptop,-5.0,1199.99,-5999.95,S
+100608,"April 04, 2026",Erica Freeman, Furniture ,Sofa,3.0,799.99,2399.9700000000003,South
+100143,"June 24, 2025",Virginia Russell,Electronics,Laptop,12.0,1199.99,14399.880000000001,East
+100751,20/12/2025,Megan Clark,Furniture,Sofa,9.0,799.99,7199.91,SOUTH
+100981,"September 28, 2025",Teresa Bradford,electronics,Wireless Headphones,1.0,149.99,149.99,West
+100197,"feb 12, 2026",Laura Kent,Electronics,Wireless Headphones,1.0,149.99,149.99,South
+100883,22/09/2025,Taylor Reed,Office Supplies,Gel Pens (Pack of 10),9.0,12.5,112.5,
+100279,27/02/2026,Kaitlyn Ward,electronics,Smart Phone,,699.99,,North
+100293,"oct 21, 2025",Jennifer Davenport,Electronics,Laptop,9.0,1199.99,10799.91,W
+101512,05/12/2025,Courtney Johnson,Electronics,Laptop,3.0,1199.99,3599.9700000000003,East
+100400,10/08/2025,Ryan Davis,Electronics,Smart Watch,9.0,249.99,2249.91,South
+100122,"January 21, 2026",Robert Day,electronics,Wireless Headphones,-2.0,149.99,-299.98,WEST
+101207,"October 08, 2025",Emily Osborn, Electronics ,Smart Watch,8.0,249.99,1999.92,South
+100202,"jan 21, 2026",Joseph Morgan,office supplies,Gel Pens (Pack of 10),14.0,12.5,175.0,east
+100835,"September 24, 2025",Brittney Ortiz,Electronics,Laptop,7.0,1199.99,8399.93,NORTH
+100246,"nov 22, 2025",Justin Stone,Office Supplies,Gel Pens (Pack of 10),15.0,12.5,215.62499999999997,South
+101575,"March 13, 2026",Robert Ross,electronics,Wireless Headphones,13.0,149.99,1949.8700000000001,South
+101560,"December 07, 2025",Tiffany Smith,Electronics,Smart Phone,1.0,699.99,699.99,
+101153,"December 25, 2025",Mr. Joshua Holland DDS,Furniture,Sofa,3.0,799.99,2399.9700000000003,East
+101426,2025-12-31,Dean Tanner,Office Supplies,Notebook,2.0,4.99,9.98,East
+100384,2026-03-07,John Moore,Electronics,Smart Watch,13.0,249.99,3249.87,North
+101461,2026-05-12,Jonathan Green,furniture,Sofa,6.0,799.99,4799.9400000000005,East
+100854,"oct 16, 2025",Jason White, Office Supplies ,Paper Shredder,13.0,89.99,,East
+100219,29/03/2026,Mike Petty,Office Supplies,File Organizer,6.0,24.99,149.94,East
+100641,"jan 30, 2026",Carl Castro,Electronics,Wireless Headphones,10.0,149.99,1499.9,S
+100001,"September 28, 2025",David Garcia,Office Supplies,Notebook,9.0,4.99,44.910000000000004,North
+100112,"feb 25, 2026",Valerie Walker,Electronics,Wireless Headphones,15.0,149.99,2249.8500000000004,South
+100698,2025-08-22,Nicholas Davis, Electronics ,Wireless Headphones,14.0,149.99,2099.86,South
+101586,"March 03, 2026",Wendy Alvarez,Electronics,Wireless Headphones,15.0,,,South
+100951,28/07/2025,Kayla Taylor,Office Supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,North
+101455,"May 17, 2026",Debra Davis,Furniture,Dining Table,12.0,450.0,,west
+101410,"November 23, 2025",Jane Matthews,Furniture,Ergonomic Desk,1.0,299.99,299.99,South
+101409,2026-03-23,Danielle Mooney,Electronics,Laptop,14.0,1199.99,,N
+101291,"apr 10, 2026",Jeffrey Adams,Furniture,Dining Table,11.0,450.0,4950.0,West
+101578,"July 04, 2025",Trevor Johnson, Furniture ,Dining Table,4.0,450.0,1800.0,WEST
+100441,"jan 08, 2026",Allison Schneider,Office Supplies,File Organizer,11.0,24.99,274.89,west
+101136,05/01/2026,Nicholas Lam, Office Supplies ,File Organizer,10.0,24.99,249.89999999999998,N
+101256,2025-06-25,Matthew Dunn,office supplies,Paper Shredder,10.0,89.99,899.9,West
+101397,"apr 25, 2026",David Fuller,Electronics,Laptop,6.0,1199.99,7199.9400000000005,N
+100663,13/09/2025,Joshua Ferguson,Electronics,Smart Phone,7.0,699.99,4899.93,South
+101521,"mar 27, 2026",Joseph Quinn,Office Supplies,Paper Shredder,7.0,89.99,629.93,South
+101257,"apr 03, 2026",Cody Jackson, Office Supplies ,File Organizer,13.0,24.99,324.87,W
+101474,"jul 15, 2025",Ashley Garcia,Furniture,Dining Table,,450.0,,west
+100317,"April 28, 2026",Jason Mccullough,Furniture,Office Chair,9.0,189.99,,North
+100648,"sep 20, 2025",Angela Price,furniture,Sofa,13.0,799.99,10399.87,East
+101434,20/08/2025,Mary Craig,Furniture,Ergonomic Desk,1.0,299.99,299.99,West
+100709,"mar 11, 2026",Justin Garza,Furniture,Office Chair,7.0,189.99,1329.93,North
+101382,26/01/2026,Susan Kelley,Furniture,Dining Table,14.0,450.0,6300.0,WEST
+101282,"October 14, 2025",Brandon Morris,Furniture,Dining Table,12.0,450.0,5400.0,East
+100972,"aug 17, 2025",Joshua Orozco,Electronics,Wireless Headphones,10.0,149.99,1499.9,East
+100627,"July 22, 2025",George Potter,Electronics,Laptop,7.0,1199.99,8399.93,East
+100632,29/09/2025,Peter Townsend,Furniture,Dining Table,5.0,450.0,2250.0,north
+101306,2025-11-03,David Boone,Furniture,Sofa,7.0,799.99,5599.93,South
+101400,2025-09-24,William Mcdaniel,Furniture,Office Chair,13.0,189.99,2469.87,East
+101408,"October 14, 2025",Heidi Nunez, Office Supplies ,Paper Shredder,5.0,89.99,449.95,North
+101248,,Sierra Harrison,furniture,Office Chair,9.0,189.99,1709.91,South
+100485,13/04/2026,Juan Santiago,Electronics,Wireless Headphones,6.0,149.99,1034.931,EAST
+101254,"October 27, 2025",Kevin Barnett,Office Supplies,Notebook,2.0,4.99,,South
+101371,2025-10-07,Jennifer Harvey,Electronics,Smart Phone,5.0,699.99,3499.95,West
+101354,2025-10-17,Mary Wong, Electronics ,Smart Watch,9.0,249.99,2249.91,West
+101596,2025-07-24,Brandon Wilson,Office Supplies,File Organizer,6.0,24.99,149.94,West
+101532,"May 07, 2026",Jennifer Reynolds, Office Supplies ,File Organizer,4.0,24.99,99.96,East
+100795,2025-11-08,Alyssa Thompson,furniture,Office Chair,7.0,189.99,1329.93,East
+100645,,Daniel White,Office Supplies,Gel Pens (Pack of 10),9.0,12.5,112.5,NORTH
+101012,12/04/2026,Lori Abbott,office supplies,Gel Pens (Pack of 10),6.0,12.5,75.0,West
+100556,"March 30, 2026",Laura Martin,Electronics,Wireless Headphones,,149.99,,
+100681,08/03/2026,Joe Bishop, Furniture ,Dining Table,15.0,450.0,6750.0,north
+100577,25/07/2025,Jason Sweeney,Office Supplies,Notebook,14.0,4.99,69.86,east
+101109,"November 14, 2025",Jeffery Nelson,office supplies,Paper Shredder,9.0,89.99,809.91,West
+101266,23/09/2025,John Villegas,Electronics,Smart Phone,11.0,699.99,7699.89,north
+101183,,Kristin Turner, Electronics ,Laptop,11.0,1199.99,13199.89,
+100524,"mar 26, 2026",Alexander Williams, Electronics ,Wireless Headphones,7.0,149.99,1049.93,SOUTH
+101059,2025-12-03,Heather Solis MD, Furniture ,Dining Table,8.0,450.0,3600.0,North
+100540,"jan 28, 2026",Laura Torres,Office Supplies,File Organizer,15.0,24.99,374.84999999999997,East
+101194,10/03/2026,Thomas Thomas, Office Supplies ,Paper Shredder,2.0,,,WEST
+100748,23/05/2026,Jennifer Chapman DVM,office supplies,Gel Pens (Pack of 10),7.0,12.5,87.5,North
+101535,"August 28, 2025",Jennifer Santiago,Electronics,Wireless Headphones,12.0,149.99,1799.88,West
+101430,"oct 24, 2025",Matthew Foster,Electronics,Smart Phone,9.0,699.99,6299.91,South
+100484,"April 10, 2026",Miss Angela Summers,Office Supplies,Gel Pens (Pack of 10),13.0,12.5,162.5,East
+100095,"apr 15, 2026",Dustin Rowe,office supplies,Notebook,10.0,4.99,49.900000000000006,East
+101020,25/09/2025,Jennifer Arnold,Office Supplies,Paper Shredder,12.0,89.99,1079.8799999999999,North
+100563,"dec 29, 2025",Joseph Williamson,electronics,Smart Watch,11.0,249.99,2749.8900000000003,north
+101264,19/09/2025,Beth Parker,Electronics,Smart Watch,13.0,249.99,3249.87,East
+100742,14/05/2026,James Burns,Furniture,Dining Table,15.0,450.0,6750.0,West
+100863,"September 27, 2025",Carla Turner,Furniture,Ergonomic Desk,12.0,299.99,3599.88,North
+101484,09/05/2026,David Coleman,Furniture,Dining Table,14.0,450.0,6300.0,NORTH
+100891,"aug 26, 2025",Jonathan Walker,Electronics,Smart Watch,10.0,249.99,2499.9,S
+101038,2025-08-12,Michael Jackson DDS,Office Supplies,Gel Pens (Pack of 10),10.0,12.5,125.0,EAST
+100206,"feb 09, 2026",Deborah Kemp,office supplies,Notebook,10.0,4.99,49.900000000000006,North
+100392,"May 17, 2026",Lee Jackson,Office Supplies,Notebook,2.0,4.99,9.98,North
+100794,26/02/2026,Samuel Stewart,Electronics,Wireless Headphones,,149.99,,East
+100870,"jul 20, 2025",Mr. William Robinson MD,Electronics,Wireless Headphones,8.0,149.99,1199.92,WEST
+100397,"April 29, 2026",Kevin Jones,Furniture,Dining Table,7.0,450.0,3150.0,north
+100766,"July 02, 2025",Stephen Wilcox, Furniture ,Sofa,8.0,799.99,,East
+101525,"July 23, 2025",Joann Young,electronics,Laptop,3.0,1199.99,3599.9700000000003,south
+101241,23/05/2026,Kathryn Gardner,Electronics,Wireless Headphones,1.0,149.99,149.99,SOUTH
+101028,16/03/2026,Javier Rosales,Furniture,Office Chair,3.0,189.99,569.97,South
+100642,04/09/2025,Lydia Marshall,Electronics,Smart Phone,15.0,699.99,10499.85,
+101567,27/08/2025,Kim Gregory,Electronics,Laptop,9.0,,,EAST
+100612,2026-05-21,Erik Hunter,Office Supplies,Paper Shredder,11.0,89.99,989.89,North
+100960,07/08/2025,Jackson Singh,office supplies,Paper Shredder,1.0,89.99,89.99,North
+100725,"September 30, 2025",Benjamin Curtis,Office Supplies,Paper Shredder,4.0,89.99,359.96,North
+100683,"mar 22, 2026",William Nguyen, Office Supplies ,Notebook,11.0,4.99,54.89,West
+100098,18/02/2026,Chelsea Ramirez, Electronics ,Wireless Headphones,7.0,149.99,1049.93,South
+100804,2026-01-07,Cassandra Wells,Office Supplies,Paper Shredder,1.0,89.99,,SOUTH
+100406,"may 10, 2026",Dawn Vargas,Electronics,Laptop,2.0,1199.99,2399.98,West
+100502,"aug 31, 2025",Kyle Romero Jr.,Furniture,Dining Table,1.0,450.0,450.0,West
+101071,"feb 27, 2026",George Gonzalez,Electronics,Wireless Headphones,5.0,149.99,862.4425,W
+101056,2025-09-12,Alexis Boyd,office supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,West
+100929,01/03/2026,John White,Furniture,Office Chair,13.0,189.99,2469.87,North
+100779,"feb 20, 2026",Alan Johnson,Electronics,Smart Watch,4.0,249.99,999.96,East
+100200,"dec 20, 2025",Dr. Amber Johnson MD,Electronics,Laptop,8.0,1199.99,9599.92,North
+100134,2026-03-10,Dustin Anderson,Furniture,Dining Table,11.0,450.0,4950.0,south
+101051,14/11/2025,Brian Higgins,Office Supplies,File Organizer,3.0,24.99,74.97,East
+100040,27/03/2026,Mary Hamilton,Office Supplies,Notebook,14.0,4.99,69.86,West
+101017,"October 30, 2025",Stephen Todd,Electronics,Smart Phone,14.0,699.99,9799.86,west
+100230,23/10/2025,Erik Jones,Furniture,Ergonomic Desk,2.0,,,South
+101513,10/09/2025,Maria Campbell,electronics,Laptop,9.0,1199.99,10799.91,West
+100378,27/12/2025,Sara Tran, Office Supplies ,Paper Shredder,2.0,89.99,,NORTH
+100288,"jul 18, 2025",Jeffrey Mata,Furniture,Ergonomic Desk,3.0,299.99,899.97,West
+100418,"sep 16, 2025",Terry Quinn,office supplies,Notebook,2.0,4.99,9.98,East
+100391,09/01/2026,Victoria Benson,Office Supplies,Gel Pens (Pack of 10),13.0,12.5,162.5,SOUTH
+100592,"aug 12, 2025",Kimberly Arnold,Office Supplies,File Organizer,1.0,24.99,24.99,north
+101522,"January 18, 2026",,Office Supplies,Notebook,13.0,4.99,64.87,NORTH
+101162,"mar 08, 2026",,office supplies,Paper Shredder,15.0,89.99,1349.85,NORTH
+101086,14/01/2026,Vincent Parrish, Furniture ,Office Chair,15.0,189.99,2849.8500000000004,
+101495,06/11/2025,Monica Johnson,Electronics,Smart Watch,14.0,249.99,3499.86,E
+100647,"March 19, 2026",Joel Patrick,Electronics,Smart Watch,12.0,249.99,2999.88,East
+101152,2026-02-26,William Crawford,Furniture,Sofa,9.0,799.99,7199.91,East
+101367,15/02/2026,Roberto Dawson,Furniture,Ergonomic Desk,12.0,299.99,3599.88,north
+100520,2026-02-08,Jennifer Wilkerson,Furniture,Dining Table,5.0,450.0,2250.0,North
+100064,"December 24, 2025",Tommy Garcia,office supplies,Notebook,11.0,4.99,63.12349999999999,West
+100014,"February 19, 2026",Sydney Moore,electronics,Wireless Headphones,11.0,149.99,1649.89,South
+101180,03/02/2026,Mitchell Smith,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,West
+101064,04/01/2026,Geoffrey Smith,Furniture,Ergonomic Desk,3.0,299.99,899.97,West
+100492,29/05/2026,Jason Lewis,Office Supplies,Gel Pens (Pack of 10),3.0,12.5,37.5,SOUTH
+100379,20/03/2026,,Office Supplies,File Organizer,11.0,24.99,274.89,N
+100187,"August 18, 2025",Casey Duran,Furniture,Dining Table,12.0,450.0,5400.0,east
+100763,2025-06-05,Susan Fuentes,Electronics,Smart Phone,5.0,699.99,3499.95,North
+100216,"sep 24, 2025",Thomas Vargas,Office Supplies,File Organizer,,24.99,,W
+100791,"March 18, 2026",Anna Reeves,Furniture,Dining Table,9.0,450.0,4050.0,North
+101076,17/10/2025,Rickey Mann,Furniture,Dining Table,1.0,450.0,450.0,South
+100878,02/06/2025,Patricia Leach,Furniture,Office Chair,8.0,189.99,1519.92,West
+100337,"June 04, 2025",Timothy Anderson,office supplies,Notebook,,4.99,,South
+100719,"jun 05, 2025",Molly Myers,Furniture,Sofa,5.0,799.99,3999.95,SOUTH
+100295,"January 20, 2026",Sandra Wade,Furniture,Ergonomic Desk,-2.0,299.99,-599.98,East
+101016,04/10/2025,Alex Jackson, Office Supplies ,Gel Pens (Pack of 10),11.0,,,South
+101275,2025-06-25,Deborah Henderson,Electronics,Smart Watch,5.0,249.99,1249.95,South
+101485,"June 30, 2025",Mark Adams, Office Supplies ,Paper Shredder,11.0,89.99,989.89,East
+100455,"June 06, 2025",Allison Miller,Office Supplies,Notebook,14.0,4.99,69.86,EAST
+100420,"September 08, 2025",Carlos Flores,Electronics,Mutated Product,1.0,699.99,999.99,West
+100815,15/08/2025,Stephanie Dean,furniture,Dining Table,9.0,450.0,4050.0,E
+100269,"June 05, 2025",Kimberly King,electronics,Wireless Headphones,10.0,149.99,1499.9,West
+100995,"feb 05, 2026",Kathy Craig, Office Supplies ,File Organizer,11.0,24.99,274.89,West
+100201,05/12/2025,Joshua Burgess,Furniture,Dining Table,8.0,450.0,3600.0,West
+100161,"feb 22, 2026",Billy Cooper,Furniture,Office Chair,11.0,189.99,2089.8900000000003,west
+100729,18/02/2026,Alan Anderson,Electronics,Laptop,8.0,1199.99,9599.92,S
+100401,16/01/2026,Erin Murray,Office Supplies,Gel Pens (Pack of 10),4.0,12.5,50.0,South
+100702,"apr 19, 2026",Emma Dunlap,Office Supplies,Paper Shredder,11.0,89.99,989.89,South
+101500,"nov 04, 2025",Joseph Casey,office supplies,Notebook,7.0,4.99,34.93,EAST
+101129,25/04/2026,Maria Smith,Electronics,Wireless Headphones,5.0,149.99,749.95,East
+100565,"September 04, 2025",Debra Brown,Electronics,Laptop,2.0,1199.99,2399.98,
+101413,"jul 01, 2025",David Bailey,Electronics,Smart Phone,10.0,,,North
+101021,"jul 04, 2025",Caitlyn Brown,Electronics,Smart Phone,9.0,699.99,6299.91,North
+101025,"August 01, 2025",John Key, Furniture ,Office Chair,2.0,189.99,379.98,west
+101411,22/10/2025,Shannon Galvan, Electronics ,Smart Phone,2.0,699.99,1399.98,East
+101585,"July 13, 2025",Kathleen Carrillo,Electronics,Laptop,,1199.99,,North
+101104,"March 16, 2026",Steven Berry,Furniture,Sofa,13.0,799.99,,West
+100205,14/01/2026,,Furniture,Dining Table,2.0,450.0,900.0,east
+100034,"jan 29, 2026",Justin Gross,office supplies,Gel Pens (Pack of 10),11.0,12.5,137.5,South
+100775,"April 21, 2026",Elizabeth Mccoy,Furniture,Office Chair,11.0,189.99,2089.8900000000003,South
+100508,2026-04-02,Michael Jackson,office supplies,Paper Shredder,3.0,,,South
+101451,"May 16, 2026",Joanne Martinez,office supplies,Notebook,8.0,4.99,,south
+101478,"feb 17, 2026",Courtney Reyes,Electronics,Smart Watch,10.0,249.99,2499.9,South
+100617,"June 18, 2025",Carol Anderson, Furniture ,Ergonomic Desk,15.0,299.99,4499.85,East
+101390,28/03/2026,Beth Combs,Office Supplies,Gel Pens (Pack of 10),15.0,12.5,215.62499999999997,South
+100091,"May 26, 2026",Jose Murray,electronics,Laptop,7.0,1199.99,8399.93,North
+101363,"apr 12, 2026",Andrew Huffman,Electronics,Smart Watch,6.0,249.99,1499.94,West
+100897,10/11/2025,Emily Young, Furniture ,Dining Table,3.0,450.0,,North
+100564,"sep 02, 2025",Mark Fisher,Furniture,Office Chair,2.0,189.99,379.98,West
+101369,16/05/2026,Desiree Mcdaniel,Office Supplies,Notebook,4.0,4.99,19.96,EAST
+100776,"jan 24, 2026",Jacob Davis,Furniture,Sofa,1.0,799.99,799.99,East
+100241,01/02/2026,Allison Wilson,Electronics,Smart Phone,5.0,699.99,3499.95,North
+100013,"September 24, 2025",Aaron Steele,Electronics,Wireless Headphones,1.0,149.99,149.99,S
+100315,27/03/2026,Laura Thompson, Electronics ,Smart Phone,6.0,699.99,4199.9400000000005,West
+100600,2025-06-27,Christian Allen,Electronics,Laptop,13.0,1199.99,15599.87,E
+100387,"sep 20, 2025",Patrick Wolf,Office Supplies,Notebook,12.0,4.99,59.88,North
+101297,2026-01-19,Lori Carter,Electronics,Wireless Headphones,14.0,149.99,2099.86,West
+100166,28/07/2025,Andrew Parker,Electronics,Smart Watch,10.0,249.99,,North
+100840,2025-09-11,Ryan Rivera,Furniture,Office Chair,3.0,189.99,569.97,NORTH
+100020,"sep 29, 2025",Lawrence Hubbard,Furniture,Office Chair,15.0,189.99,,East
+100646,2026-05-25,Daryl Delacruz,office supplies,Paper Shredder,7.0,89.99,629.93,West
+101508,25/06/2025,John Hunt,electronics,Wireless Headphones,15.0,149.99,2249.8500000000004,south
+101154,"dec 13, 2025",Jason Massey,Furniture,Ergonomic Desk,,299.99,,South
+101528,"October 17, 2025",Anthony Kelly,Furniture,Office Chair,13.0,189.99,2469.87,E
+100831,"February 03, 2026",Kylie King,Furniture,Sofa,10.0,799.99,7999.9,South
+101267,,Jonathan Fischer,Electronics,Smart Phone,11.0,699.99,7699.89,North
+101590,27/02/2026,Kyle Perry, Furniture ,Office Chair,14.0,189.99,2659.86,South
+100562,"January 31, 2026",Mary Hardy,Furniture,Dining Table,3.0,450.0,1350.0,North
+101487,"November 23, 2025",Travis West,Furniture,Sofa,,799.99,,South
+100686,"December 20, 2025",Grace Lester,Electronics,Smart Watch,6.0,249.99,1499.94,east
+100957,"aug 01, 2025",, Office Supplies ,Gel Pens (Pack of 10),6.0,12.5,75.0,South
+100189,14/03/2026,Cheryl Harrington,Electronics,Laptop,11.0,1199.99,13199.89,WEST
+100975,"feb 18, 2026",Kristy Fitzgerald, Furniture ,Office Chair,10.0,,,WEST
+100699,2025-11-01,Anthony Boyle,Electronics,Wireless Headphones,11.0,149.99,1649.89,East
+101499,03/05/2026,William White, Furniture ,Dining Table,5.0,450.0,2250.0,South
+100510,02/11/2025,Lori Little,Office Supplies,Notebook,13.0,4.99,64.87,E
+101082,"oct 15, 2025",Brittany Jones, Electronics ,Smart Watch,7.0,249.99,1749.93,North
+100474,,Caleb Phillips,Furniture,Sofa,1.0,799.99,799.99,N
+101584,"February 26, 2026",Tracey Martin,Furniture,Ergonomic Desk,15.0,299.99,4499.85,South
+100856,12/01/2026,Travis Hunter,electronics,Wireless Headphones,13.0,149.99,1949.8700000000001,NORTH
+100747,"November 26, 2025",Duane Cardenas, Furniture ,Dining Table,5.0,450.0,2250.0,South
+100252,30/04/2026,,Office Supplies,Gel Pens (Pack of 10),3.0,12.5,,N
+100021,01/10/2025,April Orr, Furniture ,Sofa,3.0,799.99,2399.9700000000003,West
+101337,2025-06-07,Jesus Humphrey Jr.,Office Supplies,Notebook,13.0,4.99,64.87,North
+100459,,Cassandra Wells,Office Supplies,File Organizer,4.0,24.99,99.96,North
+101184,09/07/2025,Nancy Ray,Furniture,Sofa,1.0,799.99,799.99,North
+100276,"May 15, 2026",Alec Tate,furniture,Ergonomic Desk,-2.0,299.99,-599.98,west
+100955,2026-02-16,Andrew Brown,Office Supplies,File Organizer,8.0,24.99,199.92,East
+101215,15/05/2026,Jeffrey Hudson,Office Supplies,File Organizer,12.0,24.99,299.88,west
+100385,"feb 21, 2026",,Electronics,Wireless Headphones,1.0,149.99,149.99,East
+100805,27/02/2026,Sandra Rice,office supplies,File Organizer,9.0,24.99,224.91,North
+101437,"March 04, 2026",Colton Dunn,Office Supplies,File Organizer,9.0,,,WEST
+101515,2026-01-11,Mark Berry,furniture,Dining Table,13.0,450.0,5850.0,north
+100343,2025-09-27,Nicole Campbell,Office Supplies,Gel Pens (Pack of 10),,12.5,,West
+100769,"jun 06, 2025",Katie White,Office Supplies,Gel Pens (Pack of 10),2.0,12.5,25.0,E
+101332,2026-01-13,Nancy Miller,Office Supplies,Notebook,7.0,4.99,34.93,North
+100130,27/10/2025,Ricardo Rivera,Furniture,Dining Table,12.0,450.0,5400.0,South
+100871,13/08/2025,Denise Payne,electronics,Laptop,7.0,1199.99,8399.93,NORTH
+101123,"may 03, 2026",Anne Wright, Electronics ,Smart Watch,2.0,249.99,499.98,North
+101396,"mar 11, 2026",John Allen,Furniture,Ergonomic Desk,11.0,299.99,3299.8900000000003,East
+100087,02/06/2025,Wendy Thomas,Furniture,Dining Table,3.0,450.0,1350.0,East
+101482,2026-03-17,Emily Mcneil,Electronics,Laptop,3.0,1199.99,4139.9655,EAST
+100330,,,Furniture,Sofa,8.0,799.99,6399.92,south
+101238,2025-07-13,Danielle Johnson, Furniture ,Office Chair,14.0,189.99,2659.86,East
+100466,,Jared Carlson, Furniture ,Office Chair,8.0,189.99,1519.92,North
+100121,"apr 18, 2026",Patrick Lindsey, Electronics ,Wireless Headphones,-5.0,149.99,-749.95,West
+100380,"jul 11, 2025",Rachel Ellis,Furniture,Office Chair,6.0,189.99,1139.94,East
+101044,"August 29, 2025",Jason Smith,Furniture,Sofa,4.0,799.99,3199.96,south
+101095,"December 25, 2025",Amanda Thomas,Electronics,Laptop,-1.0,1199.99,-1199.99,East
+101130,"February 05, 2026",Michael Jensen,furniture,Dining Table,8.0,450.0,3600.0,NORTH
+101294,"July 25, 2025",Joseph Poole,Office Supplies,File Organizer,6.0,24.99,149.94,E
+100860,06/12/2025,Sean Johnson,Electronics,Wireless Headphones,15.0,149.99,2249.8500000000004,East
+101459,23/10/2025,Kelli Mckinney,Furniture,Dining Table,15.0,450.0,6750.0,South
+101126,2026-01-31,Phillip Marshall, Office Supplies ,Notebook,10.0,4.99,49.900000000000006,East
